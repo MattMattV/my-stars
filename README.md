@@ -40,6 +40,7 @@
 
 ## C++
 
+* [NodeRT](https://github.com/NodeRT/NodeRT) - Winrt APIs-node.js modules generator
 * [GameLad](https://github.com/Dooskington/GameLad) - An (almost) fully featured Game Boy emulator.
 * [Revive](https://github.com/LibreVR/Revive) - Play Oculus exclusive games on the HTC Vive, scroll down for downloads and installation instructions. Please forward all donations to the EFF.
 * [tinyrenderer](https://github.com/ssloy/tinyrenderer) - Support c++ code for a short computer graphics course
@@ -68,6 +69,8 @@
 
 ## Go
 
+* [hget](https://github.com/huydx/hget) - rocket fast, interruptable, resumable download accelerator written in golang
+* [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 * [pip-go](https://github.com/JamesMilnerUK/pip-go) - Point in polygon implemented in Go
 * [pxl](https://github.com/ichinaski/pxl) - Display images in the terminal
 * [horcrux](https://github.com/muthu-r/horcrux) - On Demand, Version controlled access to Data for your Docker containers
@@ -88,6 +91,7 @@
 
 ## HTML
 
+* [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations
 * [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
 * [dijkstras-algorithm](https://github.com/kdrakon/dijkstras-algorithm) - Scala and ScalaJS implementation of the famous algorithm
 * [Pastejacking](https://github.com/dxa4481/Pastejacking) - A demo of overriding what's in a person's clipboard
@@ -96,7 +100,6 @@
 * [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
 * [Bootstrap-Offcanvas](https://github.com/iamphill/Bootstrap-Offcanvas) - :zap: Offcanvas menu built with Bootstrap
 * [polymer-element-catalog](https://github.com/Polymer/polymer-element-catalog) - A catalog of Polymer-based web components built by the Polymer team
-* [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A Chrome extension to improve TweetDeck with a lot of features
 * [node_arm](https://github.com/nathanjohnson320/node_arm) - Install node.js on a raspberry pi in two easy steps
 
 ## Haskell
@@ -116,9 +119,16 @@
 
 ## JavaScript
 
+* [angular-downloader](https://github.com/720kb/angular-downloader) - Angular Downloader is an angularjs directive that enables you to manage browser download - https://720kb.github.io/angular-downloader
+* [terrain](https://github.com/mewo2/terrain) - Fantasy map generator
+* [rambox](https://github.com/saenzramiro/rambox) - Free and Open Source messaging and emailing app that combines common web applications into one.
+* [doiuse](https://github.com/anandthakker/doiuse) - :bomb: Lint CSS for browser support against caniuse database.
+* [slapp](https://github.com/BeepBoopHQ/slapp) - A node.js module for Slack App integrations
+* [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json or bower.json allows
+* [angular-modal-service](https://github.com/dwmkerr/angular-modal-service) - Modal service for AngularJS - supports creating popups and modals via a service.
 * [ng-inspector](https://github.com/rev087/ng-inspector) - The AngularJS inspector pane for your browser
 * [pay-with-a-star](https://github.com/siddharthkp/pay-with-a-star) - Get paid in :star:s for your open source work
-* [github-widget](https://github.com/surbhioberoi/github-widget) - A widget showing your github details that you can easily embed in your portfolio website.
+* [github-widget](https://github.com/surbhioberoi/github-widget) - A widget showing your github details that you can embed in any website.
 * [ocr](https://github.com/mateogianolio/ocr) - Trains a multi-layer perceptron (MLP) neural network to perform optical character recognition (OCR).
 * [thegreatsuspender](https://github.com/deanoemcke/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
@@ -141,6 +151,7 @@
 * [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor on your browser
 * [cv-maker](https://github.com/awalGarg/cv-maker) - simple elegant markdown based resumes
 * [git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
+* [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A Chrome extension to improve TweetDeck with a lot of features
 * [material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 * [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 * [labella.js](https://github.com/twitter/labella.js) - Placing labels on a timeline without overlap.
@@ -189,6 +200,7 @@
 
 ## Ruby
 
+* [Xaddress](https://github.com/roberdam/Xaddress) - Xaddress - Give 7 billion people an instant physical address
 * [devdocs](https://github.com/Thibaut/devdocs) - API Documentation Browser
 * [cronviz](https://github.com/federatedmedia/cronviz) - A crontab visualizer
 
@@ -198,6 +210,7 @@
 
 ## Shell
 
+* [go-fast](https://github.com/kovetskiy/go-fast) - Compile Go programs 7x faster
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 * [docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
 * [testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption
@@ -212,6 +225,7 @@
 
 ## TypeScript
 
+* [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 * [vscode-go](https://github.com/Microsoft/vscode-go) - An extension for VS Code which provides support for the Go language.
 * [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 

@@ -91,6 +91,7 @@
 
 ## HTML
 
+* [angular-datepicker](https://github.com/720kb/angular-datepicker) - Angularjs datepicker module, generate a datepicker on your input element -  https://720kb.github.io/angular-datepicker
 * [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations
 * [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
 * [dijkstras-algorithm](https://github.com/kdrakon/dijkstras-algorithm) - Scala and ScalaJS implementation of the famous algorithm
@@ -98,7 +99,6 @@
 * [min](https://github.com/minbrowser/min) - A smarter, faster web browser
 * [Insanity](https://github.com/jirislav/Insanity) - Insanity is an opensource project under MIT license. Visit
 * [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
-* [Bootstrap-Offcanvas](https://github.com/iamphill/Bootstrap-Offcanvas) - :zap: Offcanvas menu built with Bootstrap
 * [polymer-element-catalog](https://github.com/Polymer/polymer-element-catalog) - A catalog of Polymer-based web components built by the Polymer team
 * [node_arm](https://github.com/nathanjohnson320/node_arm) - Install node.js on a raspberry pi in two easy steps
 
@@ -119,6 +119,10 @@
 
 ## JavaScript
 
+* [regl-cnn](https://github.com/Erkaman/regl-cnn) - Digit recognition with Convolutional Neural Networks in WebGL
+* [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+* [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
+* [StoryBranch](https://github.com/StoryBranch/StoryBranch) - an interactive story writing experience!
 * [angular-downloader](https://github.com/720kb/angular-downloader) - Angular Downloader is an angularjs directive that enables you to manage browser download - https://720kb.github.io/angular-downloader
 * [terrain](https://github.com/mewo2/terrain) - Fantasy map generator
 * [rambox](https://github.com/saenzramiro/rambox) - Free and Open Source messaging and emailing app that combines common web applications into one.
@@ -149,6 +153,7 @@
 * [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps
 * [jquery-drilldown](https://github.com/Cinamonas/jquery-drilldown) - A simple jQuery plugin for creating animated drilldown menus
 * [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor on your browser
+* [Bootstrap-Offcanvas](https://github.com/iamphill/Bootstrap-Offcanvas) - :zap: Offcanvas menu built with Bootstrap
 * [cv-maker](https://github.com/awalGarg/cv-maker) - simple elegant markdown based resumes
 * [git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
 * [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A Chrome extension to improve TweetDeck with a lot of features
@@ -177,6 +182,7 @@
 
 ## Python
 
+* [country-codes](https://github.com/datasets/country-codes) - Comprehensive country code information, including ISO 3166 codes, ITU dialing codes, ISO 4217 currency codes, and many others
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [sc-controller](https://github.com/kozec/sc-controller) - User-mode driver and GTK3 based GUI for Steam Controller
 * [AntiRansom](https://github.com/YJesus/AntiRansom) - Fighting against ransomware using honeypots

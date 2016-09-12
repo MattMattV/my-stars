@@ -33,6 +33,8 @@
 
 ## C
 
+* [xrectsel](https://github.com/lolilolicon/xrectsel) - print the geometry of a rectangular screen region
+* [tmux](https://github.com/tmux/tmux) - tmux source code
 * [SimpleRT](https://github.com/vvviperrr/SimpleRT) - Simple Reverse Tethering for Android
 * [u2f-zero](https://github.com/conorpp/u2f-zero) - U2F USB token optimized for physical security, affordability, and style
 * [netdata](https://github.com/firehol/netdata) - Real-time performance monitoring, done right!
@@ -49,13 +51,14 @@
 
 ## CSS
 
+* [iconizr](https://github.com/jkphl/iconizr) - A PHP command line tool for converting SVG images to a set of CSS icons (SVG & PNG, single icons and / or CSS sprites) with support for image optimization and Sass output. Created by Joschi Kuphal (@jkphl), licensed under the terms of the MIT license
+* [txt.wav](https://github.com/still-life-studio/txt.wav) - some weird text animations the internet deserves
+* [HTML-Sheets-of-Paper](https://github.com/delight-im/HTML-Sheets-of-Paper) - Word processor in your browser using HTML and CSS (for invoices, legal notices, etc.)
 * [SmartMirror](https://github.com/Shinao/SmartMirror) - Motion controlled SmartMirror
-* [material-kit](https://github.com/timcreative/material-kit) - A Badass Bootstrap UI Kit based on Material Design
+* [material-kit](https://github.com/timcreative/material-kit) - Free Bootstrap Material Design UI Kit
 * [easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
 * [Pressure2](https://github.com/DirtDiglett/Pressure2) - Pressure² - a beautiful theme for your Steam Client.
-* [jQuery.mmenu](https://github.com/FrDH/jQuery.mmenu) - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.
 * [hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
-* [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [goreportcard](https://github.com/gojp/goreportcard) - A report card for your Go application
 * [Pressure-for-Steam](https://github.com/DirtDiglett/Pressure-for-Steam) - A skin to improve the visual aesthetics of Steam
 
@@ -65,10 +68,15 @@
 
 ## CoffeeScript
 
+* [coffeelint](https://github.com/clutchski/coffeelint) - Lint your CoffeeScript.
 * [js2coffee](https://github.com/js2coffee/js2coffee) - Compile JavaScript to CoffeeScript
 
 ## Go
 
+* [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
+* [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+* [pt](https://github.com/fogleman/pt) - A path tracer written in Go.
+* [butler](https://github.com/itchio/butler) - :tophat: Command-line itch.io helper
 * [hget](https://github.com/huydx/hget) - rocket fast, interruptable, resumable download accelerator written in golang
 * [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 * [pip-go](https://github.com/JamesMilnerUK/pip-go) - Point in polygon implemented in Go
@@ -91,6 +99,7 @@
 
 ## HTML
 
+* [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 * [angular-datepicker](https://github.com/720kb/angular-datepicker) - Angularjs datepicker module, generate a datepicker on your input element -  https://720kb.github.io/angular-datepicker
 * [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations
 * [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
@@ -119,10 +128,17 @@
 
 ## JavaScript
 
+* [docker-swarm-visualizer](https://github.com/ManoMarks/docker-swarm-visualizer) - A visualizer for Docker Swarm using the Docker Remote API, Node.JS, and D3
+* [electron-chrome](https://github.com/koush/electron-chrome) - 
+* [template-colors](https://github.com/icodeforlove/template-colors) - :art: beautiful color usage within template literals
+* [svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
+* [etcher](https://github.com/resin-io/etcher) - An image burner with support for Windows, OS X and GNU/Linux.
+* [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
+* [express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Express.js apps, inspired by status.github.com
 * [regl-cnn](https://github.com/Erkaman/regl-cnn) - Digit recognition with Convolutional Neural Networks in WebGL
 * [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 * [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
-* [StoryBranch](https://github.com/StoryBranch/StoryBranch) - an interactive story writing experience!
+* [StoryBranch](https://github.com/WyattHRichter/StoryBranch) - an interactive story writing experience! maintained by https://github.com/wyatthrichter
 * [angular-downloader](https://github.com/720kb/angular-downloader) - Angular Downloader is an angularjs directive that enables you to manage browser download - https://720kb.github.io/angular-downloader
 * [terrain](https://github.com/mewo2/terrain) - Fantasy map generator
 * [rambox](https://github.com/saenzramiro/rambox) - Free and Open Source messaging and emailing app that combines common web applications into one.
@@ -133,7 +149,7 @@
 * [ng-inspector](https://github.com/rev087/ng-inspector) - The AngularJS inspector pane for your browser
 * [pay-with-a-star](https://github.com/siddharthkp/pay-with-a-star) - Get paid in :star:s for your open source work
 * [github-widget](https://github.com/surbhioberoi/github-widget) - A widget showing your github details that you can embed in any website.
-* [ocr](https://github.com/mateogianolio/ocr) - Trains a multi-layer perceptron (MLP) neural network to perform optical character recognition (OCR).
+* [ocr](https://github.com/mateogianolio/ocr) - Neural network OCR.
 * [thegreatsuspender](https://github.com/deanoemcke/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 * [razzmaster](https://github.com/joshmarinacci/razzmaster) - Find and set up new Raspberry Pis on your network
@@ -153,10 +169,12 @@
 * [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps
 * [jquery-drilldown](https://github.com/Cinamonas/jquery-drilldown) - A simple jQuery plugin for creating animated drilldown menus
 * [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor on your browser
+* [jQuery.mmenu](https://github.com/FrDH/jQuery.mmenu) - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.
 * [Bootstrap-Offcanvas](https://github.com/iamphill/Bootstrap-Offcanvas) - :zap: Offcanvas menu built with Bootstrap
 * [cv-maker](https://github.com/awalGarg/cv-maker) - simple elegant markdown based resumes
 * [git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
 * [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A Chrome extension to improve TweetDeck with a lot of features
+* [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 * [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 * [labella.js](https://github.com/twitter/labella.js) - Placing labels on a timeline without overlap.
@@ -164,6 +182,8 @@
 
 ## Others
 
+* [sdmaid-public](https://github.com/d4rken/sdmaid-public) - SD Maid is an Android app that helps you manage files and apps.
+* [browser-logos](https://github.com/alrra/browser-logos) - :file_folder: High resolution web browser logos
 * [free-programming-books](https://github.com/vhf/free-programming-books) - :books: Freely available programming books
 * [5minutes](https://github.com/chhantyal/5minutes) - First 5 minutes on new servers. Secure your servers with single command - Ansible playbook
 * [One-Click-to-Be-Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - A list of the best resources to help you become a pro
@@ -175,6 +195,7 @@
 
 ## PHP
 
+* [composer](https://github.com/composer/composer) - Dependency Manager for PHP
 * [kirby-imagekit](https://github.com/fabianmichael/kirby-imagekit) - An asynchronous thumbnail API for Kirby CMS.
 * [TARDIStart](https://github.com/Jedediah04/TARDIStart) - Une start page pour votre serveur dédié.
 * [php-gif](https://github.com/ErikvdVen/php-gif) - Easy generating (real-time) GIF images with PHP
@@ -182,6 +203,7 @@
 
 ## Python
 
+* [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
 * [country-codes](https://github.com/datasets/country-codes) - Comprehensive country code information, including ISO 3166 codes, ITU dialing codes, ISO 4217 currency codes, and many others
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [sc-controller](https://github.com/kozec/sc-controller) - User-mode driver and GTK3 based GUI for Steam Controller
@@ -216,6 +238,7 @@
 
 ## Shell
 
+* [one-second-dash](https://github.com/ridiculousfish/one-second-dash) - Gently redirecting the Dash button through monitor mode
 * [go-fast](https://github.com/kovetskiy/go-fast) - Compile Go programs 7x faster
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 * [docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.

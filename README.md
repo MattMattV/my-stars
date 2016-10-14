@@ -21,6 +21,7 @@
     - [JavaScript](#javascript)
     - [Others](#others)
     - [PHP](#php)
+    - [PureScript](#purescript)
     - [Python](#python)
     - [QML](#qml)
     - [Ruby](#ruby)
@@ -49,12 +50,13 @@
 
 ## C#
 
+* [P](https://github.com/p-org/P) - The P programming language
 * [anne-keyboard-windows](https://github.com/kprinssu/anne-keyboard-windows) - A Universal Windows App for controlling the Anne Pro Bluetooth enabled keyboard.
 * [KeyboordUsage](https://github.com/kbilsted/KeyboordUsage) - A keyboard statistics logger that respects your privacy and is configurable to any keyboard in any language
 
 ## C++
 
-* [Mutate](https://github.com/qdore/Mutate) - A simple launcher inspired by Alfred for ubuntu and Fedora.
+* [cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer) - Experimental CUDA voxelizer, to convert polygon meshes to annotated voxel grids.
 * [NodeRT](https://github.com/NodeRT/NodeRT) - Winrt APIs-node.js modules generator
 * [GameLad](https://github.com/Dooskington/GameLad) - An (almost) fully featured Game Boy emulator.
 * [Revive](https://github.com/LibreVR/Revive) - Play Oculus-exclusive games on the HTC Vive, scroll down for downloads and installation instructions. Please forward all donations to the EFF.
@@ -64,6 +66,7 @@
 
 ## CSS
 
+* [kissui.sticky](https://github.com/usablica/kissui.sticky) - Simple and lightweight sticky position that works everywhere
 * [freja-sphinx](https://github.com/dmitriid/freja-sphinx) - A simple and clean theme for Sphinx document generator
 * [iconizr](https://github.com/jkphl/iconizr) - A PHP command line tool for converting SVG images to a set of CSS icons (SVG & PNG, single icons and / or CSS sprites) with support for image optimization and Sass output. Created by Joschi Kuphal (@jkphl), licensed under the terms of the MIT license
 * [txt.wav](https://github.com/still-life-studio/txt.wav) - some weird text animations the internet deserves
@@ -77,7 +80,7 @@
 
 ## Clojure
 
-* [klipse](https://github.com/viebel/klipse) - A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme
+* [Nightlight](https://github.com/oakes/Nightlight) - An embedded editor for Clojure
 * [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 
 ## CoffeeScript
@@ -88,6 +91,8 @@
 
 ## Go
 
+* [hugo](https://github.com/spf13/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang
+* [esh](https://github.com/gurinderhans/esh) - esh - easy SSH, interact with your SSH server from your local bash
 * [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
 * [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 * [pt](https://github.com/fogleman/pt) - A path tracer written in Go.
@@ -114,6 +119,8 @@
 
 ## HTML
 
+* [codecontext](https://github.com/davkap92/codecontext) - An attempt to explain and group the world of software contextually
+* [10ktower](https://github.com/webrender/10ktower) - Tower Sim & Entry for 10k Apart 2016
 * [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 * [angular-datepicker](https://github.com/720kb/angular-datepicker) - Angularjs datepicker module, generate a datepicker on your input element -  https://720kb.github.io/angular-datepicker
 * [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations
@@ -128,6 +135,7 @@
 
 ## Haskell
 
+* [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 * [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Java
@@ -137,13 +145,21 @@
 * [routerkeygenAndroid](https://github.com/yolosec/routerkeygenAndroid) - Router Keygen generate default WPA/WEP keys for several routers.
 * [movsim](https://github.com/movsim/movsim) - MovSim: multi-model open-source vehicular-traffic simulator
 * [mintube](https://github.com/imshyam/mintube) - Minimized / Floating YouTube for Android
-* [tikione-steam-cleaner](https://github.com/jonathanlermitage/tikione-steam-cleaner) - Steam games redistributable packages finder and remover. Available in 10 languages.
+* [tikione-steam-cleaner](https://github.com/jonathanlermitage/tikione-steam-cleaner) - Steam games redistributable packages finder and remover. Available in 11 languages.
 * [faker](https://github.com/blocoio/faker) - A Java port of the Faker ruby gem: https://github.com/stympy/faker/
 * [AndroidAsync](https://github.com/koush/AndroidAsync) - Asynchronous socket, http (client+server), websocket, and socket.io library for android. Based on nio, not threads.
 * [steam-condenser-java](https://github.com/koraktor/steam-condenser-java) - A library for querying the Steam Community, Source, GoldSrc servers and Steam master servers
 
 ## JavaScript
 
+* [uBlock](https://github.com/chrisaljoudi/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
+* [nodejs-dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal!
+* [PresentationIvan](https://github.com/Ivanca/PresentationIvan) - 
+* [hotel](https://github.com/typicode/hotel) - :hotel: Start apps from your browser and get local dev domains for free
+* [perfBar](https://github.com/WPOTools/perfBar) - 
+* [css_browser_selector](https://github.com/rafaelp/css_browser_selector) - A very small javascript library that allows you to create browser specific CSS to be merged into your normal classes. No more hacks or mischievous code in your CSS code.
+* [gaia-tools](https://github.com/flimshaw/gaia-tools) - Some scripts I use to process data from the Gaia satellite
+* [bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers
 * [canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge
 * [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 * [odoo](https://github.com/coderitual/odoo) - :zap: SVG odometer effect with motion blur
@@ -153,11 +169,12 @@
 * [debugger.html](https://github.com/devtools-html/debugger.html) - The Firefox debugger that works anywhere
 * [miaou](https://github.com/Canop/miaou) - A chat server with OAuth2 authentication, persistent and searchable history, video and audio, markdown formatting, private and public rooms, stars, votes, embedded games, and many other features
 * [mockbin](https://github.com/Mashape/mockbin) - Mock, Test & Track HTTP Requests and Responses.
+* [klipse](https://github.com/viebel/klipse) - A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme
 * [docker-swarm-visualizer](https://github.com/ManoMarks/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 * [electron-chrome](https://github.com/koush/electron-chrome) - 
 * [template-colors](https://github.com/icodeforlove/template-colors) - :art: beautiful color usage within template literals
 * [svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
-* [etcher](https://github.com/resin-io/etcher) - An image burner with support for Windows, OS X and GNU/Linux.
+* [etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safe & easy.
 * [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
 * [express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Express.js apps, inspired by status.github.com
 * [regl-cnn](https://github.com/Erkaman/regl-cnn) - Digit recognition with Convolutional Neural Networks in WebGL
@@ -170,6 +187,7 @@
 * [doiuse](https://github.com/anandthakker/doiuse) - :bomb: Lint CSS for browser support against caniuse database.
 * [slapp](https://github.com/BeepBoopHQ/slapp) - A node.js module for Slack App integrations
 * [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json or bower.json allows
+* [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 * [angular-modal-service](https://github.com/dwmkerr/angular-modal-service) - Modal service for AngularJS - supports creating popups and modals via a service.
 * [SmartMirror](https://github.com/Shinao/SmartMirror) - Motion controlled SmartMirror
 * [ng-inspector](https://github.com/rev087/ng-inspector) - The AngularJS inspector pane for your browser
@@ -208,6 +226,9 @@
 
 ## Others
 
+* [BashOnWindows](https://github.com/Microsoft/BashOnWindows) - Issues found within and using Bash on Ubuntu on Windows
+* [betterdefaultpasslist](https://github.com/govolution/betterdefaultpasslist) - 
+* [glean](https://github.com/benwr/glean) - A tiny bitmap font for programming
 * [NorthKoreaDNSLeak](https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak) - Snapshot of North Korea's DNS data taken from zone transfers.
 * [awesome-webtorrent-clones](https://github.com/DiegoRBaquero/awesome-webtorrent-clones) - 👥 Product clones using WebTorrent/WebRTC
 * [email-bugs](https://github.com/hteumeuleu/email-bugs) - Email quirks and bugs
@@ -225,6 +246,8 @@
 
 ## PHP
 
+* [bm-FollowFriday](https://github.com/blogmotion/bm-FollowFriday) - Interface pour le #FF Twitter
+* [IsoCodes](https://github.com/ronanguilloux/IsoCodes) - PHP library - Validators for standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries
 * [storageless](https://github.com/psr7-sessions/storageless) - :mailbox_with_mail: storage-less PSR-7 session support
 * [guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 * [composer](https://github.com/composer/composer) - Dependency Manager for PHP
@@ -233,10 +256,17 @@
 * [php-gif](https://github.com/ErikvdVen/php-gif) - Easy generating (real-time) GIF images with PHP
 * [YOURLS](https://github.com/YOURLS/YOURLS) - Your Own URL Shortener.
 
+## PureScript
+
+* [neodoc](https://github.com/felixSchl/neodoc) - Beautiful, hand-crafted commandline interfaces for node.js
+
 ## Python
 
+* [sysconf](https://github.com/giampaolo/sysconf) - 
+* [ding](https://github.com/liviu-/ding) - Lightweight time management CLI tool
+* [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 * [spotify-playlist-downloader](https://github.com/ashishmadeti/spotify-playlist-downloader) - Download spotify playlists using youtube-dl
-* [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - A Google Chromium variant for removing Google integration and enhancing privacy, control, and transparency
+* [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Modifications to Google Chromium for removing Google integration and enhancing privacy, control, and transparency
 * [runmultithread](https://github.com/juanpabloaj/runmultithread) - Run the same process with different inputs in different threads
 * [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
 * [country-codes](https://github.com/datasets/country-codes) - Comprehensive country code information, including ISO 3166 codes, ITU dialing codes, ISO 4217 currency codes, and many others
@@ -262,6 +292,7 @@
 
 ## Ruby
 
+* [mlooper](https://github.com/beweinreich/mlooper) - 
 * [Xaddress](https://github.com/roberdam/Xaddress) - Xaddress - Give 7 billion people an instant physical address
 * [devdocs](https://github.com/Thibaut/devdocs) - API Documentation Browser
 * [cronviz](https://github.com/federatedmedia/cronviz) - A crontab visualizer
@@ -272,6 +303,9 @@
 
 ## Shell
 
+* [n](https://github.com/tj/n) - Node version management
+* [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+* [bm-RaspberryPi](https://github.com/blogmotion/bm-RaspberryPi) - 
 * [android-prepare-vendor](https://github.com/anestisb/android-prepare-vendor) - Set of scripts to automate AOSP compatible vendor blobs generation from factory images
 * [one-second-dash](https://github.com/ridiculousfish/one-second-dash) - Gently redirecting the Dash button through monitor mode
 * [go-fast](https://github.com/kovetskiy/go-fast) - Compile Go programs 7x faster
@@ -290,7 +324,6 @@
 ## TypeScript
 
 * [visualizer](https://github.com/ui-router/visualizer) - UI-Router state visualizer and transition visualizer
-* [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 * [vscode-go](https://github.com/Microsoft/vscode-go) - An extension for VS Code which provides support for the Go language.
 * [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 

@@ -50,7 +50,7 @@
 
 ## C 
 
-- [no-more-secrets](https://github.com/bartobri/no-more-secrets) - A tool set to recreate the famous "decrypting text" effect as seen in the 1992 movie Sneakers.
+- [no-more-secrets](https://github.com/bartobri/no-more-secrets) - A recreation of the famous "decrypting text" effect as seen in the 1992 movie Sneakers.
 - [xrectsel](https://github.com/lolilolicon/xrectsel) - print the geometry of a rectangular screen region
 - [tmux](https://github.com/tmux/tmux) - tmux source code
 - [SimpleRT](https://github.com/vvviperrr/SimpleRT) - Simple Reverse Tethering for Android
@@ -69,6 +69,7 @@
 
 ## C++ 
 
+- [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [imgui](https://github.com/ocornut/imgui) - Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
 - [fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
@@ -178,6 +179,7 @@
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 - [AndroidN-ify](https://github.com/wasdennnoch/AndroidN-ify) - Use features introduced in Android N on your LP+ Device!
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
+- [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development
 - [material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
 - [malmo](https://github.com/Microsoft/malmo) - Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to *Getting Started* below, or visit the project page for more information:
 - [routerkeygenAndroid](https://github.com/yolosec/routerkeygenAndroid) - Router Keygen generate default WPA/WEP keys for several routers.
@@ -190,6 +192,9 @@
 
 ## JavaScript 
 
+- [chrome-page-graph](https://github.com/cyrus-and/chrome-page-graph) - Chrome extension to generate interactive page dependency graphs
+- [angular-eonasdan-datetimepicker](https://github.com/atais/angular-eonasdan-datetimepicker) - A wrapper directive around the Eonasdan Datepicker v4 component.
+- [inferno](https://github.com/trueadm/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces
 - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [--shots](https://github.com/binjospookie/--shots) - An application for creating screenshots. Available for LInux, MacOS, WIndows
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data
@@ -310,7 +315,6 @@
 - [NorthKoreaDNSLeak](https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak) - Snapshot of North Korea's DNS data taken from zone transfers.
 - [awesome-webtorrent-clones](https://github.com/DiegoRBaquero/awesome-webtorrent-clones) - 👥 Product clones using WebTorrent/WebRTC
 - [email-bugs](https://github.com/hteumeuleu/email-bugs) - Email quirks and bugs
-- [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development
 - [sdmaid-public](https://github.com/d4rken/sdmaid-public) - SD Maid is an Android app that helps you manage files and apps.
 - [browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
 - [free-programming-books](https://github.com/vhf/free-programming-books) - :books: Freely available programming books
@@ -396,6 +400,7 @@
 
 ## Shell 
 
+- [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments.
 - [OpenVPN-install](https://github.com/Angristan/OpenVPN-install) - Improved OpenVPN installer for Debian, Ubuntu, CentOS and Arch Linux
 - [armhf](https://github.com/umiddelb/armhf) - interesting stuff about arm devices (Utilite, SolidRun, Odroid)
 - [curl-tap-sh](https://github.com/awalGarg/curl-tap-sh) - tap curl in your editor before it gets to sh it
@@ -422,6 +427,7 @@
 
 ## TypeScript 
 
+- [ionic-app](https://github.com/LiveBoats/ionic-app) - Our app with Ionic 2 support :)
 - [alduin](https://github.com/Xstoudi/alduin) - An RSS and Atom feed aggregator available on Windows and Linux.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [clarity](https://github.com/vmware/clarity) - Clarity Design System: UX guidelines, HTML/CSS framework, and Angular 2 components working together to craft exceptional experiences

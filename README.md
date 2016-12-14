@@ -38,7 +38,7 @@
 
 ## Assembly 
 
-- [hello-world](https://github.com/leachim6/hello-world) - Hello world in every programming language.  Thanks to everyone who contributes to this, I read all pull requests!
+- [hello-world](https://github.com/leachim6/hello-world) - Hello world in every programming language.  Thanks to everyone who contributes to this, I am currently working on reviewing and merging pull request (12/10/2016) thanks for your patience!
 
 ## AutoIt 
 
@@ -50,12 +50,13 @@
 
 ## C 
 
+- [qmk_firmware](https://github.com/jackhumbert/qmk_firmware) - keyboard controller firmware for Atmel AVR USB family
 - [no-more-secrets](https://github.com/bartobri/no-more-secrets) - A recreation of the famous "decrypting text" effect as seen in the 1992 movie Sneakers.
 - [xrectsel](https://github.com/lolilolicon/xrectsel) - print the geometry of a rectangular screen region
 - [tmux](https://github.com/tmux/tmux) - tmux source code
 - [SimpleRT](https://github.com/vvviperrr/SimpleRT) - Simple Reverse Tethering for Android
 - [u2f-zero](https://github.com/conorpp/u2f-zero) - U2F USB token optimized for physical security, affordability, and style
-- [netdata](https://github.com/firehol/netdata) - Real-time performance monitoring, done right!
+- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 
 ## C# # 
@@ -83,6 +84,7 @@
 
 ## CSS 
 
+- [angular-progress-button-styles](https://github.com/akveo/angular-progress-button-styles) - AngularJS version of codrops progress buttons for the use with promises
 - [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [nginx-php-fpm](https://github.com/ngineered/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
 - [cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
@@ -192,6 +194,10 @@
 
 ## JavaScript 
 
+- [angular-recaptcha](https://github.com/VividCortex/angular-recaptcha) - Angular directive to add a reCaptcha widget to your form
+- [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
+- [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
+- [browsix](https://github.com/plasma-umass/browsix) - Browsix is a Unix-like operating system for the browser.
 - [chrome-page-graph](https://github.com/cyrus-and/chrome-page-graph) - Chrome extension to generate interactive page dependency graphs
 - [angular-eonasdan-datetimepicker](https://github.com/atais/angular-eonasdan-datetimepicker) - A wrapper directive around the Eonasdan Datepicker v4 component.
 - [inferno](https://github.com/trueadm/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces
@@ -300,10 +306,11 @@
 ## Objective-C 
 
 - [Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets
-- [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) - 📡 Native App over HTTP
+- [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) - 📡 Native App over HTTP, on iOS
 
 ## Others 
 
+- [dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [docker-alpine-php-fpm7](https://github.com/naerymdan/docker-alpine-php-fpm7) - Slim Docker image based on Alpine for php-fpm7
@@ -328,6 +335,7 @@
 
 ## PHP 
 
+- [grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - Integrate Keeweb into Nextcloud
 - [paratest](https://github.com/brianium/paratest) - Parallel testing for PHPUnit
 - [webhook.site](https://github.com/fredsted/webhook.site) - A site for testing webhooks
@@ -348,6 +356,8 @@
 
 ## Python 
 
+- [spotify-local-http-api](https://github.com/cgbystrom/spotify-local-http-api) - Simple client for local, built-in HTTP server in the Spotify player.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [poor-mans-data-pipeline](https://github.com/dangoldin/poor-mans-data-pipeline) - A minimal and serverless data pipeline
 - [Colorful-Image-Colorization](https://github.com/cameronfabbri/Colorful-Image-Colorization) - A deep learning approach to colorizing images
 - [mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server that plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. You edit the playlist from any phone, tablet, or computer using a range of MPD and web clients.
@@ -427,6 +437,7 @@
 
 ## TypeScript 
 
+- [lyricfier](https://github.com/emilioastarita/lyricfier) - a Spotify Lyrics alternative app
 - [ionic-app](https://github.com/LiveBoats/ionic-app) - Our app with Ionic 2 support :)
 - [alduin](https://github.com/Xstoudi/alduin) - An RSS and Atom feed aggregator available on Windows and Linux.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.

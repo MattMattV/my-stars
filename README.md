@@ -14,6 +14,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [Game Maker Language](#game maker language)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HTML](#html)
@@ -25,6 +26,7 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
+  - [Perl](#perl)
   - [PureScript](#purescript)
   - [Python](#python)
   - [QML](#qml)
@@ -50,6 +52,7 @@
 
 ## C 
 
+- [wine](https://github.com/wine-mirror/wine) - 
 - [qmk_firmware](https://github.com/jackhumbert/qmk_firmware) - keyboard controller firmware for Atmel AVR USB family
 - [no-more-secrets](https://github.com/bartobri/no-more-secrets) - A recreation of the famous "decrypting text" effect as seen in the 1992 movie Sneakers.
 - [xrectsel](https://github.com/lolilolicon/xrectsel) - print the geometry of a rectangular screen region
@@ -70,6 +73,7 @@
 
 ## C++ 
 
+- [ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
 - [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [imgui](https://github.com/ocornut/imgui) - Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
 - [fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
@@ -84,6 +88,7 @@
 
 ## CSS 
 
+- [MailDev](https://github.com/djfarrelly/MailDev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [angular-progress-button-styles](https://github.com/akveo/angular-progress-button-styles) - AngularJS version of codrops progress buttons for the use with promises
 - [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [nginx-php-fpm](https://github.com/ngineered/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
@@ -102,8 +107,8 @@
 
 ## Clojure 
 
+- [Arcadia](https://github.com/arcadia-unity/Arcadia) - Clojure in Unity
 - [Nightlight](https://github.com/oakes/Nightlight) - An embedded editor for Clojure
-- [klipse](https://github.com/viebel/klipse) - A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme
 - [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 
 ## CoffeeScript 
@@ -112,6 +117,10 @@
 - [coffeescript](https://github.com/jashkenas/coffeescript) - Unfancy JavaScript
 - [coffeelint](https://github.com/clutchski/coffeelint) - Lint your CoffeeScript.
 - [js2coffee](https://github.com/js2coffee/js2coffee) - Compile JavaScript to CoffeeScript
+
+## Game Maker Language 
+
+- [0x0D](https://github.com/Blokatt/0x0D) - A shoot-em-up made in 48 hours for the 20th gm(48) game jam.
 
 ## Go 
 
@@ -157,6 +166,7 @@
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [codecontext](https://github.com/davkap92/codecontext) - An attempt to explain and group the world of software contextually
 - [10ktower](https://github.com/webrender/10ktower) - Tower Sim & Entry for 10k Apart 2016
+- [klipse](https://github.com/viebel/klipse) - A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [angular-datepicker](https://github.com/720kb/angular-datepicker) - Angularjs datepicker module, generate a datepicker on your input element -  https://720kb.github.io/angular-datepicker
 - [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations
@@ -176,6 +186,8 @@
 
 ## Java 
 
+- [CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes (code-golf-golfing-obfuscated-signature-polyglot-amazing-interesting-strange-weird-mysterious-absurd-spooky-program-language)
+- [chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0) - CHVote 1.0 repository
 - [app](https://github.com/LiveBoats/app) - Display boat information in AR !
 - [cordova-plugin-camera-preview](https://github.com/westonganger/cordova-plugin-camera-preview) - Cordova plugin that allow camera interaction from HTML code
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
@@ -194,6 +206,10 @@
 
 ## JavaScript 
 
+- [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: Local git statistics including GitHub-like contributions calendars.
+- [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
+- [nhuman](https://github.com/meulta/nhuman) - 
+- [gulp](https://github.com/gulpjs/gulp) - The streaming build system
 - [angular-recaptcha](https://github.com/VividCortex/angular-recaptcha) - Angular directive to add a reCaptcha widget to your form
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
@@ -310,6 +326,7 @@
 
 ## Others 
 
+- [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
 - [dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
@@ -350,6 +367,10 @@
 - [php-gif](https://github.com/ErikvdVen/php-gif) - Easy generating (real-time) GIF images with PHP
 - [YOURLS](https://github.com/YOURLS/YOURLS) - Your Own URL Shortener.
 
+## Perl 
+
+- [cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+
 ## PureScript 
 
 - [neodoc](https://github.com/felixSchl/neodoc) - Beautiful, hand-crafted commandline interfaces for node.js
@@ -368,6 +389,7 @@
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Modifications to Google Chromium for removing Google integration and enhancing privacy, control, and transparency
 - [runmultithread](https://github.com/juanpabloaj/runmultithread) - Run the same process with different inputs in different threads
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+- [one-second-dash](https://github.com/ridiculousfish/one-second-dash) - Gently redirecting the Dash button through monitor mode
 - [country-codes](https://github.com/datasets/country-codes) - Comprehensive country code information, including ISO 3166 codes, ITU dialing codes, ISO 4217 currency codes, and many others
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [sc-controller](https://github.com/kozec/sc-controller) - User-mode driver and GTK3 based GUI for Steam Controller
@@ -420,7 +442,6 @@
 - [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [bm-RaspberryPi](https://github.com/blogmotion/bm-RaspberryPi) - 
 - [android-prepare-vendor](https://github.com/anestisb/android-prepare-vendor) - Set of scripts to automate AOSP compatible vendor blobs generation from factory images
-- [one-second-dash](https://github.com/ridiculousfish/one-second-dash) - Gently redirecting the Dash button through monitor mode
 - [go-fast](https://github.com/kovetskiy/go-fast) - Compile Go programs 7x faster
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.

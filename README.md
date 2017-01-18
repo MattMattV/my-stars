@@ -53,12 +53,18 @@
 
 ## C 
 
+- [Broadway](https://github.com/mbebenita/Broadway) - A JavaScript H.264 decoder.
+- [gtk3-docker](https://github.com/moondev/gtk3-docker) - Run native gtk3+ GUI applications inside a container via the browser
+- [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
+- [transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
+- [mongoose](https://github.com/cesanta/mongoose) - Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server,  MQTT client and broker and much more.
+- [robotgo](https://github.com/go-vgo/robotgo) - RobotGo,Go Native cross-platform system automation
 - [php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes (code-golf-golfing-obfuscated-signature-polyglot-amazing-interesting-strange-weird-mysterious-absurd-spooky-program-language)
 - [wine](https://github.com/wine-mirror/wine) - 
 - [qmk_firmware](https://github.com/jackhumbert/qmk_firmware) - keyboard controller firmware for Atmel AVR USB family
-- [no-more-secrets](https://github.com/bartobri/no-more-secrets) - A recreation of the famous "decrypting text" effect as seen in the 1992 movie Sneakers.
+- [no-more-secrets](https://github.com/bartobri/no-more-secrets) - A recreation of the famous data decryption effect as seen in the 1992 movie Sneakers.
 - [xrectsel](https://github.com/lolilolicon/xrectsel) - print the geometry of a rectangular screen region
 - [tmux](https://github.com/tmux/tmux) - tmux source code
 - [SimpleRT](https://github.com/vvviperrr/SimpleRT) - Simple Reverse Tethering for Android
@@ -68,6 +74,7 @@
 
 ## C# # 
 
+- [RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTorrent, Azureus, BitComet, ABC and etc.) and it will NOT download/upload the files on a torrent - it only can fake download/upload. RatioMaster.NET has hardcoded emulations for the most commonly used BitTorrent clients: uTorrent, BitComet, Azureus, ABC, BitLord, BTuga, BitTornado, Burst, BitTyrant, BitSpirit.
 - [UWPHook](https://github.com/BrianLima/UWPHook) - Small project to link UWP games to Steam
 - [Overlay.NET](https://github.com/lolp1/Overlay.NET) - An easy-to-use overlay library written in C#
 - [AudioSwitch](https://github.com/sirWest/AudioSwitch) - Switch between default audio input or output + change volume
@@ -95,6 +102,7 @@
 
 ## CSS 
 
+- [arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
 - [certdepot](https://github.com/dimastopel/certdepot) - Create your self-signed SSL certificate instantly and for free
 - [MailDev](https://github.com/djfarrelly/MailDev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
@@ -107,7 +115,7 @@
 - [iconizr](https://github.com/jkphl/iconizr) - A PHP command line tool for converting SVG images to a set of CSS icons (SVG & PNG, single icons and / or CSS sprites) with support for image optimization and Sass output. Created by Joschi Kuphal (@jkphl), licensed under the terms of the MIT license
 - [txt.wav](https://github.com/still-life-studio/txt.wav) - some weird text animations the internet deserves
 - [HTML-Sheets-of-Paper](https://github.com/delight-im/HTML-Sheets-of-Paper) - Word processor in your browser using HTML and CSS (for invoices, legal notices, etc.)
-- [material-kit](https://github.com/timcreative/material-kit) - Free Bootstrap Material Design UI Kit
+- [material-kit](https://github.com/creativetimofficial/material-kit) - Free Bootstrap Material Design UI Kit
 - [easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
 - [Pressure2](https://github.com/DirtDiglett/Pressure2) - Pressure² - a beautiful theme for your Steam Client.
 - [hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
@@ -118,6 +126,7 @@
 
 - [Arcadia](https://github.com/arcadia-unity/Arcadia) - Clojure in Unity
 - [Nightlight](https://github.com/oakes/Nightlight) - An embedded editor for Clojure
+- [klipse](https://github.com/viebel/klipse) - A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent
 - [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 
 ## CoffeeScript 
@@ -133,6 +142,8 @@
 
 ## Go 
 
+- [vitess](https://github.com/youtube/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
+- [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [mutagen](https://github.com/havoc-io/mutagen) - Simple, cross-platform, continuous, bi-directional file synchronization
 - [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [traefik](https://github.com/containous/traefik) - Træfɪk, a modern reverse proxy
@@ -171,6 +182,9 @@
 
 ## HTML 
 
+- [awsm.css](https://github.com/igoradamenko/awsm.css) - Simple CSS library for semantic HTML markup
+- [githunt](https://github.com/kamranahmedse/githunt) - Chrome Extension - Replace your new tab with trending Github repositories
+- [visdown](https://github.com/amitkaps/visdown) - Visualisation Markdown
 - [passbolt_docker_debian](https://github.com/passbolt/passbolt_docker_debian) - Get started with passbolt using docker!
 - [stop-the-bullshit](https://github.com/jacquerie/stop-the-bullshit) - Blocks websites that publish fake news, and hides their posts on Facebook
 - [gun-starter-app](https://github.com/gundb/gun-starter-app) - Framework agnostic starter code for gun apps
@@ -178,7 +192,6 @@
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [codecontext](https://github.com/davkap92/codecontext) - An attempt to explain and group the world of software contextually
 - [10ktower](https://github.com/webrender/10ktower) - Tower Sim & Entry for 10k Apart 2016
-- [klipse](https://github.com/viebel/klipse) - A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [angular-datepicker](https://github.com/720kb/angular-datepicker) - Angularjs datepicker module, generate a datepicker on your input element -  https://720kb.github.io/angular-datepicker
 - [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations
@@ -198,11 +211,12 @@
 
 ## Java 
 
+- [KISS](https://github.com/Neamar/KISS) - Lightning fast Android launcher
 - [chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0) - CHVote 1.0 repository
 - [app](https://github.com/LiveBoats/app) - Display boat information in AR !
 - [cordova-plugin-camera-preview](https://github.com/westonganger/cordova-plugin-camera-preview) - Cordova plugin that allow camera interaction from HTML code
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
-- [AndroidN-ify](https://github.com/wasdennnoch/AndroidN-ify) - Use features introduced in Android N on your LP+ Device!
+- [AndroidN-ify](https://github.com/wasdennnoch/AndroidN-ify) - [Xposed] Use features introduced in Android N on your LP+ Device!
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
 - [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development
 - [material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
@@ -217,14 +231,24 @@
 
 ## JavaScript 
 
+- [mojs](https://github.com/legomushroom/mojs) - motion graphics toolbelt for the web
+- [N1](https://github.com/nylas/N1) - :love_letter: An extensible desktop mail app built on the modern web.
+- [system-monitor](https://github.com/pd4d10/system-monitor) - Monitor CPU and memory status in Chrome and Opera.
+- [tetrispad](https://github.com/maxwellito/tetrispad) - Use the Novation Launchpad to play Tetris
+- [cozy-desktop](https://github.com/cozy-labs/cozy-desktop) - File Synchronisation for Cozy on Desktop and Laptop
+- [ityped](https://github.com/luisvinicius167/ityped) - Dead simple Javascript animated typing, with no dependencies.
+- [sync](https://github.com/calzoneman/sync) - Node.JS Server and JavaScript/HTML Client for synchronizing online media
+- [web-maker](https://github.com/chinchang/web-maker) - Replace your Chrome tabs with an offline web experiment playground
+- [vue-select](https://github.com/sagalbot/vue-select) - A native Vue.js component that provides similar functionality to Select2 without the overhead of jQuery.
+- [git-hours](https://github.com/kimmobrunfeldt/git-hours) - Estimate time spent on a git repository
+- [browser-autofill-phishing](https://github.com/anttiviljami/browser-autofill-phishing) - A simple demo of phishing by abusing the browser autofill feature
 - [notification-logger](https://github.com/hkirat/notification-logger) - Desktop notification for your console Logs
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
-- [visdown](https://github.com/amitkaps/visdown) - Visualisation Markdown
 - [zazu](https://github.com/tinytacoteam/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
 - [quickstart](https://github.com/angular/quickstart) - Angular 2 QuickStart - source from the documentation
 - [play-with-docker](https://github.com/franela/play-with-docker) - 
-- [release](https://github.com/zeit/release) - Manage GitHub Releases from the command line
+- [release](https://github.com/zeit/release) - Generate changelogs with a single command
 - [papyrus](https://github.com/morkro/papyrus) - Unofficial Dropbox Paper desktop app
 - [sovereign](https://github.com/DemocracyEarth/sovereign) - Peer to peer democracy.
 - [plugins](https://github.com/meetfranz/plugins) - Franz Plugin Repository
@@ -354,6 +378,7 @@
 
 ## Others 
 
+- [keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide) - Guide on how to design keyboard PCBs with KiCad
 - [franz-app](https://github.com/meetfranz/franz-app) - 
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
 - [dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
@@ -381,6 +406,9 @@
 
 ## PHP 
 
+- [vat.php](https://github.com/dannyvankooten/vat.php) - PHP library for dealing with European VAT
+- [iso3166](https://github.com/thephpleague/iso3166) - A PHP library providing ISO 3166-1 data.
+- [FiercePhish](https://github.com/Raikia/FiercePhish) - FiercePhish is a full-fledged phishing framework to manage all phishing engagements.  It allows you to track separate phishing campaigns, schedule sending of emails, and much more.
 - [iniscan](https://github.com/psecio/iniscan) - A php.ini scanner for best security practices
 - [recaptcha](https://github.com/google/recaptcha) - reCAPTCHA is a free service to protect your website from spam and abuse.
 - [slim-test-helpers](https://github.com/there4/slim-test-helpers) - Integration testing helpers for the Slim Framework
@@ -410,6 +438,9 @@
 
 ## Python 
 
+- [kippo](https://github.com/desaster/kippo) - Kippo - SSH Honeypot
+- [github-vanity](https://github.com/ihabunek/github-vanity) - Write to your GitHub activity chart
+- [20messages](https://github.com/719Ben/20messages) - 🕵  20 anonymous messages with a random Facebook friend
 - [spotify-local-http-api](https://github.com/cgbystrom/spotify-local-http-api) - Simple client for local, built-in HTTP server in the Spotify player.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [poor-mans-data-pipeline](https://github.com/dangoldin/poor-mans-data-pipeline) - A minimal and serverless data pipeline
@@ -447,6 +478,8 @@
 
 ## Ruby 
 
+- [SublimeTutor](https://github.com/jaipandya/SublimeTutor) - An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3
+- [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 - [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner.
@@ -459,6 +492,7 @@
 
 ## Rust 
 
+- [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [svgbobrus](https://github.com/ivanceras/svgbobrus) - Convert your ascii diagram scribbles into happy little SVG
 
 ## Scala 
@@ -493,6 +527,9 @@
 
 ## TypeScript 
 
+- [angular-tesla-range-calculator](https://github.com/johnpapa/angular-tesla-range-calculator) - 
+- [augury](https://github.com/rangle/augury) - Angular 2 development tools for Chrome
+- [angular](https://github.com/angular/angular) - 
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST
 - [lyricfier](https://github.com/emilioastarita/lyricfier) - a Spotify Lyrics alternative app
 - [ionic-app](https://github.com/LiveBoats/ionic-app) - Our app with Ionic 2 support :)
@@ -508,6 +545,7 @@
 
 ## Vala 
 
+- [birdfont](https://github.com/johanmattssonm/birdfont) - A font editor which can generate fonts in TTF, EOT, SVG and BF format.
 - [elementary-ide](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE.
 
 

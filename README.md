@@ -5,212 +5,61 @@
 
 ## Contents
 
-  - [Assembly](#assembly)
-  - [AutoIt](#autoit)
-  - [Batchfile](#batchfile)
-  - [C](#c)
-  - [C#](#c#)
-  - [C++](#c++)
-  - [CSS](#css)
-  - [Clojure](#clojure)
-  - [CoffeeScript](#coffeescript)
-  - [Game Maker Language](#game maker language)
-  - [Go](#go)
-  - [Groovy](#groovy)
-  - [HTML](#html)
-  - [Haskell](#haskell)
+  - [TypeScript](#typescript)
   - [Java](#java)
+  - [Scala](#scala)
   - [JavaScript](#javascript)
-  - [Lua](#lua)
-  - [Mathematica](#mathematica)
-  - [Nginx](#nginx)
-  - [Objective-C](#objective-c)
-  - [Others](#others)
-  - [PHP](#php)
   - [Perl](#perl)
+  - [Lua](#lua)
+  - [Shell](#shell)
+  - [Assembly](#assembly)
+  - [Nginx](#nginx)
+  - [C#](#c#)
+  - [Vala](#vala)
+  - [CoffeeScript](#coffeescript)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [Others](#others)
+  - [Ruby](#ruby)
+  - [QML](#qml)
+  - [Groovy](#groovy)
+  - [C](#c)
+  - [Mathematica](#mathematica)
+  - [C++](#c++)
+  - [Objective-C](#objective-c)
+  - [Batchfile](#batchfile)
+  - [AutoIt](#autoit)
+  - [Clojure](#clojure)
+  - [Rust](#rust)
+  - [Swift](#swift)
   - [PureScript](#purescript)
   - [Python](#python)
-  - [QML](#qml)
-  - [Ruby](#ruby)
-  - [Rust](#rust)
-  - [Scala](#scala)
-  - [Shell](#shell)
-  - [Swift](#swift)
-  - [TypeScript](#typescript)
-  - [Vala](#vala)
+  - [Haskell](#haskell)
+  - [Game Maker Language](#game maker language)
+  - [Go](#go)
+  - [PHP](#php)
 
-## Assembly 
+## TypeScript 
 
-- [hello-world](https://github.com/leachim6/hello-world) - Hello world in every programming language.  Thanks to everyone who contributes to this, I am currently working on reviewing and merging pull request (12/10/2016) thanks for your patience!
-
-## AutoIt 
-
-- [git-brag](https://github.com/turbo/git-brag) - git-brag feeds your ego by listing important companies from your repo's stargazers.
-
-## Batchfile 
-
-- [alwsl](https://github.com/alwsl/alwsl) - Install archlinux as the WSL (Windows Subsystem for Linux) host.
-
-## C 
-
-- [Broadway](https://github.com/mbebenita/Broadway) - A JavaScript H.264 decoder.
-- [gtk3-docker](https://github.com/moondev/gtk3-docker) - Run native gtk3+ GUI applications inside a container via the browser
-- [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
-- [transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
-- [mongoose](https://github.com/cesanta/mongoose) - Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server,  MQTT client and broker and much more.
-- [robotgo](https://github.com/go-vgo/robotgo) - RobotGo,Go Native cross-platform system automation
-- [php-src](https://github.com/php/php-src) - The PHP Interpreter
-- [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
-- [CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes (code-golf-golfing-obfuscated-signature-polyglot-amazing-interesting-strange-weird-mysterious-absurd-spooky-program-language)
-- [wine](https://github.com/wine-mirror/wine) - 
-- [qmk_firmware](https://github.com/jackhumbert/qmk_firmware) - keyboard controller firmware for Atmel AVR USB family
-- [no-more-secrets](https://github.com/bartobri/no-more-secrets) - A recreation of the famous data decryption effect as seen in the 1992 movie Sneakers.
-- [xrectsel](https://github.com/lolilolicon/xrectsel) - print the geometry of a rectangular screen region
-- [tmux](https://github.com/tmux/tmux) - tmux source code
-- [SimpleRT](https://github.com/vvviperrr/SimpleRT) - Simple Reverse Tethering for Android
-- [u2f-zero](https://github.com/conorpp/u2f-zero) - U2F USB token optimized for physical security, affordability, and style
-- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/
-- [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-
-## C# # 
-
-- [RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTorrent, Azureus, BitComet, ABC and etc.) and it will NOT download/upload the files on a torrent - it only can fake download/upload. RatioMaster.NET has hardcoded emulations for the most commonly used BitTorrent clients: uTorrent, BitComet, Azureus, ABC, BitLord, BTuga, BitTornado, Burst, BitTyrant, BitSpirit.
-- [UWPHook](https://github.com/BrianLima/UWPHook) - Small project to link UWP games to Steam
-- [Overlay.NET](https://github.com/lolp1/Overlay.NET) - An easy-to-use overlay library written in C#
-- [AudioSwitch](https://github.com/sirWest/AudioSwitch) - Switch between default audio input or output + change volume
-- [P](https://github.com/p-org/P) - The P programming language
-- [anne-keyboard-windows](https://github.com/kprinssu/anne-keyboard-windows) - A Universal Windows App for controlling the Anne Pro Bluetooth enabled keyboard.
-- [KeyboordUsage](https://github.com/kbilsted/KeyboordUsage) - A keyboard statistics logger that respects your privacy and is configurable to any keyboard in any language
-
-## C++ 
-
-- [StreetMap](https://github.com/ue4plugins/StreetMap) - Import OpenStreetMap data into Unreal Engine 4
-- [OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy + Jedi Outcast released by Raven Software
-- [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
-- [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-- [imgui](https://github.com/ocornut/imgui) - Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
-- [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-- [cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer) - Experimental CUDA voxelizer, to convert polygon meshes to annotated voxel grids.
-- [NodeRT](https://github.com/NodeRT/NodeRT) - Winrt APIs-node.js modules generator
-- [GameLad](https://github.com/Dooskington/GameLad) - An (almost) fully featured Game Boy emulator.
-- [Revive](https://github.com/LibreVR/Revive) - Play Oculus-exclusive games on the HTC Vive, scroll down for downloads and installation instructions. Please forward all donations to the EFF.
-- [tinyrenderer](https://github.com/ssloy/tinyrenderer) - Support c++ code for a short computer graphics course
-- [Client](https://github.com/Proj-Ascension/Client) - Client repository for Project Ascension, an open source game launcher.
-- [supertux](https://github.com/SuperTux/supertux) - SuperTux source code
-
-## CSS 
-
-- [arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
-- [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
-- [certdepot](https://github.com/dimastopel/certdepot) - Create your self-signed SSL certificate instantly and for free
-- [MailDev](https://github.com/djfarrelly/MailDev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
-- [angular-progress-button-styles](https://github.com/akveo/angular-progress-button-styles) - AngularJS version of codrops progress buttons for the use with promises
-- [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-- [nginx-php-fpm](https://github.com/ngineered/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
-- [cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
-- [kissui.sticky](https://github.com/usablica/kissui.sticky) - Simple and lightweight sticky position that works everywhere
-- [freja-sphinx](https://github.com/dmitriid/freja-sphinx) - A simple and clean theme for Sphinx document generator
-- [iconizr](https://github.com/jkphl/iconizr) - A PHP command line tool for converting SVG images to a set of CSS icons (SVG & PNG, single icons and / or CSS sprites) with support for image optimization and Sass output. Created by Joschi Kuphal (@jkphl), licensed under the terms of the MIT license
-- [txt.wav](https://github.com/still-life-studio/txt.wav) - some weird text animations the internet deserves
-- [HTML-Sheets-of-Paper](https://github.com/delight-im/HTML-Sheets-of-Paper) - Word processor in your browser using HTML and CSS (for invoices, legal notices, etc.)
-- [material-kit](https://github.com/creativetimofficial/material-kit) - Free Bootstrap Material Design UI Kit
-- [easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
-- [Pressure2](https://github.com/DirtDiglett/Pressure2) - Pressure² - a beautiful theme for your Steam Client.
-- [hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
-- [goreportcard](https://github.com/gojp/goreportcard) - A report card for your Go application
-- [Pressure-for-Steam](https://github.com/DirtDiglett/Pressure-for-Steam) - A skin to improve the visual aesthetics of Steam
-
-## Clojure 
-
-- [Arcadia](https://github.com/arcadia-unity/Arcadia) - Clojure in Unity
-- [Nightlight](https://github.com/oakes/Nightlight) - An embedded editor for Clojure
-- [klipse](https://github.com/viebel/klipse) - A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent
-- [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
-
-## CoffeeScript 
-
-- [marp](https://github.com/yhatt/marp) - Markdown presentation writer, powered by Electron.
-- [coffeescript](https://github.com/jashkenas/coffeescript) - Unfancy JavaScript
-- [coffeelint](https://github.com/clutchski/coffeelint) - Lint your CoffeeScript.
-- [js2coffee](https://github.com/js2coffee/js2coffee) - Compile JavaScript to CoffeeScript
-
-## Game Maker Language 
-
-- [0x0D](https://github.com/Blokatt/0x0D) - A shoot-em-up made in 48 hours for the 20th gm(48) game jam.
-
-## Go 
-
-- [vitess](https://github.com/youtube/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
-- [mutagen](https://github.com/havoc-io/mutagen) - Simple, cross-platform, continuous, bi-directional file synchronization
-- [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
-- [traefik](https://github.com/containous/traefik) - Træfɪk, a modern reverse proxy
-- [spoofgo](https://github.com/sabey/spoofgo) - An Application for Spoofing Movement written in Golang
-- [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
-- [the-internet](https://github.com/nsec/the-internet) - The code of our Internet simulator
-- [hugo](https://github.com/spf13/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang
-- [esh](https://github.com/gurinderhans/esh) - esh - easy SSH, interact with your SSH server from your local bash
-- [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
-- [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
-- [pt](https://github.com/fogleman/pt) - A path tracer written in Go.
-- [butler](https://github.com/itchio/butler) - :tophat: Command-line itch.io helper
-- [hget](https://github.com/huydx/hget) - rocket fast, interruptable, resumable download accelerator written in golang
-- [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
-- [pip-go](https://github.com/JamesMilnerUK/pip-go) - Point in polygon implemented in Go
-- [pxl](https://github.com/ichinaski/pxl) - Display images in the terminal
-- [horcrux](https://github.com/muthu-r/horcrux) - On Demand, Version controlled access to Data for your Docker containers
-- [docker](https://github.com/docker/docker) - Docker - the open-source application container engine
-- [goqt](https://github.com/visualfc/goqt) - Golang bindings to the Qt cross-platform application framework.
-- [gom](https://github.com/rakyll/gom) - A visual interface to work with runtime profiling data for Go
-- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
-- [zgok](https://github.com/srtkkou/zgok) - Golang library to create a single binary with asset files.
-- [go](https://github.com/golang/go) - The Go programming language
-- [go-tunnel](https://github.com/inconshreveable/go-tunnel) - [DEPRECATED] Tunnel to localhost as a library
-- [mux](https://github.com/gorilla/mux) - A powerful URL router and dispatcher for golang.
-- [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [godoc-tricks](https://github.com/fluhus/godoc-tricks) - Tricks for working with the godoc tool.
-- [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
-- [telnet-chat](https://github.com/akrennmair/telnet-chat) - example application to demonstrate Go's capabilities.
-- [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
-
-## Groovy 
-
-- [java-bullshifier](https://github.com/takipi/java-bullshifier) - An open source project by OverOps. Generate massive random Java applications with a command line tool
-
-## HTML 
-
-- [awsm.css](https://github.com/igoradamenko/awsm.css) - Simple CSS library for semantic HTML markup
-- [githunt](https://github.com/kamranahmedse/githunt) - Chrome Extension - Replace your new tab with trending Github repositories
-- [visdown](https://github.com/amitkaps/visdown) - Visualisation Markdown
-- [passbolt_docker_debian](https://github.com/passbolt/passbolt_docker_debian) - Get started with passbolt using docker!
-- [stop-the-bullshit](https://github.com/jacquerie/stop-the-bullshit) - Blocks websites that publish fake news, and hides their posts on Facebook
-- [gun-starter-app](https://github.com/gundb/gun-starter-app) - Framework agnostic starter code for gun apps
-- [spongedown](https://github.com/ivanceras/spongedown) - Markdown with svg bob support
-- [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-- [codecontext](https://github.com/davkap92/codecontext) - An attempt to explain and group the world of software contextually
-- [10ktower](https://github.com/webrender/10ktower) - Tower Sim & Entry for 10k Apart 2016
-- [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
-- [angular-datepicker](https://github.com/720kb/angular-datepicker) - Angularjs datepicker module, generate a datepicker on your input element -  https://720kb.github.io/angular-datepicker
-- [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations
-- [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
-- [dijkstras-algorithm](https://github.com/kdrakon/dijkstras-algorithm) - Scala and ScalaJS implementation of the famous algorithm
-- [Pastejacking](https://github.com/dxa4481/Pastejacking) - A demo of overriding what's in a person's clipboard
-- [min](https://github.com/minbrowser/min) - A smarter, faster web browser
-- [Insanity](https://github.com/jirislav/Insanity) - Insanity is an opensource project under MIT license. Visit
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
-- [polymer-element-catalog](https://github.com/Polymer/polymer-element-catalog) - A catalog of Polymer-based web components built by the Polymer team
-- [node_arm](https://github.com/nathanjohnson320/node_arm) - Install node.js on a raspberry pi in two easy steps
-
-## Haskell 
-
-- [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
-- [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+- [angular-tesla-range-calculator](https://github.com/johnpapa/angular-tesla-range-calculator) - 
+- [augury](https://github.com/rangle/augury) - Angular 2 development tools for Chrome
+- [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
+- [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST
+- [lyricfier](https://github.com/emilioastarita/lyricfier) - a Spotify Lyrics alternative app
+- [ionic-app](https://github.com/LiveBoats/ionic-app) - Our app with Ionic 2 support :)
+- [alduin](https://github.com/Xstoudi/alduin) - An RSS and Atom feed aggregator available on Windows and Linux.
+- [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [clarity](https://github.com/vmware/clarity) - Clarity Design System: UX guidelines, HTML/CSS framework, and Angular 2 components working together to craft exceptional experiences
+- [ng2-rest-api](https://github.com/zaqqaz/ng2-rest-api) - :red_circle: Rest API provider for angular 2.
+- [Joust](https://github.com/HearthSim/Joust) - 🍿 Hearthstone replays in your browser.
+- [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
+- [visualizer](https://github.com/ui-router/visualizer) - UI-Router state visualizer and transition visualizer
+- [vscode-go](https://github.com/Microsoft/vscode-go) - An extension for VS Code which provides support for the Go language.
+- [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 
 ## Java 
 
+- [intellij-swagger](https://github.com/zalando/intellij-swagger) - A plugin to help you easily edit Swagger specification files inside IntelliJ IDEA
 - [KISS](https://github.com/Neamar/KISS) - Lightning fast Android launcher
 - [chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0) - CHVote 1.0 repository
 - [app](https://github.com/LiveBoats/app) - Display boat information in AR !
@@ -229,10 +78,27 @@
 - [AndroidAsync](https://github.com/koush/AndroidAsync) - Asynchronous socket, http (client+server), websocket, and socket.io library for android. Based on nio, not threads.
 - [steam-condenser-java](https://github.com/koraktor/steam-condenser-java) - A library for querying the Steam Community, Source, GoldSrc servers and Steam master servers
 
+## Scala 
+
+- [power-mode-intellij-plugin](https://github.com/axaluss/power-mode-intellij-plugin) - Power Mode II Intellij plugin
+
 ## JavaScript 
 
+- [HostMyDocs](https://github.com/TraceSoftwareInternational/HostMyDocs) - Small web server use to host documentation
+- [Pikaday](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
+- [KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - Web based IRC client
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
+- [native-notifier](https://github.com/paulmillr/native-notifier) - Use native system notifications in node.js without third-party libraries
+- [core-js](https://github.com/zloirock/core-js) - Standard Library
+- [exchangecalendar](https://github.com/Ericsson/exchangecalendar) - Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.
+- [favicons-webpack-plugin](https://github.com/jantimon/favicons-webpack-plugin) - Let webpack generate all your favicons and icons for you
+- [push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for the JavaScript Notifications API
+- [icingtaskmanager](https://github.com/jaszhix/icingtaskmanager) - Window list with app grouping and thumbnails for Cinnamon
+- [Catify](https://github.com/MeoBeoI/Catify) - Utility for Spotify, even your cat can use Spotify now !
+- [notanos](https://github.com/Lerc/notanos) - Not really an oprating system,  Just a pile of javascript pretending to be a Desktop Environment
 - [mojs](https://github.com/legomushroom/mojs) - motion graphics toolbelt for the web
-- [N1](https://github.com/nylas/N1) - :love_letter: An extensible desktop mail app built on the modern web.
+- [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.
 - [system-monitor](https://github.com/pd4d10/system-monitor) - Monitor CPU and memory status in Chrome and Opera.
 - [tetrispad](https://github.com/maxwellito/tetrispad) - Use the Novation Launchpad to play Tetris
 - [cozy-desktop](https://github.com/cozy-labs/cozy-desktop) - File Synchronisation for Cozy on Desktop and Laptop
@@ -250,12 +116,11 @@
 - [play-with-docker](https://github.com/franela/play-with-docker) - 
 - [release](https://github.com/zeit/release) - Generate changelogs with a single command
 - [papyrus](https://github.com/morkro/papyrus) - Unofficial Dropbox Paper desktop app
-- [sovereign](https://github.com/DemocracyEarth/sovereign) - Peer to peer democracy.
+- [sovereign](https://github.com/DemocracyEarth/sovereign) - 🕊 Peer to peer democracy.
 - [plugins](https://github.com/meetfranz/plugins) - Franz Plugin Repository
 - [downthemall](https://github.com/downthemall/downthemall) - Official DownThemAll! repository. Pull requests welcome.
 - [tabdown](https://github.com/WangFenjin/tabdown) - Start (GitHub-Flavored) Markdown from new tabs in your favourite web browsers.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
-- [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: Local git statistics including GitHub-like contributions calendars.
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 - [nhuman](https://github.com/meulta/nhuman) - 
 - [gulp](https://github.com/gulpjs/gulp) - The streaming build system
@@ -304,7 +169,7 @@
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
 - [reflexio](https://github.com/ketanhwr/reflexio) - A web game based on reflection
-- [debugger.html](https://github.com/devtools-html/debugger.html) - The Firefox debugger that works anywhere
+- [debugger.html](https://github.com/devtools-html/debugger.html) - The Firefox debugger that works anywhere  :boom:
 - [miaou](https://github.com/Canop/miaou) - A chat server with OAuth2 authentication, persistent and searchable history, video and audio, markdown formatting, private and public rooms, stars, votes, embedded games, and many other features
 - [mockbin](https://github.com/Mashape/mockbin) - Mock, Test & Track HTTP Requests and Responses.
 - [docker-swarm-visualizer](https://github.com/ManoMarks/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
@@ -331,6 +196,7 @@
 - [github-widget](https://github.com/surbhioberoi/github-widget) - A widget showing your github details that you can embed in any website.
 - [ocr](https://github.com/mateogianolio/ocr) - Neural network OCR.
 - [thegreatsuspender](https://github.com/deanoemcke/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
+- [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [razzmaster](https://github.com/joshmarinacci/razzmaster) - Find and set up new Raspberry Pis on your network
 - [ng-pageslide](https://github.com/dpiccone/ng-pageslide) - AngularJS sliding panel for serving additional content from off the page
@@ -345,7 +211,7 @@
 - [angular-hammer](https://github.com/RyanMullins/angular-hammer) - Hammer.js v2 support for AngularJS
 - [filldisk.com](https://github.com/feross/filldisk.com) - :floppy_disk: Masterful trolling with HTML5 localStorage
 - [angular-treeRepeat](https://github.com/tchatel/angular-treeRepeat) - Recursive repeater for AngularJS
-- [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps
+- [angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 - [jquery-drilldown](https://github.com/Cinamonas/jquery-drilldown) - A simple jQuery plugin for creating animated drilldown menus
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor on your browser
 - [jQuery.mmenu](https://github.com/FrDH/jQuery.mmenu) - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.
@@ -356,28 +222,122 @@
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [labella.js](https://github.com/twitter/labella.js) - Placing labels on a timeline without overlap.
-- [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
 - [screenlog.js](https://github.com/chinchang/screenlog.js) - Bring console.log on the screen
+
+## Perl 
+
+- [cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## Lua 
 
 - [morpheus](https://github.com/r00t-3xp10it/morpheus) - Morpheus - Automated Ettercap TCP/IP Hijacking Tool
 
-## Mathematica 
+## Shell 
 
-- [NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
+- [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments.
+- [OpenVPN-install](https://github.com/Angristan/OpenVPN-install) - Improved OpenVPN installer for Debian, Ubuntu, CentOS and Arch Linux
+- [armhf](https://github.com/umiddelb/armhf) - interesting stuff about arm devices (Utilite, SolidRun, Odroid)
+- [curl-tap-sh](https://github.com/awalgarg/curl-tap-sh) - tap curl in your editor before it gets to sh it
+- [dynamic-motd](https://github.com/ldidry/dynamic-motd) - 
+- [nginx-php7](https://github.com/skiy-dockerfile/nginx-php7) - Nginx-PHP7 for Docker
+- [n](https://github.com/tj/n) - Node version management
+- [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [bm-RaspberryPi](https://github.com/blogmotion/bm-RaspberryPi) - 
+- [android-prepare-vendor](https://github.com/anestisb/android-prepare-vendor) - Set of scripts to automate AOSP compatible vendor blobs generation from factory images
+- [go-fast](https://github.com/kovetskiy/go-fast) - Compile Go programs 7x faster
+- [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+- [docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
+- [testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+- [wttr.in](https://github.com/chubin/wttr.in) - Web frontend for wego
+- [mella](https://github.com/florianbeer/mella) - ☁️ ownCloud upload via WebDAV using curl
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [docker-zabbix](https://github.com/berngp/docker-zabbix) - Docker Container running a Zabbix Server and Zabbix Web UI.
+
+## Assembly 
+
+- [hello-world](https://github.com/leachim6/hello-world) - Hello world in every programming language.  Thanks to everyone who contributes to this, I am currently working on reviewing and merging pull request (12/10/2016) thanks for your patience!
 
 ## Nginx 
 
 - [docker-alpine-nginx](https://github.com/naerymdan/docker-alpine-nginx) - Slim docker image for nginx using php:9000
 
-## Objective-C 
+## C# # 
 
-- [Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets
-- [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) - 📡 Native App over HTTP, on iOS
+- [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+- [RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTorrent, Azureus, BitComet, ABC and etc.) and it will NOT download/upload the files on a torrent - it only can fake download/upload. RatioMaster.NET has hardcoded emulations for the most commonly used BitTorrent clients: uTorrent, BitComet, Azureus, ABC, BitLord, BTuga, BitTornado, Burst, BitTyrant, BitSpirit.
+- [UWPHook](https://github.com/BrianLima/UWPHook) - Small project to link UWP games to Steam
+- [Overlay.NET](https://github.com/lolp1/Overlay.NET) - An easy-to-use overlay library written in C#
+- [AudioSwitch](https://github.com/sirWest/AudioSwitch) - Switch between default audio input or output + change volume
+- [P](https://github.com/p-org/P) - The P programming language
+- [anne-keyboard-windows](https://github.com/kprinssu/anne-keyboard-windows) - A Universal Windows App for controlling the Anne Pro Bluetooth enabled keyboard.
+- [KeyboordUsage](https://github.com/kbilsted/KeyboordUsage) - A keyboard statistics logger that respects your privacy and is configurable to any keyboard in any language
+
+## Vala 
+
+- [birdfont](https://github.com/johanmattssonm/birdfont) - A font editor which can generate fonts in TTF, EOT, SVG and BF format.
+- [elementary-ide](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE.
+
+## CoffeeScript 
+
+- [marp](https://github.com/yhatt/marp) - Markdown presentation writer, powered by Electron.
+- [coffeescript](https://github.com/jashkenas/coffeescript) - Unfancy JavaScript
+- [coffeelint](https://github.com/clutchski/coffeelint) - Lint your CoffeeScript.
+- [js2coffee](https://github.com/js2coffee/js2coffee) - Compile JavaScript to CoffeeScript
+
+## HTML 
+
+- [kodachi](https://github.com/WMAL/kodachi) - Linux Kodachi operating system is based on Debian 8.6 it will provide you with a secure, anti forensic, and anonymous operating system considering all features that a person who is concerned about privacy would need to have in order to be secure.
+- [panzoom](https://github.com/anvaka/panzoom) - Pan and zoom SVG elements
+- [Gabeify](https://github.com/powderblock/Gabeify) - Bring lord gaben to any web page your heart desires.
+- [risingstars2016](https://github.com/michaelrambeau/risingstars2016) - :stars: A complete overview of the JavaScript landscape in 2016: trends about front-end and node.js frameworks, tooling...
+- [awsm.css](https://github.com/igoradamenko/awsm.css) - Simple CSS library for semantic HTML markup
+- [githunt](https://github.com/kamranahmedse/githunt) - Chrome Extension - Replace your new tab with trending Github repositories
+- [visdown](https://github.com/amitkaps/visdown) - Visualisation Markdown
+- [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: Local git statistics including GitHub-like contributions calendars.
+- [passbolt_docker_debian](https://github.com/passbolt/passbolt_docker_debian) - Get started with passbolt using docker!
+- [stop-the-bullshit](https://github.com/jacquerie/stop-the-bullshit) - Blocks websites that publish fake news, and hides their posts on Facebook
+- [gun-starter-app](https://github.com/gundb/gun-starter-app) - Framework agnostic starter code for gun apps
+- [spongedown](https://github.com/ivanceras/spongedown) - Markdown with svg bob support
+- [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
+- [codecontext](https://github.com/davkap92/codecontext) - An attempt to explain and group the world of software contextually
+- [10ktower](https://github.com/webrender/10ktower) - Tower Sim & Entry for 10k Apart 2016
+- [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
+- [angular-datepicker](https://github.com/720kb/angular-datepicker) - Angularjs datepicker module, generate a datepicker on your input element -  https://720kb.github.io/angular-datepicker
+- [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations
+- [dijkstras-algorithm](https://github.com/kdrakon/dijkstras-algorithm) - Scala and ScalaJS implementation of the famous algorithm
+- [Pastejacking](https://github.com/dxa4481/Pastejacking) - A demo of overriding what's in a person's clipboard
+- [min](https://github.com/minbrowser/min) - A smarter, faster web browser
+- [Insanity](https://github.com/jirislav/Insanity) - Insanity is an opensource project under MIT license. Visit
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
+- [polymer-element-catalog](https://github.com/Polymer/polymer-element-catalog) - A catalog of Polymer-based web components built by the Polymer team
+- [node_arm](https://github.com/nathanjohnson320/node_arm) - Install node.js on a raspberry pi in two easy steps
+
+## CSS 
+
+- [arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
+- [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
+- [certdepot](https://github.com/dimastopel/certdepot) - Create your self-signed SSL certificate instantly and for free
+- [MailDev](https://github.com/djfarrelly/MailDev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
+- [angular-progress-button-styles](https://github.com/akveo/angular-progress-button-styles) - AngularJS version of codrops progress buttons for the use with promises
+- [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
+- [nginx-php-fpm](https://github.com/ngineered/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
+- [cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
+- [kissui.sticky](https://github.com/usablica/kissui.sticky) - Simple and lightweight sticky position that works everywhere
+- [freja-sphinx](https://github.com/dmitriid/freja-sphinx) - A simple and clean theme for Sphinx document generator
+- [iconizr](https://github.com/jkphl/iconizr) - A PHP command line tool for converting SVG images to a set of CSS icons (SVG & PNG, single icons and / or CSS sprites) with support for image optimization and Sass output. Created by Joschi Kuphal (@jkphl), licensed under the terms of the MIT license
+- [txt.wav](https://github.com/still-life-studio/txt.wav) - some weird text animations the internet deserves
+- [HTML-Sheets-of-Paper](https://github.com/delight-im/HTML-Sheets-of-Paper) - Word processor in your browser using HTML and CSS (for invoices, legal notices, etc.)
+- [material-kit](https://github.com/creativetimofficial/material-kit) - Free Bootstrap Material Design UI Kit
+- [easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
+- [Pressure2](https://github.com/DirtDiglett/Pressure2) - Pressure² - a beautiful theme for your Steam Client.
+- [hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
+- [goreportcard](https://github.com/gojp/goreportcard) - A report card for your Go application
+- [Pressure-for-Steam](https://github.com/DirtDiglett/Pressure-for-Steam) - A skin to improve the visual aesthetics of Steam
 
 ## Others 
 
+- [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+- [Secure-Firefox](https://github.com/delight-im/Secure-Firefox) - Hardening Mozilla Firefox for maximum privacy and security
 - [keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide) - Guide on how to design keyboard PCBs with KiCad
 - [franz-app](https://github.com/meetfranz/franz-app) - 
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
@@ -404,33 +364,105 @@
 - [RepubliqueNumerique](https://github.com/GouvernementFR/RepubliqueNumerique) - Projet de loi pour une République numérique. Première loi co-écrite avec les citoyens. Ouverture des données publiques, protection des citoyens, accès de tous au numérique.
 - [go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet) - An overview of Go syntax and features.
 
-## PHP 
+## Ruby 
 
-- [vat.php](https://github.com/dannyvankooten/vat.php) - PHP library for dealing with European VAT
-- [iso3166](https://github.com/thephpleague/iso3166) - A PHP library providing ISO 3166-1 data.
-- [FiercePhish](https://github.com/Raikia/FiercePhish) - FiercePhish is a full-fledged phishing framework to manage all phishing engagements.  It allows you to track separate phishing campaigns, schedule sending of emails, and much more.
-- [iniscan](https://github.com/psecio/iniscan) - A php.ini scanner for best security practices
-- [recaptcha](https://github.com/google/recaptcha) - reCAPTCHA is a free service to protect your website from spam and abuse.
-- [slim-test-helpers](https://github.com/there4/slim-test-helpers) - Integration testing helpers for the Slim Framework
-- [tracy](https://github.com/nette/tracy) - Tracy: debugging tool you will love ♥
-- [grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
-- [nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - Integrate Keeweb into Nextcloud
-- [paratest](https://github.com/brianium/paratest) - Parallel testing for PHPUnit
-- [webhook.site](https://github.com/fredsted/webhook.site) - A site for testing webhooks
-- [mongo-php-library](https://github.com/mongodb/mongo-php-library) - MongoDB PHP library
-- [bm-FollowFriday](https://github.com/blogmotion/bm-FollowFriday) - Interface pour le #FF Twitter
-- [IsoCodes](https://github.com/ronanguilloux/IsoCodes) - PHP library - Validators for standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries
-- [storageless](https://github.com/psr7-sessions/storageless) - :mailbox_with_mail: storage-less PSR-7 session support
-- [guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
-- [composer](https://github.com/composer/composer) - Dependency Manager for PHP
-- [kirby-imagekit](https://github.com/fabianmichael/kirby-imagekit) - Asynchronous thumbnail creation and optimization for Kirby CMS.
-- [TARDIStart](https://github.com/Jedediah04/TARDIStart) - Une start page pour votre serveur dédié.
-- [php-gif](https://github.com/ErikvdVen/php-gif) - Easy generating (real-time) GIF images with PHP
-- [YOURLS](https://github.com/YOURLS/YOURLS) - Your Own URL Shortener.
+- [clarity](https://github.com/tobi/clarity) - Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk
+- [SublimeTutor](https://github.com/jaipandya/SublimeTutor) - An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3
+- [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+- [https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
+- [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner.
+- [errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant
+- [twitter_ebooks](https://github.com/mispy/twitter_ebooks) - Better twitterbots for all your friends~
+- [mlooper](https://github.com/beweinreich/mlooper) - The sp@mlooper
+- [Xaddress](https://github.com/roberdam/Xaddress) - Xaddress - Give 7 billion people an instant physical address
+- [devdocs](https://github.com/Thibaut/devdocs) - API Documentation Browser
+- [cronviz](https://github.com/federatedmedia/cronviz) - A crontab visualizer
 
-## Perl 
+## QML 
 
-- [cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
+
+## Groovy 
+
+- [java-bullshifier](https://github.com/takipi/java-bullshifier) - An open source project by OverOps. Generate massive random Java applications with a command line tool
+
+## C 
+
+- [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
+- [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross platform community driven port of the windows application “Keepass Password Safe”.
+- [CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes (code-golf-golfing-obfuscated-signature-polyglot-amazing-interesting-strange-weird-mysterious-absurd-spooky-program-funny-fun-language)
+- [Broadway](https://github.com/mbebenita/Broadway) - A JavaScript H.264 decoder.
+- [gtk3-docker](https://github.com/moondev/gtk3-docker) - Run native gtk3+ GUI applications inside a container via the browser
+- [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
+- [transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
+- [mongoose](https://github.com/cesanta/mongoose) - Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server,  MQTT client and broker and much more.
+- [robotgo](https://github.com/go-vgo/robotgo) - RobotGo,Go Native cross-platform system automation
+- [php-src](https://github.com/php/php-src) - The PHP Interpreter
+- [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
+- [wine](https://github.com/wine-mirror/wine) - 
+- [qmk_firmware](https://github.com/qmk/qmk_firmware) - keyboard controller firmware for Atmel AVR USB family
+- [no-more-secrets](https://github.com/bartobri/no-more-secrets) - A recreation of the famous data decryption effect as seen in the 1992 movie Sneakers.
+- [xrectsel](https://github.com/lolilolicon/xrectsel) - print the geometry of a rectangular screen region
+- [tmux](https://github.com/tmux/tmux) - tmux source code
+- [SimpleRT](https://github.com/vvviperrr/SimpleRT) - Simple Reverse Tethering for Android
+- [u2f-zero](https://github.com/conorpp/u2f-zero) - U2F USB token optimized for physical security, affordability, and style
+- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/
+- [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+
+## Mathematica 
+
+- [NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
+
+## C++ 
+
+- [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
+- [common-words](https://github.com/anvaka/common-words) - visualization of common words in different programming languages
+- [StreetMap](https://github.com/ue4plugins/StreetMap) - Import OpenStreetMap data into Unreal Engine 4
+- [OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy + Jedi Outcast released by Raven Software
+- [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+- [ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
+- [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+- [imgui](https://github.com/ocornut/imgui) - Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
+- [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+- [cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer) - Experimental CUDA voxelizer, to convert polygon meshes to annotated voxel grids.
+- [NodeRT](https://github.com/NodeRT/NodeRT) - Winrt APIs-node.js modules generator
+- [GameLad](https://github.com/Dooskington/GameLad) - An (almost) fully featured Game Boy emulator.
+- [Revive](https://github.com/LibreVR/Revive) - Play Oculus-exclusive games on the HTC Vive, scroll down for downloads and installation instructions. Please forward all donations to the EFF.
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer) - Support c++ code for a short computer graphics course
+- [Client](https://github.com/Proj-Ascension/Client) - Client repository for Project Ascension, an open source game launcher.
+- [supertux](https://github.com/SuperTux/supertux) - SuperTux source code
+
+## Objective-C 
+
+- [Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets
+- [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) - 📡 Native App over HTTP, on iOS
+
+## Batchfile 
+
+- [alwsl](https://github.com/alwsl/alwsl) - Install archlinux as the WSL (Windows Subsystem for Linux) host.
+
+## AutoIt 
+
+- [git-brag](https://github.com/turbo/git-brag) - git-brag feeds your ego by listing important companies from your repo's stargazers.
+
+## Clojure 
+
+- [Arcadia](https://github.com/arcadia-unity/Arcadia) - Clojure in Unity
+- [Nightlight](https://github.com/oakes/Nightlight) - An embedded editor for Clojure
+- [klipse](https://github.com/viebel/klipse) - A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent
+- [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
+
+## Rust 
+
+- [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [svgbobrus](https://github.com/ivanceras/svgbobrus) - Convert your ascii diagram scribbles into happy little SVG
+
+## Swift 
+
+- [Mu](https://github.com/marciok/Mu) - It's a Swift playground explaining how to create a tiny programming language named Mu
+- [bestmate](https://github.com/johnlinvc/bestmate) - 
 
 ## PureScript 
 
@@ -438,6 +470,9 @@
 
 ## Python 
 
+- [swagger-render](https://github.com/minttu/swagger-render) - Renders a Swagger API
+- [kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
+- [glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
 - [kippo](https://github.com/desaster/kippo) - Kippo - SSH Honeypot
 - [github-vanity](https://github.com/ihabunek/github-vanity) - Write to your GitHub activity chart
 - [20messages](https://github.com/719Ben/20messages) - 🕵  20 anonymous messages with a random Facebook friend
@@ -470,88 +505,90 @@
 - [material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 - [certbot](https://github.com/certbot/certbot) - Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
 - [package_control](https://github.com/wbond/package_control) - The Sublime Text package manager
 
-## QML 
+## Haskell 
 
-- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
+- [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
+- [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
-## Ruby 
+## Game Maker Language 
 
-- [SublimeTutor](https://github.com/jaipandya/SublimeTutor) - An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3
-- [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-- [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
-- [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner.
-- [errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant
-- [twitter_ebooks](https://github.com/mispy/twitter_ebooks) - Better twitterbots for all your friends~
-- [mlooper](https://github.com/beweinreich/mlooper) - The sp@mlooper
-- [Xaddress](https://github.com/roberdam/Xaddress) - Xaddress - Give 7 billion people an instant physical address
-- [devdocs](https://github.com/Thibaut/devdocs) - API Documentation Browser
-- [cronviz](https://github.com/federatedmedia/cronviz) - A crontab visualizer
+- [0x0D](https://github.com/Blokatt/0x0D) - A shoot-em-up made in 48 hours for the 20th gm(48) game jam.
 
-## Rust 
+## Go 
 
-- [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
-- [svgbobrus](https://github.com/ivanceras/svgbobrus) - Convert your ascii diagram scribbles into happy little SVG
+- [chromedp](https://github.com/knq/chromedp) - Package chromedp is a faster, simpler way to drive browsers (Chrome, Edge, Safari, Android, etc) without external dependencies (ie, Selenium, PhantomJS, etc).
+- [go-tools](https://github.com/dominikh/go-tools) - A collection of tools and libraries for working with Go code, including linters and static analysis
+- [autovpn](https://github.com/adtac/autovpn) - Easily connect to a VPN in a country of your choice.
+- [pliz](https://github.com/agence-webup/pliz) - A CLI tool to manage web projects
+- [vitess](https://github.com/youtube/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
+- [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
+- [mutagen](https://github.com/havoc-io/mutagen) - Simple, cross-platform, continuous, bi-directional file synchronization
+- [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
+- [traefik](https://github.com/containous/traefik) - Træfɪk, a modern reverse proxy
+- [spoofgo](https://github.com/sabey/spoofgo) - An Application for Spoofing Movement written in Golang
+- [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+- [the-internet](https://github.com/nsec/the-internet) - The code of our Internet simulator
+- [hugo](https://github.com/spf13/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang
+- [esh](https://github.com/gurinderhans/esh) - esh - easy SSH, interact with your SSH server from your local bash
+- [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
+- [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [pt](https://github.com/fogleman/pt) - A path tracer written in Go.
+- [butler](https://github.com/itchio/butler) - :tophat: Command-line itch.io helper
+- [hget](https://github.com/huydx/hget) - rocket fast, interruptable, resumable download accelerator written in golang
+- [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
+- [pip-go](https://github.com/JamesMilnerUK/pip-go) - Point in polygon implemented in Go
+- [pxl](https://github.com/ichinaski/pxl) - Display images in the terminal
+- [horcrux](https://github.com/muthu-r/horcrux) - On Demand, Version controlled access to Data for your Docker containers
+- [docker](https://github.com/docker/docker) - Docker - the open-source application container engine
+- [goqt](https://github.com/visualfc/goqt) - Golang bindings to the Qt cross-platform application framework.
+- [gom](https://github.com/rakyll/gom) - A visual interface to work with runtime profiling data for Go
+- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+- [zgok](https://github.com/srtkkou/zgok) - Golang library to create a single binary with asset files.
+- [go](https://github.com/golang/go) - The Go programming language
+- [go-tunnel](https://github.com/inconshreveable/go-tunnel) - [DEPRECATED] Tunnel to localhost as a library
+- [mux](https://github.com/gorilla/mux) - A powerful URL router and dispatcher for golang.
+- [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+- [godoc-tricks](https://github.com/fluhus/godoc-tricks) - Tricks for working with the godoc tool.
+- [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
+- [telnet-chat](https://github.com/akrennmair/telnet-chat) - example application to demonstrate Go's capabilities.
+- [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
 
-## Scala 
+## PHP 
 
-- [power-mode-intellij-plugin](https://github.com/axaluss/power-mode-intellij-plugin) - Power Mode II Intellij plugin
-
-## Shell 
-
-- [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments.
-- [OpenVPN-install](https://github.com/Angristan/OpenVPN-install) - Improved OpenVPN installer for Debian, Ubuntu, CentOS and Arch Linux
-- [armhf](https://github.com/umiddelb/armhf) - interesting stuff about arm devices (Utilite, SolidRun, Odroid)
-- [curl-tap-sh](https://github.com/awalgarg/curl-tap-sh) - tap curl in your editor before it gets to sh it
-- [dynamic-motd](https://github.com/ldidry/dynamic-motd) - 
-- [nginx-php7](https://github.com/skiy-dockerfile/nginx-php7) - Nginx-PHP7 for Docker
-- [n](https://github.com/tj/n) - Node version management
-- [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
-- [bm-RaspberryPi](https://github.com/blogmotion/bm-RaspberryPi) - 
-- [android-prepare-vendor](https://github.com/anestisb/android-prepare-vendor) - Set of scripts to automate AOSP compatible vendor blobs generation from factory images
-- [go-fast](https://github.com/kovetskiy/go-fast) - Compile Go programs 7x faster
-- [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
-- [docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
-- [testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
-- [wttr.in](https://github.com/chubin/wttr.in) - Web frontend for wego
-- [mella](https://github.com/florianbeer/mella) - ☁️ ownCloud upload via WebDAV using curl
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [docker-zabbix](https://github.com/berngp/docker-zabbix) - Docker Container running a Zabbix Server and Zabbix Web UI.
-
-## Swift 
-
-- [Mu](https://github.com/marciok/Mu) - It's a Swift playground explaining how to create a tiny programming language named Mu
-- [bestmate](https://github.com/johnlinvc/bestmate) - 
-
-## TypeScript 
-
-- [angular-tesla-range-calculator](https://github.com/johnpapa/angular-tesla-range-calculator) - 
-- [augury](https://github.com/rangle/augury) - Angular 2 development tools for Chrome
-- [angular](https://github.com/angular/angular) - 
-- [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST
-- [lyricfier](https://github.com/emilioastarita/lyricfier) - a Spotify Lyrics alternative app
-- [ionic-app](https://github.com/LiveBoats/ionic-app) - Our app with Ionic 2 support :)
-- [alduin](https://github.com/Xstoudi/alduin) - An RSS and Atom feed aggregator available on Windows and Linux.
-- [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [clarity](https://github.com/vmware/clarity) - Clarity Design System: UX guidelines, HTML/CSS framework, and Angular 2 components working together to craft exceptional experiences
-- [ng2-rest-api](https://github.com/zaqqaz/ng2-rest-api) - :red_circle: Rest API provider for angular 2.
-- [Joust](https://github.com/HearthSim/Joust) - Hearthstone replays in your browser.
-- [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
-- [visualizer](https://github.com/ui-router/visualizer) - UI-Router state visualizer and transition visualizer
-- [vscode-go](https://github.com/Microsoft/vscode-go) - An extension for VS Code which provides support for the Go language.
-- [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
-
-## Vala 
-
-- [birdfont](https://github.com/johanmattssonm/birdfont) - A font editor which can generate fonts in TTF, EOT, SVG and BF format.
-- [elementary-ide](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE.
+- [guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
+- [php-crashers](https://github.com/hannob/php-crashers) - Example scripts that cause segfaults in PHP
+- [phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
+- [Slim-Skeleton](https://github.com/slimphp/Slim-Skeleton) - Slim Framework 3 skeleton application
+- [letter](https://github.com/bastianallgeier/letter) - Letter is a simple, highly customizable tool to create letters in your browser.
+- [vat.php](https://github.com/dannyvankooten/vat.php) - PHP library for dealing with European VAT
+- [iso3166](https://github.com/thephpleague/iso3166) - A PHP library providing ISO 3166-1 data.
+- [FiercePhish](https://github.com/Raikia/FiercePhish) - FiercePhish is a full-fledged phishing framework to manage all phishing engagements.  It allows you to track separate phishing campaigns, schedule sending of emails, and much more.
+- [iniscan](https://github.com/psecio/iniscan) - A php.ini scanner for best security practices
+- [recaptcha](https://github.com/google/recaptcha) - reCAPTCHA is a free service to protect your website from spam and abuse.
+- [slim-test-helpers](https://github.com/there4/slim-test-helpers) - Integration testing helpers for the Slim Framework
+- [tracy](https://github.com/nette/tracy) - Tracy: debugging tool you will love ♥
+- [grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
+- [nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - Integrate Keeweb into Nextcloud
+- [paratest](https://github.com/brianium/paratest) - Parallel testing for PHPUnit
+- [webhook.site](https://github.com/fredsted/webhook.site) - A site for testing webhooks
+- [mongo-php-library](https://github.com/mongodb/mongo-php-library) - MongoDB PHP library
+- [bm-FollowFriday](https://github.com/blogmotion/bm-FollowFriday) - Interface pour le #FF Twitter
+- [IsoCodes](https://github.com/ronanguilloux/IsoCodes) - PHP library - Validators for standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries
+- [storageless](https://github.com/psr7-sessions/storageless) - :mailbox_with_mail: storage-less PSR-7 session support
+- [composer](https://github.com/composer/composer) - Dependency Manager for PHP
+- [kirby-imagekit](https://github.com/fabianmichael/kirby-imagekit) - Asynchronous thumbnail creation and optimization for Kirby CMS.
+- [TARDIStart](https://github.com/Jedediah04/TARDIStart) - Une start page pour votre serveur dédié.
+- [php-gif](https://github.com/ErikvdVen/php-gif) - Easy generating (real-time) GIF images with PHP
+- [YOURLS](https://github.com/YOURLS/YOURLS) - Your Own URL Shortener.
 
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [mattmattv](https://github.com/mattmattv) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [MattMattV](https://github.com/MattMattV) has waived all copyright and related or neighboring rights to this work.
 

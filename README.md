@@ -25,6 +25,7 @@
   - [Groovy](#groovy)
   - [C](#c)
   - [Mathematica](#mathematica)
+  - [Kotlin](#kotlin)
   - [C++](#c++)
   - [Objective-C](#objective-c)
   - [Batchfile](#batchfile)
@@ -66,7 +67,6 @@
 - [cordova-plugin-camera-preview](https://github.com/westonganger/cordova-plugin-camera-preview) - Cordova plugin that allow camera interaction from HTML code
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 - [AndroidN-ify](https://github.com/wasdennnoch/AndroidN-ify) - [Xposed] Use features introduced in Android N on your LP+ Device!
-- [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
 - [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development
 - [material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
 - [malmo](https://github.com/Microsoft/malmo) - Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to *Getting Started* below, or visit the project page for more information:
@@ -84,6 +84,11 @@
 
 ## JavaScript 
 
+- [vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) - :zap: VSCode's Extension - Sync VSCode Settings using GitHub Gist
+- [dashboard](https://github.com/Reportr/dashboard) - Your life's personal dashboard.
+- [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
+- [webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
+- [fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
 - [HostMyDocs](https://github.com/TraceSoftwareInternational/HostMyDocs) - Small web server use to host documentation
 - [Pikaday](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 - [KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - Web based IRC client
@@ -132,7 +137,7 @@
 - [angular-eonasdan-datetimepicker](https://github.com/atais/angular-eonasdan-datetimepicker) - A wrapper directive around the Eonasdan Datepicker v4 component.
 - [inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces
 - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [--shots](https://github.com/binjospookie/--shots) - An application for creating screenshots. Available for LInux, MacOS, WIndows
+- [--shots](https://github.com/binjospookie/--shots) - Simple, minimal, and task-focused application for creating screenshots. Available for LInux, MacOS, WIndows
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - ☘️ GUI for editing, visualizing, and manipulating JSON
 - [hooks](https://github.com/azlyth/hooks) - a mobile app to run scripts on servers -
 - [poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
@@ -226,6 +231,7 @@
 
 ## Perl 
 
+- [dnsmanager](https://github.com/KaneRoot/dnsmanager) - DNS zones manager. Configure your own dns zone in your browser, get a name on the Internet !
 - [cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## Lua 
@@ -234,6 +240,9 @@
 
 ## Shell 
 
+- [ssh-allow-friend](https://github.com/flplv/ssh-allow-friend) - A shell script to temporary allow ssh logins for friends
+- [discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
+- [stargaze](https://github.com/jez/stargaze) - :star: Gaze at repos you've starred
 - [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments.
 - [OpenVPN-install](https://github.com/Angristan/OpenVPN-install) - Improved OpenVPN installer for Debian, Ubuntu, CentOS and Arch Linux
 - [armhf](https://github.com/umiddelb/armhf) - interesting stuff about arm devices (Utilite, SolidRun, Odroid)
@@ -263,6 +272,7 @@
 
 ## C# # 
 
+- [wincompose](https://github.com/samhocevar/wincompose) - Compose Key for Windows
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 - [RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTorrent, Azureus, BitComet, ABC and etc.) and it will NOT download/upload the files on a torrent - it only can fake download/upload. RatioMaster.NET has hardcoded emulations for the most commonly used BitTorrent clients: uTorrent, BitComet, Azureus, ABC, BitLord, BTuga, BitTornado, Burst, BitTyrant, BitSpirit.
 - [UWPHook](https://github.com/BrianLima/UWPHook) - Small project to link UWP games to Steam
@@ -314,6 +324,8 @@
 
 ## CSS 
 
+- [iziModal](https://github.com/dolce/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
+- [iziToast](https://github.com/dolce/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 - [arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
 - [certdepot](https://github.com/dimastopel/certdepot) - Create your self-signed SSL certificate instantly and for free
@@ -336,6 +348,8 @@
 
 ## Others 
 
+- [ping](https://github.com/thechangelog/ping) - Ping! Share projects, news, or feedback. Just create an issue.
+- [awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [Secure-Firefox](https://github.com/delight-im/Secure-Firefox) - Hardening Mozilla Firefox for maximum privacy and security
 - [keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide) - Guide on how to design keyboard PCBs with KiCad
@@ -391,7 +405,7 @@
 
 - [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
 - [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross platform community driven port of the windows application “Keepass Password Safe”.
-- [CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes (code-golf-golfing-obfuscated-signature-polyglot-amazing-interesting-strange-weird-mysterious-absurd-spooky-program-funny-fun-language)
+- [CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes (code-golf-golfing-quine-obfuscated-signature-polyglot-amazing-interesting-strange-weird-mysterious-absurd-spooky-program-funny-fun-language)
 - [Broadway](https://github.com/mbebenita/Broadway) - A JavaScript H.264 decoder.
 - [gtk3-docker](https://github.com/moondev/gtk3-docker) - Run native gtk3+ GUI applications inside a container via the browser
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
@@ -413,6 +427,10 @@
 ## Mathematica 
 
 - [NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
+
+## Kotlin 
+
+- [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
 
 ## C++ 
 
@@ -470,6 +488,9 @@
 
 ## Python 
 
+- [marcel](https://github.com/brouberol/marcel) - Le docker français :whale: :fr:
+- [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
+- [pybot](https://github.com/magsol/pybot) - Python framework for creating and deploying Twitter bots.
 - [swagger-render](https://github.com/minttu/swagger-render) - Renders a Swagger API
 - [kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
 - [glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
@@ -499,7 +520,7 @@
 - [TextSuggest](https://github.com/bharadwaj-raju/TextSuggest) - Autocomplete, expansions and more, everywhere!
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 - [robobrowser](https://github.com/jmcarp/robobrowser) - 
-- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise.
+- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/integrations/gitsome
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
@@ -519,7 +540,11 @@
 
 ## Go 
 
-- [chromedp](https://github.com/knq/chromedp) - Package chromedp is a faster, simpler way to drive browsers (Chrome, Edge, Safari, Android, etc) without external dependencies (ie, Selenium, PhantomJS, etc).
+- [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
+- [pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
+- [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
+- [go-fuck-yourself](https://github.com/adamryman/go-fuck-yourself) - go-fuck-yourself is a go wrapper that will make your code build, forcefully.
+- [chromedp](https://github.com/knq/chromedp) - Package chromedp is a faster, simpler way to drive browsers (Chrome, Edge, Safari, Android, etc) without external dependencies (ie, Selenium, PhantomJS, etc) using the Chrome Debugging Protocol.
 - [go-tools](https://github.com/dominikh/go-tools) - A collection of tools and libraries for working with Go code, including linters and static analysis
 - [autovpn](https://github.com/adtac/autovpn) - Easily connect to a VPN in a country of your choice.
 - [pliz](https://github.com/agence-webup/pliz) - A CLI tool to manage web projects
@@ -559,6 +584,9 @@
 
 ## PHP 
 
+- [slim-basic-auth](https://github.com/tuupola/slim-basic-auth) - PSR-7 HTTP Basic Authentication Middleware
+- [Zipper](https://github.com/Chumper/Zipper) - This is a simple Wrapper around the ZipArchive methods with some handy functions
+- [Zippy](https://github.com/alchemy-fr/Zippy) - PHP zip/tar/bz2 archives (de)compression library with commandline or extensions
 - [guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 - [php-crashers](https://github.com/hannob/php-crashers) - Example scripts that cause segfaults in PHP
 - [phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
@@ -570,11 +598,11 @@
 - [iniscan](https://github.com/psecio/iniscan) - A php.ini scanner for best security practices
 - [recaptcha](https://github.com/google/recaptcha) - reCAPTCHA is a free service to protect your website from spam and abuse.
 - [slim-test-helpers](https://github.com/there4/slim-test-helpers) - Integration testing helpers for the Slim Framework
-- [tracy](https://github.com/nette/tracy) - Tracy: debugging tool you will love ♥
+- [tracy](https://github.com/nette/tracy) - 💡 Tracy: the addictive tool to ease debugging PHP code for cool developers. Friendly design, logging, profiler, advanced features like debugging AJAX calls or CLI support. You will love it.
 - [grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - Integrate Keeweb into Nextcloud
 - [paratest](https://github.com/brianium/paratest) - Parallel testing for PHPUnit
-- [webhook.site](https://github.com/fredsted/webhook.site) - A site for testing webhooks
+- [webhook.site](https://github.com/fredsted/webhook.site) - Easily test HTTP webhooks with this handy tool that displays requests in realtime.
 - [mongo-php-library](https://github.com/mongodb/mongo-php-library) - MongoDB PHP library
 - [bm-FollowFriday](https://github.com/blogmotion/bm-FollowFriday) - Interface pour le #FF Twitter
 - [IsoCodes](https://github.com/ronanguilloux/IsoCodes) - PHP library - Validators for standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries

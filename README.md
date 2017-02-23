@@ -14,7 +14,7 @@
   - [Shell](#shell)
   - [Assembly](#assembly)
   - [Nginx](#nginx)
-  - [C#](#c#)
+  - [Python](#python)
   - [Vala](#vala)
   - [CoffeeScript](#coffeescript)
   - [HTML](#html)
@@ -34,7 +34,7 @@
   - [Rust](#rust)
   - [Swift](#swift)
   - [PureScript](#purescript)
-  - [Python](#python)
+  - [C#](#c#)
   - [Haskell](#haskell)
   - [Game Maker Language](#game maker language)
   - [Go](#go)
@@ -42,6 +42,7 @@
 
 ## TypeScript 
 
+- [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
 - [angular-tesla-range-calculator](https://github.com/johnpapa/angular-tesla-range-calculator) - 
 - [augury](https://github.com/rangle/augury) - Angular 2 development tools for Chrome
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
@@ -73,7 +74,7 @@
 - [routerkeygenAndroid](https://github.com/yolosec/routerkeygenAndroid) - Router Keygen generate default WPA/WEP keys for several routers.
 - [movsim](https://github.com/movsim/movsim) - MovSim: multi-model open-source vehicular-traffic simulator
 - [mintube](https://github.com/imshyam/mintube) - Minimized / Floating YouTube for Android
-- [tikione-steam-cleaner](https://github.com/jonathanlermitage/tikione-steam-cleaner) - Steam games redistributable packages finder and remover. Available in 12 languages.
+- [tikione-steam-cleaner](https://github.com/jonathanlermitage/tikione-steam-cleaner) - Steam/GOG/Origin games redistributable packages finder and remover. Available in 12 languages. :video_game:
 - [faker](https://github.com/blocoio/faker) - A Java port of the Faker ruby gem: https://github.com/stympy/faker/
 - [AndroidAsync](https://github.com/koush/AndroidAsync) - Asynchronous socket, http (client+server), websocket, and socket.io library for android. Based on nio, not threads.
 - [steam-condenser-java](https://github.com/koraktor/steam-condenser-java) - A library for querying the Steam Community, Source, GoldSrc servers and Steam master servers
@@ -84,12 +85,17 @@
 
 ## JavaScript 
 
+- [script-ext-html-webpack-plugin](https://github.com/numical/script-ext-html-webpack-plugin) - Enhances html-webpack-plugin functionality with different deployment options for your scripts including 'async', 'preload', 'prefetch', 'defer', 'module' and inlining.
+- [lockr](https://github.com/tsironis/lockr) - A minimal API wrapper for localStorage
+- [walletjs](https://github.com/dleitee/walletjs) - A little library to handle money amounts.
+- [Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
+- [Wappalyzer](https://github.com/AliasIO/Wappalyzer) - Cross-platform utility that uncovers the technologies used on websites.
+- [dot-dom](https://github.com/wavesoft/dot-dom) - .dom is a tiny (511 byte) template engine that uses virtual DOM and some of react principles
 - [vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) - :zap: VSCode's Extension - Sync VSCode Settings using GitHub Gist
 - [dashboard](https://github.com/Reportr/dashboard) - Your life's personal dashboard.
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 - [fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
-- [HostMyDocs](https://github.com/TraceSoftwareInternational/HostMyDocs) - Small web server use to host documentation
 - [Pikaday](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 - [KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - Web based IRC client
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
@@ -118,18 +124,17 @@
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [zazu](https://github.com/tinytacoteam/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
 - [quickstart](https://github.com/angular/quickstart) - Angular 2 QuickStart - source from the documentation
-- [play-with-docker](https://github.com/franela/play-with-docker) - 
+- [play-with-docker](https://github.com/franela/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [release](https://github.com/zeit/release) - Generate changelogs with a single command
 - [papyrus](https://github.com/morkro/papyrus) - Unofficial Dropbox Paper desktop app
 - [sovereign](https://github.com/DemocracyEarth/sovereign) - 🕊 Peer to peer democracy.
 - [plugins](https://github.com/meetfranz/plugins) - Franz Plugin Repository
 - [downthemall](https://github.com/downthemall/downthemall) - Official DownThemAll! repository. Pull requests welcome.
 - [tabdown](https://github.com/WangFenjin/tabdown) - Start (GitHub-Flavored) Markdown from new tabs in your favourite web browsers.
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 - [nhuman](https://github.com/meulta/nhuman) - 
 - [gulp](https://github.com/gulpjs/gulp) - The streaming build system
-- [angular-recaptcha](https://github.com/VividCortex/angular-recaptcha) - Angular directive to add a reCaptcha widget to your form
+- [angular-recaptcha](https://github.com/VividCortex/angular-recaptcha) - AngularJS directive to add a reCaptcha widget to your form
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
 - [browsix](https://github.com/plasma-umass/browsix) - Browsix is a Unix-like operating system for the browser.
@@ -137,7 +142,7 @@
 - [angular-eonasdan-datetimepicker](https://github.com/atais/angular-eonasdan-datetimepicker) - A wrapper directive around the Eonasdan Datepicker v4 component.
 - [inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces
 - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [--shots](https://github.com/binjospookie/--shots) - Simple, minimal, and task-focused application for creating screenshots. Available for LInux, MacOS, WIndows
+- [--shots](https://github.com/binjospookie/--shots) - Simple, minimalistic, and task-focused application for creating screenshots. Available for LInux, MacOS, WIndows
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - ☘️ GUI for editing, visualizing, and manipulating JSON
 - [hooks](https://github.com/azlyth/hooks) - a mobile app to run scripts on servers -
 - [poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
@@ -240,6 +245,10 @@
 
 ## Shell 
 
+- [yubitouch](https://github.com/a-dma/yubitouch) - Bash script for setting or clearing touch requirements for # cryptographic operations the OpenPGP application on a YubiKey 4
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
+- [docker-letsencrypt-nginx-proxy-companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) - LetsEncrypt companion container for nginx-proxy
+- [pibakery-raspbian](https://github.com/davidferguson/pibakery-raspbian) - The changes made to Raspbian to support PiBakery
 - [ssh-allow-friend](https://github.com/flplv/ssh-allow-friend) - A shell script to temporary allow ssh logins for friends
 - [discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
 - [stargaze](https://github.com/jez/stargaze) - :star: Gaze at repos you've starred
@@ -249,8 +258,8 @@
 - [curl-tap-sh](https://github.com/awalgarg/curl-tap-sh) - tap curl in your editor before it gets to sh it
 - [dynamic-motd](https://github.com/ldidry/dynamic-motd) - 
 - [nginx-php7](https://github.com/skiy-dockerfile/nginx-php7) - Nginx-PHP7 for Docker
+- [nginx-php-fpm](https://github.com/ngineered/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
 - [n](https://github.com/tj/n) - Node version management
-- [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [bm-RaspberryPi](https://github.com/blogmotion/bm-RaspberryPi) - 
 - [android-prepare-vendor](https://github.com/anestisb/android-prepare-vendor) - Set of scripts to automate AOSP compatible vendor blobs generation from factory images
 - [go-fast](https://github.com/kovetskiy/go-fast) - Compile Go programs 7x faster
@@ -264,23 +273,57 @@
 
 ## Assembly 
 
-- [hello-world](https://github.com/leachim6/hello-world) - Hello world in every programming language.  Thanks to everyone who contributes to this, I am currently working on reviewing and merging pull request (12/10/2016) thanks for your patience!
+- [hello-world](https://github.com/leachim6/hello-world) - Hello world in every programming language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
 
 ## Nginx 
 
 - [docker-alpine-nginx](https://github.com/naerymdan/docker-alpine-nginx) - Slim docker image for nginx using php:9000
 
-## C# # 
+## Python 
 
-- [wincompose](https://github.com/samhocevar/wincompose) - Compose Key for Windows
-- [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
-- [RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTorrent, Azureus, BitComet, ABC and etc.) and it will NOT download/upload the files on a torrent - it only can fake download/upload. RatioMaster.NET has hardcoded emulations for the most commonly used BitTorrent clients: uTorrent, BitComet, Azureus, ABC, BitLord, BTuga, BitTornado, Burst, BitTyrant, BitSpirit.
-- [UWPHook](https://github.com/BrianLima/UWPHook) - Small project to link UWP games to Steam
-- [Overlay.NET](https://github.com/lolp1/Overlay.NET) - An easy-to-use overlay library written in C#
-- [AudioSwitch](https://github.com/sirWest/AudioSwitch) - Switch between default audio input or output + change volume
-- [P](https://github.com/p-org/P) - The P programming language
-- [anne-keyboard-windows](https://github.com/kprinssu/anne-keyboard-windows) - A Universal Windows App for controlling the Anne Pro Bluetooth enabled keyboard.
-- [KeyboordUsage](https://github.com/kbilsted/KeyboordUsage) - A keyboard statistics logger that respects your privacy and is configurable to any keyboard in any language
+- [stethoscope](https://github.com/Netflix/stethoscope) - Personalized, user-focused recommendations for employee information security.
+- [marcel](https://github.com/brouberol/marcel) - Le docker français :whale: :fr:
+- [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
+- [pybot](https://github.com/magsol/pybot) - Python framework for creating and deploying Twitter bots.
+- [swagger-render](https://github.com/minttu/swagger-render) - Renders a Swagger API
+- [kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
+- [glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
+- [kippo](https://github.com/desaster/kippo) - Kippo - SSH Honeypot
+- [github-vanity](https://github.com/ihabunek/github-vanity) - Write to your GitHub activity chart
+- [20messages](https://github.com/719Ben/20messages) - 🕵  20 anonymous messages with a random Facebook friend
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
+- [spotify-local-http-api](https://github.com/cgbystrom/spotify-local-http-api) - Simple client for local, built-in HTTP server in the Spotify player.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
+- [poor-mans-data-pipeline](https://github.com/dangoldin/poor-mans-data-pipeline) - A minimal and serverless data pipeline
+- [Colorful-Image-Colorization](https://github.com/cameronfabbri/Colorful-Image-Colorization) - A deep learning approach to colorizing images
+- [mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server that plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. You edit the playlist from any phone, tablet, or computer using a range of MPD and web clients.
+- [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [sysconf](https://github.com/giampaolo/sysconf) - 
+- [ding](https://github.com/liviu-/ding) - Lightweight time management CLI tool
+- [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+- [spotify-playlist-downloader](https://github.com/ashishmadeti/spotify-playlist-downloader) - Download spotify playlists using youtube-dl
+- [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Modifications to Google Chromium for removing Google integration and enhancing privacy, control, and transparency
+- [runmultithread](https://github.com/juanpabloaj/runmultithread) - Run the same process with different inputs in different threads
+- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+- [one-second-dash](https://github.com/ridiculousfish/one-second-dash) - Gently redirecting the Dash button through monitor mode
+- [country-codes](https://github.com/datasets/country-codes) - Comprehensive country code information, including ISO 3166 codes, ITU dialing codes, ISO 4217 currency codes, and many others
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
+- [sc-controller](https://github.com/kozec/sc-controller) - User-mode driver and GTK3 based GUI for Steam Controller
+- [AntiRansom](https://github.com/YJesus/AntiRansom) - Fighting against ransomware using honeypots
+- [Telegram-LED-Alerter](https://github.com/Nathanael-Mtd/Telegram-LED-Alerter) - LED alerter when message received in Telegram group (with RaspberyPi/Pine64)
+- [booxtream-epub-drm-remover](https://github.com/grayleonard/booxtream-epub-drm-remover) - Removes all "Social DRM" from booXtream ePub files
+- [emojibot](https://github.com/owocki/emojibot) - Slack bot that adds custom emojis to your team; *inline in Slack*.  No more putzing around in your web browser.
+- [TextSuggest](https://github.com/bharadwaj-raju/TextSuggest) - Autocomplete, expansions and more, everywhere!
+- [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
+- [robobrowser](https://github.com/jmcarp/robobrowser) - 
+- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/integrations/gitsome
+- [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+- [material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
+- [certbot](https://github.com/certbot/certbot) - Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
+- [package_control](https://github.com/wbond/package_control) - The Sublime Text package manager
 
 ## Vala 
 
@@ -296,6 +339,7 @@
 
 ## HTML 
 
+- [awesome-angular2](https://github.com/AngularClass/awesome-angular2) - :page_facing_up: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass
 - [kodachi](https://github.com/WMAL/kodachi) - Linux Kodachi operating system is based on Debian 8.6 it will provide you with a secure, anti forensic, and anonymous operating system considering all features that a person who is concerned about privacy would need to have in order to be secure.
 - [panzoom](https://github.com/anvaka/panzoom) - Pan and zoom SVG elements
 - [Gabeify](https://github.com/powderblock/Gabeify) - Bring lord gaben to any web page your heart desires.
@@ -332,7 +376,6 @@
 - [MailDev](https://github.com/djfarrelly/MailDev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [angular-progress-button-styles](https://github.com/akveo/angular-progress-button-styles) - AngularJS version of codrops progress buttons for the use with promises
 - [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-- [nginx-php-fpm](https://github.com/ngineered/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
 - [cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
 - [kissui.sticky](https://github.com/usablica/kissui.sticky) - Simple and lightweight sticky position that works everywhere
 - [freja-sphinx](https://github.com/dmitriid/freja-sphinx) - A simple and clean theme for Sphinx document generator
@@ -348,6 +391,8 @@
 
 ## Others 
 
+- [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
+- [awesome-angular-components](https://github.com/brillout/awesome-angular-components) - Catalog of Angular 2+ Components & Libraries
 - [ping](https://github.com/thechangelog/ping) - Ping! Share projects, news, or feedback. Just create an issue.
 - [awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
@@ -404,7 +449,6 @@
 ## C 
 
 - [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
-- [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross platform community driven port of the windows application “Keepass Password Safe”.
 - [CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes (code-golf-golfing-quine-obfuscated-signature-polyglot-amazing-interesting-strange-weird-mysterious-absurd-spooky-program-funny-fun-language)
 - [Broadway](https://github.com/mbebenita/Broadway) - A JavaScript H.264 decoder.
 - [gtk3-docker](https://github.com/moondev/gtk3-docker) - Run native gtk3+ GUI applications inside a container via the browser
@@ -435,6 +479,7 @@
 ## C++ 
 
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
+- [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the windows application “Keepass Password Safe”.
 - [common-words](https://github.com/anvaka/common-words) - visualization of common words in different programming languages
 - [StreetMap](https://github.com/ue4plugins/StreetMap) - Import OpenStreetMap data into Unreal Engine 4
 - [OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy + Jedi Outcast released by Raven Software
@@ -459,6 +504,7 @@
 
 ## Batchfile 
 
+- [RA_1993](https://github.com/Fortyseven/RA_1993) - Development content accidentally shipped on a certain early DOS CD-ROM game from 1993
 - [alwsl](https://github.com/alwsl/alwsl) - Install archlinux as the WSL (Windows Subsystem for Linux) host.
 
 ## AutoIt 
@@ -486,48 +532,17 @@
 
 - [neodoc](https://github.com/felixSchl/neodoc) - Beautiful, hand-crafted commandline interfaces for node.js
 
-## Python 
+## C# # 
 
-- [marcel](https://github.com/brouberol/marcel) - Le docker français :whale: :fr:
-- [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
-- [pybot](https://github.com/magsol/pybot) - Python framework for creating and deploying Twitter bots.
-- [swagger-render](https://github.com/minttu/swagger-render) - Renders a Swagger API
-- [kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
-- [glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
-- [kippo](https://github.com/desaster/kippo) - Kippo - SSH Honeypot
-- [github-vanity](https://github.com/ihabunek/github-vanity) - Write to your GitHub activity chart
-- [20messages](https://github.com/719Ben/20messages) - 🕵  20 anonymous messages with a random Facebook friend
-- [spotify-local-http-api](https://github.com/cgbystrom/spotify-local-http-api) - Simple client for local, built-in HTTP server in the Spotify player.
-- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
-- [poor-mans-data-pipeline](https://github.com/dangoldin/poor-mans-data-pipeline) - A minimal and serverless data pipeline
-- [Colorful-Image-Colorization](https://github.com/cameronfabbri/Colorful-Image-Colorization) - A deep learning approach to colorizing images
-- [mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server that plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. You edit the playlist from any phone, tablet, or computer using a range of MPD and web clients.
-- [sysconf](https://github.com/giampaolo/sysconf) - 
-- [ding](https://github.com/liviu-/ding) - Lightweight time management CLI tool
-- [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-- [spotify-playlist-downloader](https://github.com/ashishmadeti/spotify-playlist-downloader) - Download spotify playlists using youtube-dl
-- [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Modifications to Google Chromium for removing Google integration and enhancing privacy, control, and transparency
-- [runmultithread](https://github.com/juanpabloaj/runmultithread) - Run the same process with different inputs in different threads
-- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
-- [one-second-dash](https://github.com/ridiculousfish/one-second-dash) - Gently redirecting the Dash button through monitor mode
-- [country-codes](https://github.com/datasets/country-codes) - Comprehensive country code information, including ISO 3166 codes, ITU dialing codes, ISO 4217 currency codes, and many others
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
-- [sc-controller](https://github.com/kozec/sc-controller) - User-mode driver and GTK3 based GUI for Steam Controller
-- [AntiRansom](https://github.com/YJesus/AntiRansom) - Fighting against ransomware using honeypots
-- [Telegram-LED-Alerter](https://github.com/Nathanael-Mtd/Telegram-LED-Alerter) - LED alerter when message received in Telegram group (with RaspberyPi/Pine64)
-- [booxtream-epub-drm-remover](https://github.com/grayleonard/booxtream-epub-drm-remover) - Removes all "Social DRM" from booXtream ePub files
-- [emojibot](https://github.com/owocki/emojibot) - Slack bot that adds custom emojis to your team; *inline in Slack*.  No more putzing around in your web browser.
-- [TextSuggest](https://github.com/bharadwaj-raju/TextSuggest) - Autocomplete, expansions and more, everywhere!
-- [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
-- [robobrowser](https://github.com/jmcarp/robobrowser) - 
-- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/integrations/gitsome
-- [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
-- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-- [material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
-- [certbot](https://github.com/certbot/certbot) - Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
-- [package_control](https://github.com/wbond/package_control) - The Sublime Text package manager
+- [wincompose](https://github.com/samhocevar/wincompose) - Compose Key for Windows
+- [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+- [RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTorrent, Azureus, BitComet, ABC and etc.) and it will NOT download/upload the files on a torrent - it only can fake download/upload. RatioMaster.NET has hardcoded emulations for the most commonly used BitTorrent clients: uTorrent, BitComet, Azureus, ABC, BitLord, BTuga, BitTornado, Burst, BitTyrant, BitSpirit.
+- [UWPHook](https://github.com/BrianLima/UWPHook) - Small project to link UWP games to Steam
+- [Overlay.NET](https://github.com/lolp1/Overlay.NET) - An easy-to-use overlay library written in C#
+- [AudioSwitch](https://github.com/sirWest/AudioSwitch) - Switch between default audio input or output + change volume
+- [P](https://github.com/p-org/P) - The P programming language
+- [anne-keyboard-windows](https://github.com/kprinssu/anne-keyboard-windows) - A Universal Windows App for controlling the Anne Pro Bluetooth enabled keyboard.
+- [KeyboordUsage](https://github.com/kbilsted/KeyboordUsage) - A keyboard statistics logger that respects your privacy and is configurable to any keyboard in any language
 
 ## Haskell 
 
@@ -589,6 +604,7 @@
 - [Zippy](https://github.com/alchemy-fr/Zippy) - PHP zip/tar/bz2 archives (de)compression library with commandline or extensions
 - [guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 - [php-crashers](https://github.com/hannob/php-crashers) - Example scripts that cause segfaults in PHP
+- [HostMyDocs](https://github.com/TraceSoftwareInternational/HostMyDocs) - Small web server use to host documentation
 - [phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
 - [Slim-Skeleton](https://github.com/slimphp/Slim-Skeleton) - Slim Framework 3 skeleton application
 - [letter](https://github.com/bastianallgeier/letter) - Letter is a simple, highly customizable tool to create letters in your browser.
@@ -598,7 +614,7 @@
 - [iniscan](https://github.com/psecio/iniscan) - A php.ini scanner for best security practices
 - [recaptcha](https://github.com/google/recaptcha) - reCAPTCHA is a free service to protect your website from spam and abuse.
 - [slim-test-helpers](https://github.com/there4/slim-test-helpers) - Integration testing helpers for the Slim Framework
-- [tracy](https://github.com/nette/tracy) - 💡 Tracy: the addictive tool to ease debugging PHP code for cool developers. Friendly design, logging, profiler, advanced features like debugging AJAX calls or CLI support. You will love it.
+- [tracy](https://github.com/nette/tracy) - 😎 Tracy: the addictive tool to ease debugging PHP code for cool developers. Friendly design, logging, profiler, advanced features like debugging AJAX calls or CLI support. You will love it.
 - [grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - Integrate Keeweb into Nextcloud
 - [paratest](https://github.com/brianium/paratest) - Parallel testing for PHPUnit

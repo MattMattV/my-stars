@@ -85,6 +85,12 @@
 
 ## JavaScript 
 
+- [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
+- [WebClient](https://github.com/ProtonMail/WebClient) - Official AngularJS web client for the ProtonMail secure email service.
+- [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - Webpack plugin for enabling Subresource Integrity.
+- [e2email](https://github.com/e2email-org/e2email) - E2EMail is a simple Chrome application - a Gmail client that exchanges OpenPGP mail.
+- [DarkLight](https://github.com/MinhasKamal/DarkLight) - Webpage in Night Mode
+- [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
 - [script-ext-html-webpack-plugin](https://github.com/numical/script-ext-html-webpack-plugin) - Enhances html-webpack-plugin functionality with different deployment options for your scripts including 'async', 'preload', 'prefetch', 'defer', 'module' and inlining.
 - [lockr](https://github.com/tsironis/lockr) - A minimal API wrapper for localStorage
 - [walletjs](https://github.com/dleitee/walletjs) - A little library to handle money amounts.
@@ -245,6 +251,7 @@
 
 ## Shell 
 
+- [arch-linux-anywhere](https://github.com/deadhead420/arch-linux-anywhere) - Custom arch linux installer
 - [yubitouch](https://github.com/a-dma/yubitouch) - Bash script for setting or clearing touch requirements for # cryptographic operations the OpenPGP application on a YubiKey 4
 - [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [docker-letsencrypt-nginx-proxy-companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) - LetsEncrypt companion container for nginx-proxy
@@ -266,7 +273,7 @@
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
 - [testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
-- [wttr.in](https://github.com/chubin/wttr.in) - Web frontend for wego
+- [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [mella](https://github.com/florianbeer/mella) - ☁️ ownCloud upload via WebDAV using curl
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [docker-zabbix](https://github.com/berngp/docker-zabbix) - Docker Container running a Zabbix Server and Zabbix Web UI.
@@ -281,6 +288,8 @@
 
 ## Python 
 
+- [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) - 🐧 A curated list of awesome applications, softwares, tools and other materials for Linux distros.
+- [internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
 - [stethoscope](https://github.com/Netflix/stethoscope) - Personalized, user-focused recommendations for employee information security.
 - [marcel](https://github.com/brouberol/marcel) - Le docker français :whale: :fr:
 - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
@@ -327,6 +336,7 @@
 
 ## Vala 
 
+- [budgie-desktop](https://github.com/budgie-desktop/budgie-desktop) - Monolithic Budgie tree - undergoing architectural changes
 - [birdfont](https://github.com/johanmattssonm/birdfont) - A font editor which can generate fonts in TTF, EOT, SVG and BF format.
 - [elementary-ide](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE.
 
@@ -448,6 +458,8 @@
 
 ## C 
 
+- [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+- [redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
 - [CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes (code-golf-golfing-quine-obfuscated-signature-polyglot-amazing-interesting-strange-weird-mysterious-absurd-spooky-program-funny-fun-language)
 - [Broadway](https://github.com/mbebenita/Broadway) - A JavaScript H.264 decoder.
@@ -478,6 +490,11 @@
 
 ## C++ 
 
+- [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
+- [BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
+- [toggldesktop](https://github.com/toggl/toggldesktop) - Toggl Desktop app for Windows, Mac and Linux
+- [citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
+- [Magisk](https://github.com/topjohnwu/Magisk) - 
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the windows application “Keepass Password Safe”.
 - [common-words](https://github.com/anvaka/common-words) - visualization of common words in different programming languages
@@ -534,6 +551,8 @@
 
 ## C# # 
 
+- [peachpie](https://github.com/iolevel/peachpie) - Peachpie - the PHP 7.1 compiler and runtime for .NET and .NET Core
+- [xenko](https://github.com/SiliconStudio/xenko) - Xenko Game Engine
 - [wincompose](https://github.com/samhocevar/wincompose) - Compose Key for Windows
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 - [RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTorrent, Azureus, BitComet, ABC and etc.) and it will NOT download/upload the files on a torrent - it only can fake download/upload. RatioMaster.NET has hardcoded emulations for the most commonly used BitTorrent clients: uTorrent, BitComet, Azureus, ABC, BitLord, BTuga, BitTornado, Burst, BitTyrant, BitSpirit.
@@ -555,6 +574,7 @@
 
 ## Go 
 
+- [httplab](https://github.com/gchaincl/httplab) - An interactive web server
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
 - [pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection

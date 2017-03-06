@@ -25,6 +25,7 @@
   - [Groovy](#groovy)
   - [C](#c)
   - [Mathematica](#mathematica)
+  - [D](#d)
   - [Kotlin](#kotlin)
   - [C++](#c++)
   - [Objective-C](#objective-c)
@@ -62,7 +63,7 @@
 ## Java 
 
 - [intellij-swagger](https://github.com/zalando/intellij-swagger) - A plugin to help you easily edit Swagger specification files inside IntelliJ IDEA
-- [KISS](https://github.com/Neamar/KISS) - Lightning fast Android launcher
+- [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
 - [chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0) - CHVote 1.0 repository
 - [app](https://github.com/LiveBoats/app) - Display boat information in AR !
 - [cordova-plugin-camera-preview](https://github.com/westonganger/cordova-plugin-camera-preview) - Cordova plugin that allow camera interaction from HTML code
@@ -85,6 +86,7 @@
 
 ## JavaScript 
 
+- [servez](https://github.com/greggman/servez) - A simple web server for local web development.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [WebClient](https://github.com/ProtonMail/WebClient) - Official AngularJS web client for the ProtonMail secure email service.
 - [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - Webpack plugin for enabling Subresource Integrity.
@@ -97,7 +99,7 @@
 - [Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 - [Wappalyzer](https://github.com/AliasIO/Wappalyzer) - Cross-platform utility that uncovers the technologies used on websites.
 - [dot-dom](https://github.com/wavesoft/dot-dom) - .dom is a tiny (511 byte) template engine that uses virtual DOM and some of react principles
-- [vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) - :zap: VSCode's Extension - Sync VSCode Settings using GitHub Gist
+- [vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) - :zap: VSCode Extension - Sync VSCode Settings using GitHub Gist.
 - [dashboard](https://github.com/Reportr/dashboard) - Your life's personal dashboard.
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
@@ -273,7 +275,6 @@
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
 - [testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
-- [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [mella](https://github.com/florianbeer/mella) - ☁️ ownCloud upload via WebDAV using curl
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [docker-zabbix](https://github.com/berngp/docker-zabbix) - Docker Container running a Zabbix Server and Zabbix Web UI.
@@ -288,7 +289,8 @@
 
 ## Python 
 
-- [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) - 🐧 A curated list of awesome applications, softwares, tools and other materials for Linux distros.
+- [deck-chores](https://github.com/funkyfuture/deck-chores) - Job scheduler for Docker containers, configured via labels.
+- [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) - 🐧 A list of awesome applications, softwares, tools and other materials for Linux distros.
 - [internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
 - [stethoscope](https://github.com/Netflix/stethoscope) - Personalized, user-focused recommendations for employee information security.
 - [marcel](https://github.com/brouberol/marcel) - Le docker français :whale: :fr:
@@ -326,6 +328,7 @@
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 - [robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/integrations/gitsome
+- [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
@@ -378,6 +381,8 @@
 
 ## CSS 
 
+- [Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
+- [github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts.
 - [iziModal](https://github.com/dolce/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 - [iziToast](https://github.com/dolce/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 - [arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
@@ -401,6 +406,7 @@
 
 ## Others 
 
+- [server_notes](https://github.com/jrothrock/server_notes) - Personal notes on building/configuring a server
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [awesome-angular-components](https://github.com/brillout/awesome-angular-components) - Catalog of Angular 2+ Components & Libraries
 - [ping](https://github.com/thechangelog/ping) - Ping! Share projects, news, or feedback. Just create an issue.
@@ -467,7 +473,7 @@
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [mongoose](https://github.com/cesanta/mongoose) - Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server,  MQTT client and broker and much more.
-- [robotgo](https://github.com/go-vgo/robotgo) - RobotGo,Go Native cross-platform system automation
+- [robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform system automation
 - [php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [wine](https://github.com/wine-mirror/wine) - 
@@ -484,12 +490,17 @@
 
 - [NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
 
+## D 
+
+- [terminix](https://github.com/gnunn1/terminix) - A tiling terminal emulator for Linux using GTK+ 3
+
 ## Kotlin 
 
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
 
 ## C++ 
 
+- [protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
 - [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
 - [BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [toggldesktop](https://github.com/toggl/toggldesktop) - Toggl Desktop app for Windows, Mac and Linux
@@ -619,6 +630,7 @@
 
 ## PHP 
 
+- [phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 - [slim-basic-auth](https://github.com/tuupola/slim-basic-auth) - PSR-7 HTTP Basic Authentication Middleware
 - [Zipper](https://github.com/Chumper/Zipper) - This is a simple Wrapper around the ZipArchive methods with some handy functions
 - [Zippy](https://github.com/alchemy-fr/Zippy) - PHP zip/tar/bz2 archives (de)compression library with commandline or extensions

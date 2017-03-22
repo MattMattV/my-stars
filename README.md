@@ -24,9 +24,10 @@
   - [QML](#qml)
   - [Groovy](#groovy)
   - [C](#c)
-  - [Mathematica](#mathematica)
+  - [Vue](#vue)
   - [D](#d)
   - [Kotlin](#kotlin)
+  - [Mathematica](#mathematica)
   - [C++](#c++)
   - [Objective-C](#objective-c)
   - [Batchfile](#batchfile)
@@ -43,6 +44,8 @@
 
 ## TypeScript 
 
+- [vetur](https://github.com/octref/vetur) - Vue tooling for VSCode.
+- [prettier-vscode](https://github.com/esbenp/prettier-vscode) - Visual Studio Code plugin for Prettier
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
 - [angular-tesla-range-calculator](https://github.com/johnpapa/angular-tesla-range-calculator) - 
 - [augury](https://github.com/rangle/augury) - Angular 2 development tools for Chrome
@@ -86,6 +89,23 @@
 
 ## JavaScript 
 
+- [nuclear](https://github.com/nukeop/nuclear) - An Electron-based, multiplatform music player app that streams from multiple sources
+- [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin
+- [pegaswitch](https://github.com/reswitched/pegaswitch) - PegaSwitch is an exploit toolkit for the Nintendo Switch
+- [peeqo-robot](https://github.com/shekit/peeqo-robot) - The world's first robot to interact through GIFs...'nuf said
+- [wick](https://github.com/zrispo/wick) - The Internet's free and open source multimedia creation suite
+- [planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
+- [node-archy](https://github.com/substack/node-archy) - render nested hierarchies `npm ls` style with unicode pipes
+- [bit](https://github.com/teambit/bit) - Distributed and virtualized component repository
+- [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated JavaScript formatter.
+- [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
+- [angular-2-samples](https://github.com/thelgevold/angular-2-samples) - Angular sample components
+- [a-million-times](https://github.com/MichaelHoste/a-million-times) - JS Clocks from "A million Times" (ReactJS)
+- [desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
+- [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
+- [marko](https://github.com/marko-js/marko) - Simple, intuitive, performant UI components and templates
+- [platform](https://github.com/mattermost/platform) - Open source Slack-alternative in Golang and React - Mattermost
+- [yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [servez](https://github.com/greggman/servez) - A simple web server for local web development.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [WebClient](https://github.com/ProtonMail/WebClient) - Official AngularJS web client for the ProtonMail secure email service.
@@ -160,7 +180,7 @@
 - [CKP](https://github.com/perfectapi/CKP) - Chrome extension for filling in passwords on websites
 - [autorsync](https://github.com/mattes/autorsync) - Node.js File Watch + rsync
 - [raml2html](https://github.com/raml2html/raml2html) - RAML to HTML documentation generator.
-- [logdown.js](https://github.com/caiogondim/logdown.js) - :notebook: Debug utility with markdown support that runs on browser and server
+- [logdown.js](https://github.com/caiogondim/logdown.js) - :black_nib: Debug utility with markdown support that runs on browser and server
 - [lumber](https://github.com/ForestAdmin/lumber) - The Admin Interface Framework
 - [raml-server](https://github.com/farolfo/raml-server) - run a mocked server JUST based on a RAML API's definition .. zero coding
 - [github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
@@ -253,6 +273,10 @@
 
 ## Shell 
 
+- [git-quick-stats](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
+- [fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z
+- [git-beam-it](https://github.com/SeedJobs/git-beam-it) - Bulk clone Github repositories for a specific user/organisation or team
+- [ffscreencast](https://github.com/cytopia/ffscreencast) - [bash] ffmpeg screencast with video overlay and multi monitor support
 - [arch-linux-anywhere](https://github.com/deadhead420/arch-linux-anywhere) - Custom arch linux installer
 - [yubitouch](https://github.com/a-dma/yubitouch) - Bash script for setting or clearing touch requirements for # cryptographic operations the OpenPGP application on a YubiKey 4
 - [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
@@ -281,7 +305,7 @@
 
 ## Assembly 
 
-- [hello-world](https://github.com/leachim6/hello-world) - Hello world in every programming language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
+- [hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
 
 ## Nginx 
 
@@ -289,6 +313,10 @@
 
 ## Python 
 
+- [sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for docker engine
+- [iops](https://github.com/cxcv/iops) - Benchmark disk IOs
+- [Circlean](https://github.com/CIRCL/Circlean) - USB key cleaner
+- [travis-pls](https://github.com/naftulikay/travis-pls) - A utility for disturbing standard output to keep Travis jobs alive.
 - [deck-chores](https://github.com/funkyfuture/deck-chores) - Job scheduler for Docker containers, configured via labels.
 - [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) - 🐧 A list of awesome applications, softwares, tools and other materials for Linux distros.
 - [internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
@@ -339,6 +367,7 @@
 
 ## Vala 
 
+- [peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 - [budgie-desktop](https://github.com/budgie-desktop/budgie-desktop) - Monolithic Budgie tree - undergoing architectural changes
 - [birdfont](https://github.com/johanmattssonm/birdfont) - A font editor which can generate fonts in TTF, EOT, SVG and BF format.
 - [elementary-ide](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE.
@@ -356,7 +385,7 @@
 - [kodachi](https://github.com/WMAL/kodachi) - Linux Kodachi operating system is based on Debian 8.6 it will provide you with a secure, anti forensic, and anonymous operating system considering all features that a person who is concerned about privacy would need to have in order to be secure.
 - [panzoom](https://github.com/anvaka/panzoom) - Pan and zoom SVG elements
 - [Gabeify](https://github.com/powderblock/Gabeify) - Bring lord gaben to any web page your heart desires.
-- [risingstars2016](https://github.com/michaelrambeau/risingstars2016) - :stars: A complete overview of the JavaScript landscape in 2016: trends about front-end and node.js frameworks, tooling...
+- [risingstars2016](https://github.com/michaelrambeau/risingstars2016) - :stars: A complete overview of the JavaScript landscape in 2016: trends about front-end and node.js frameworks, tooling... Available in English, Japanese and Chinese.
 - [awsm.css](https://github.com/igoradamenko/awsm.css) - Simple CSS library for semantic HTML markup
 - [githunt](https://github.com/kamranahmedse/githunt) - Chrome Extension - Replace your new tab with trending Github repositories
 - [visdown](https://github.com/amitkaps/visdown) - Visualisation Markdown
@@ -406,9 +435,10 @@
 
 ## Others 
 
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
+- [awesome-angular-components](https://github.com/brillout/awesome-angular-components) - Catalog of Angular 2+ Components & Libraries
 - [server_notes](https://github.com/jrothrock/server_notes) - Personal notes on building/configuring a server
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
-- [awesome-angular-components](https://github.com/brillout/awesome-angular-components) - Catalog of Angular 2+ Components & Libraries
 - [ping](https://github.com/thechangelog/ping) - Ping! Share projects, news, or feedback. Just create an issue.
 - [awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
@@ -464,8 +494,11 @@
 
 ## C 
 
+- [gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
+- [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 - [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+- [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
 - [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
 - [CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes (code-golf-golfing-quine-obfuscated-signature-polyglot-amazing-interesting-strange-weird-mysterious-absurd-spooky-program-funny-fun-language)
 - [Broadway](https://github.com/mbebenita/Broadway) - A JavaScript H.264 decoder.
@@ -481,33 +514,37 @@
 - [no-more-secrets](https://github.com/bartobri/no-more-secrets) - A recreation of the famous data decryption effect as seen in the 1992 movie Sneakers.
 - [xrectsel](https://github.com/lolilolicon/xrectsel) - print the geometry of a rectangular screen region
 - [tmux](https://github.com/tmux/tmux) - tmux source code
-- [SimpleRT](https://github.com/vvviperrr/SimpleRT) - Simple Reverse Tethering for Android
+- [SimpleRT](https://github.com/vvviperrr/SimpleRT) - Simple Reverse Tethering utility for Android
 - [u2f-zero](https://github.com/conorpp/u2f-zero) - U2F USB token optimized for physical security, affordability, and style
 - [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 
-## Mathematica 
+## Vue 
 
-- [NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
+- [eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
 
 ## D 
 
-- [terminix](https://github.com/gnunn1/terminix) - A tiling terminal emulator for Linux using GTK+ 3
+- [tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
 
 ## Kotlin 
 
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
 
+## Mathematica 
+
+- [NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
+
 ## C++ 
 
+- [encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
 - [protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
 - [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
 - [BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [toggldesktop](https://github.com/toggl/toggldesktop) - Toggl Desktop app for Windows, Mac and Linux
 - [citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
-- [Magisk](https://github.com/topjohnwu/Magisk) - 
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
-- [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the windows application “Keepass Password Safe”.
+- [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [common-words](https://github.com/anvaka/common-words) - visualization of common words in different programming languages
 - [StreetMap](https://github.com/ue4plugins/StreetMap) - Import OpenStreetMap data into Unreal Engine 4
 - [OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy + Jedi Outcast released by Raven Software
@@ -585,6 +622,10 @@
 
 ## Go 
 
+- [faas](https://github.com/alexellis/faas) - Functions as a Service (on Docker Swarm)
+- [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
+- [depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
+- [gowebexample](https://github.com/bitexploder/gowebexample) - Go Example Web Application
 - [httplab](https://github.com/gchaincl/httplab) - An interactive web server
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
 - [pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color

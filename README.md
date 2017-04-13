@@ -44,11 +44,13 @@
 
 ## TypeScript 
 
+- [ngx-charts](https://github.com/swimlane/ngx-charts) - :bar_chart: Declarative Charting Framework for Angular2 and beyond!
+- [codelyzer](https://github.com/mgechev/codelyzer) - Linting for Angular projects.
 - [vetur](https://github.com/octref/vetur) - Vue tooling for VSCode.
 - [prettier-vscode](https://github.com/esbenp/prettier-vscode) - Visual Studio Code plugin for Prettier
-- [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
+- [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [angular-tesla-range-calculator](https://github.com/johnpapa/angular-tesla-range-calculator) - 
-- [augury](https://github.com/rangle/augury) - Angular 2 development tools for Chrome
+- [augury](https://github.com/rangle/augury) - Angular 2+ development tools for Chrome
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST
 - [lyricfier](https://github.com/emilioastarita/lyricfier) - a Spotify Lyrics alternative app
@@ -65,6 +67,7 @@
 
 ## Java 
 
+- [Espresso](https://github.com/TonnyL/Espresso) - Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing.
 - [intellij-swagger](https://github.com/zalando/intellij-swagger) - A plugin to help you easily edit Swagger specification files inside IntelliJ IDEA
 - [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
 - [chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0) - CHVote 1.0 repository
@@ -89,6 +92,12 @@
 
 ## JavaScript 
 
+- [Slingshot](https://github.com/Elbullazul/Slingshot) - A clone of Pantheon's Slingshot launcher in the form of a Cinnamon applet.
+- [across-tabs](https://github.com/wingify/across-tabs) - Easy communication between cross-origin browser tabs
+- [earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
+- [AnyChart](https://github.com/AnyChart/AnyChart) - JavaScript Charts designed to be embedded and integrated
+- [dua.js](https://github.com/rudimk/dua.js) - A Node.js package for invoking divine blessings for one's Javascript code.
+- [loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
 - [nuclear](https://github.com/nukeop/nuclear) - An Electron-based, multiplatform music player app that streams from multiple sources
 - [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin
 - [pegaswitch](https://github.com/reswitched/pegaswitch) - PegaSwitch is an exploit toolkit for the Nintendo Switch
@@ -176,11 +185,11 @@
 - [poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
 - [scrum-board](https://github.com/i-break-codes/scrum-board) - JavaScript Scrum App to manage tasks with ease
 - [zangodb](https://github.com/erikolson186/zangodb) - MongoDB-like interface for HTML5 IndexedDB
-- [WikipediaP2P](https://github.com/guerrerocarlos/WikipediaP2P) - WikipediaP2P.org Chrome Extension http://www.wikipediap2p.org/
+- [WikipediaP2P](https://github.com/guerrerocarlos/WikipediaP2P) - WikipediaP2P.org Chrome Extension
 - [CKP](https://github.com/perfectapi/CKP) - Chrome extension for filling in passwords on websites
 - [autorsync](https://github.com/mattes/autorsync) - Node.js File Watch + rsync
 - [raml2html](https://github.com/raml2html/raml2html) - RAML to HTML documentation generator.
-- [logdown.js](https://github.com/caiogondim/logdown.js) - :black_nib: Debug utility with markdown support that runs on browser and server
+- [logdown.js](https://github.com/caiogondim/logdown.js) - :pencil2: Debug utility with markdown support that runs on browser and server
 - [lumber](https://github.com/ForestAdmin/lumber) - The Admin Interface Framework
 - [raml-server](https://github.com/farolfo/raml-server) - run a mocked server JUST based on a RAML API's definition .. zero coding
 - [github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
@@ -210,7 +219,7 @@
 - [debugger.html](https://github.com/devtools-html/debugger.html) - The Firefox debugger that works anywhere  :boom:
 - [miaou](https://github.com/Canop/miaou) - A chat server with OAuth2 authentication, persistent and searchable history, video and audio, markdown formatting, private and public rooms, stars, votes, embedded games, and many other features
 - [mockbin](https://github.com/Mashape/mockbin) - Mock, Test & Track HTTP Requests and Responses.
-- [docker-swarm-visualizer](https://github.com/ManoMarks/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
+- [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [electron-chrome](https://github.com/koush/electron-chrome) - 
 - [template-colors](https://github.com/icodeforlove/template-colors) - :art: beautiful color usage within template literals
 - [svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
@@ -273,10 +282,11 @@
 
 ## Shell 
 
+- [hostsctl](https://github.com/0xl3vi/hostsctl) - :see_no_evil: Control your /etc/hosts file easily, block ads, social networks, and more.
 - [git-quick-stats](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z
 - [git-beam-it](https://github.com/SeedJobs/git-beam-it) - Bulk clone Github repositories for a specific user/organisation or team
-- [ffscreencast](https://github.com/cytopia/ffscreencast) - [bash] ffmpeg screencast with video overlay and multi monitor support
+- [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
 - [arch-linux-anywhere](https://github.com/deadhead420/arch-linux-anywhere) - Custom arch linux installer
 - [yubitouch](https://github.com/a-dma/yubitouch) - Bash script for setting or clearing touch requirements for # cryptographic operations the OpenPGP application on a YubiKey 4
 - [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
@@ -313,6 +323,7 @@
 
 ## Python 
 
+- [rickify](https://github.com/kjempelodott/rickify) - How to rickroll Spotify for Android
 - [sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for docker engine
 - [iops](https://github.com/cxcv/iops) - Benchmark disk IOs
 - [Circlean](https://github.com/CIRCL/Circlean) - USB key cleaner
@@ -381,7 +392,9 @@
 
 ## HTML 
 
-- [awesome-angular2](https://github.com/AngularClass/awesome-angular2) - :page_facing_up: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass
+- [lazyload](https://github.com/verlok/lazyload) - LazyLoad is a fast, lightweight and flexible script to allow you enhance performance on your website by loading images only as they enter (or are about to enter) the viewport or a scrollable area, with best support to the img srcset attribute and to the progressive JPEG image format.
+- [cheatsheet](https://github.com/vuejs-tips/cheatsheet) - Vue.js 2.2 complete API cheatsheet
+- [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass
 - [kodachi](https://github.com/WMAL/kodachi) - Linux Kodachi operating system is based on Debian 8.6 it will provide you with a secure, anti forensic, and anonymous operating system considering all features that a person who is concerned about privacy would need to have in order to be secure.
 - [panzoom](https://github.com/anvaka/panzoom) - Pan and zoom SVG elements
 - [Gabeify](https://github.com/powderblock/Gabeify) - Bring lord gaben to any web page your heart desires.
@@ -390,7 +403,7 @@
 - [githunt](https://github.com/kamranahmedse/githunt) - Chrome Extension - Replace your new tab with trending Github repositories
 - [visdown](https://github.com/amitkaps/visdown) - Visualisation Markdown
 - [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: Local git statistics including GitHub-like contributions calendars.
-- [passbolt_docker_debian](https://github.com/passbolt/passbolt_docker_debian) - Get started with passbolt using docker!
+- [passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with passbolt using docker!
 - [stop-the-bullshit](https://github.com/jacquerie/stop-the-bullshit) - Blocks websites that publish fake news, and hides their posts on Facebook
 - [gun-starter-app](https://github.com/gundb/gun-starter-app) - Framework agnostic starter code for gun apps
 - [spongedown](https://github.com/ivanceras/spongedown) - Markdown with svg bob support
@@ -399,7 +412,6 @@
 - [10ktower](https://github.com/webrender/10ktower) - Tower Sim & Entry for 10k Apart 2016
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [angular-datepicker](https://github.com/720kb/angular-datepicker) - Angularjs datepicker module, generate a datepicker on your input element -  https://720kb.github.io/angular-datepicker
-- [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations
 - [dijkstras-algorithm](https://github.com/kdrakon/dijkstras-algorithm) - Scala and ScalaJS implementation of the famous algorithm
 - [Pastejacking](https://github.com/dxa4481/Pastejacking) - A demo of overriding what's in a person's clipboard
 - [min](https://github.com/minbrowser/min) - A smarter, faster web browser
@@ -410,6 +422,7 @@
 
 ## CSS 
 
+- [Material-Freebox-OS](https://github.com/chteuchteu/Material-Freebox-OS) - Freebox OS Material UI redesign - Chrome & Firefox extension
 - [Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts.
 - [iziModal](https://github.com/dolce/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
@@ -426,6 +439,7 @@
 - [iconizr](https://github.com/jkphl/iconizr) - A PHP command line tool for converting SVG images to a set of CSS icons (SVG & PNG, single icons and / or CSS sprites) with support for image optimization and Sass output. Created by Joschi Kuphal (@jkphl), licensed under the terms of the MIT license
 - [txt.wav](https://github.com/still-life-studio/txt.wav) - some weird text animations the internet deserves
 - [HTML-Sheets-of-Paper](https://github.com/delight-im/HTML-Sheets-of-Paper) - Word processor in your browser using HTML and CSS (for invoices, legal notices, etc.)
+- [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations
 - [material-kit](https://github.com/creativetimofficial/material-kit) - Free Bootstrap Material Design UI Kit
 - [easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
 - [Pressure2](https://github.com/DirtDiglett/Pressure2) - Pressure² - a beautiful theme for your Steam Client.
@@ -494,13 +508,14 @@
 
 ## C 
 
+- [TimeStylePebble](https://github.com/freakified/TimeStylePebble) - A stylish, customizable face for the Pebble Time.
 - [gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 - [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
 - [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
-- [CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes (code-golf-golfing-quine-obfuscated-signature-polyglot-amazing-interesting-strange-weird-mysterious-absurd-spooky-program-funny-fun-language)
+- [CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes
 - [Broadway](https://github.com/mbebenita/Broadway) - A JavaScript H.264 decoder.
 - [gtk3-docker](https://github.com/moondev/gtk3-docker) - Run native gtk3+ GUI applications inside a container via the browser
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
@@ -537,6 +552,8 @@
 
 ## C++ 
 
+- [iaito](https://github.com/hteso/iaito) - A Qt and C++ GUI for radare2 reverse engineering framework
+- [Stockfish](https://github.com/official-stockfish/Stockfish) - UCI chess engine
 - [encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
 - [protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
 - [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
@@ -622,6 +639,11 @@
 
 ## Go 
 
+- [glua](https://github.com/fiatjaf/glua) - Full-featured Lua VM for nodejs and the browser. Based on https://github.com/yuin/gopher-lua
+- [cli](https://github.com/dnote-io/cli) - Capture what you learn as you code without leaving the command line
+- [realize](https://github.com/tockins/realize) - Go build system with file watchers, live reload and output streams. Run, build and watch file changes with custom paths
+- [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams.
 - [faas](https://github.com/alexellis/faas) - Functions as a Service (on Docker Swarm)
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
@@ -639,7 +661,7 @@
 - [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [mutagen](https://github.com/havoc-io/mutagen) - Simple, cross-platform, continuous, bi-directional file synchronization
 - [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
-- [traefik](https://github.com/containous/traefik) - Træfɪk, a modern reverse proxy
+- [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
 - [spoofgo](https://github.com/sabey/spoofgo) - An Application for Spoofing Movement written in Golang
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [the-internet](https://github.com/nsec/the-internet) - The code of our Internet simulator
@@ -671,6 +693,7 @@
 
 ## PHP 
 
+- [php-console](https://github.com/barbushin/php-console) - Handle PHP errors, dump variables, execute PHP code remotely in Google Chrome
 - [phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 - [slim-basic-auth](https://github.com/tuupola/slim-basic-auth) - PSR-7 HTTP Basic Authentication Middleware
 - [Zipper](https://github.com/Chumper/Zipper) - This is a simple Wrapper around the ZipArchive methods with some handy functions

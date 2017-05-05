@@ -67,7 +67,7 @@
 
 ## Java 
 
-- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Developers on GitHub, GitLab and Bitbucket.
+- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket.
 - [Espresso](https://github.com/TonnyL/Espresso) - 🚚 Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing.
 - [intellij-swagger](https://github.com/zalando/intellij-swagger) - A plugin to help you easily edit Swagger specification files inside IntelliJ IDEA
 - [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
@@ -93,6 +93,12 @@
 
 ## JavaScript 
 
+- [prepack](https://github.com/facebook/prepack) - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently.
+- [insomnia](https://github.com/getinsomnia/insomnia) - The most intuitive cross-platform REST API Client 😴
+- [flood](https://github.com/jfurrow/flood) - A modern web UI for rTorrent with a Node.js backend and React frontend.
+- [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable
+- [reposplit](https://github.com/git-toni/reposplit) - Chrome extension to browse code at Github repositories comfortably
+- [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [mkcli](https://github.com/mkdoc/mkcli) - Markdown command line interface definition
 - [breaklock](https://github.com/maxwellito/breaklock) - Web game, hybrid of Mastermind and the Android pattern lock
 - [zuck.js](https://github.com/ramon82/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
@@ -167,7 +173,7 @@
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [zazu](https://github.com/tinytacoteam/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
 - [quickstart](https://github.com/angular/quickstart) - Angular 2 QuickStart - source from the documentation
-- [play-with-docker](https://github.com/franela/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
+- [play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [release](https://github.com/zeit/release) - Generate changelogs with a single command
 - [papyrus](https://github.com/morkro/papyrus) - Unofficial Dropbox Paper desktop app
 - [sovereign](https://github.com/DemocracyEarth/sovereign) - 🕊 Peer to peer democracy.
@@ -231,7 +237,7 @@
 - [svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
-- [express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Express.js apps, inspired by status.github.com
+- [express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com
 - [regl-cnn](https://github.com/Erkaman/regl-cnn) - Digit recognition with Convolutional Neural Networks in WebGL
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
@@ -289,7 +295,6 @@
 ## Shell 
 
 - [audio_shop](https://github.com/robertfoss/audio_shop) - Your friendly neighbourhood script for mangling images or video using audio editing tools
-- [hostsctl](https://github.com/levisabah/hostsctl) - :see_no_evil: block advertisements, trackers, by manipulating /etc/hosts from the command line.
 - [git-quick-stats](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z
 - [git-beam-it](https://github.com/SeedJobs/git-beam-it) - Bulk clone Github repositories for a specific user/organisation or team
@@ -331,6 +336,8 @@
 
 ## Python 
 
+- [electrum](https://github.com/spesmilo/electrum) - Electrum; Bitcoin thin client
+- [opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall.
 - [backupchecker](https://github.com/backupchecker/backupchecker) - Backup Checker is a fully automated backup checker
 - [mimipenguin](https://github.com/huntergregal/mimipenguin) - A tool to dump the login password from the current linux user
 - [rickify](https://github.com/kjempelodott/rickify) - How to rickroll Spotify for Android
@@ -432,6 +439,7 @@
 
 ## CSS 
 
+- [sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [expodal](https://github.com/jessekorzan/expodal) - The Most Explosive Modal on The Web.
 - [Material-Freebox-OS](https://github.com/chteuchteu/Material-Freebox-OS) - Freebox OS Material UI redesign - Chrome & Firefox extension
 - [Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
@@ -464,6 +472,7 @@
 - [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [awesome-angular-components](https://github.com/brillout/awesome-angular-components) - Catalog of Angular 2+ Components & Libraries
 - [server_notes](https://github.com/jrothrock/server_notes) - Personal notes on building/configuring a server
+- [xenko](https://github.com/SiliconStudio/xenko) - Xenko Game Engine
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [ping](https://github.com/thechangelog/ping) - Ping! Share projects, news, or feedback. Just create an issue.
 - [awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
@@ -599,6 +608,7 @@
 
 ## Objective-C 
 
+- [electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
 - [Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets
 - [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) - 📡 Native App over HTTP, on iOS
 
@@ -635,7 +645,6 @@
 ## C# # 
 
 - [peachpie](https://github.com/iolevel/peachpie) - Peachpie - the PHP 7.1 compiler and runtime for .NET and .NET Core
-- [xenko](https://github.com/SiliconStudio/xenko) - Xenko Game Engine
 - [wincompose](https://github.com/samhocevar/wincompose) - Compose Key for Windows
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 - [RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTorrent, Azureus, BitComet, ABC and etc.) and it will NOT download/upload the files on a torrent - it only can fake download/upload. RatioMaster.NET has hardcoded emulations for the most commonly used BitTorrent clients: uTorrent, BitComet, Azureus, ABC, BitLord, BTuga, BitTornado, Burst, BitTyrant, BitSpirit.
@@ -657,6 +666,9 @@
 
 ## Go 
 
+- [fileportal](https://github.com/andyleap/fileportal) - A portal gun for your files!
+- [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+- [kr](https://github.com/kryptco/kr) - kr | SSH using a key stored in Kryptonite.
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [Go-SCP](https://github.com/Checkmarx/Go-SCP) - Go programming language secure coding practices guide
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands.
@@ -716,6 +728,7 @@
 
 ## PHP 
 
+- [cwh](https://github.com/maxbanton/cwh) - Amazon Web Services CloudWatch Logs Handler for Monolog library
 - [php-console](https://github.com/barbushin/php-console) - Handle PHP errors, dump variables, execute PHP code remotely in Google Chrome
 - [phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 - [slim-basic-auth](https://github.com/tuupola/slim-basic-auth) - PSR-7 HTTP Basic Authentication Middleware

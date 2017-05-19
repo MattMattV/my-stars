@@ -44,10 +44,12 @@
 
 ## TypeScript 
 
+- [compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular application
 - [ngx-charts](https://github.com/swimlane/ngx-charts) - :bar_chart: Declarative Charting Framework for Angular2 and beyond!
-- [codelyzer](https://github.com/mgechev/codelyzer) - Linting for Angular projects.
+- [codelyzer](https://github.com/mgechev/codelyzer) - Static analysis for Angular projects.
 - [vetur](https://github.com/octref/vetur) - Vue tooling for VSCode.
 - [prettier-vscode](https://github.com/esbenp/prettier-vscode) - Visual Studio Code plugin for Prettier
+- [angular-2-samples](https://github.com/thelgevold/angular-2-samples) - Angular sample components
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [angular-tesla-range-calculator](https://github.com/johnpapa/angular-tesla-range-calculator) - 
 - [augury](https://github.com/rangle/augury) - Angular 2+ development tools for Chrome
@@ -57,17 +59,19 @@
 - [old-ionic-app](https://github.com/LiveBoats/old-ionic-app) - Our app with Ionic 2 support :)
 - [alduin](https://github.com/Xstoudi/alduin) - An RSS and Atom feed aggregator available on Windows and Linux.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [clarity](https://github.com/vmware/clarity) - Clarity Design System: UX guidelines, HTML/CSS framework, and Angular 2 components working together to craft exceptional experiences
+- [clarity](https://github.com/vmware/clarity) - UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences
 - [ng2-rest-api](https://github.com/zaqqaz/ng2-rest-api) - :red_circle: Rest API provider for angular 2.
 - [Joust](https://github.com/HearthSim/Joust) - 🍿 Hearthstone replays in your browser.
 - [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 - [visualizer](https://github.com/ui-router/visualizer) - UI-Router state visualizer and transition visualizer
+- [jQuery.mmenu](https://github.com/FrDH/jQuery.mmenu) - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.
 - [vscode-go](https://github.com/Microsoft/vscode-go) - An extension for VS Code which provides support for the Go language.
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 
 ## Java 
 
-- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket.
+- [StreetComplete](https://github.com/westnordost/StreetComplete) - Surveyor app for Android
+- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, Gitea, and Gogs.
 - [Espresso](https://github.com/TonnyL/Espresso) - 🚚 Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing.
 - [intellij-swagger](https://github.com/zalando/intellij-swagger) - A plugin to help you easily edit Swagger specification files inside IntelliJ IDEA
 - [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
@@ -82,7 +86,7 @@
 - [routerkeygenAndroid](https://github.com/yolosec/routerkeygenAndroid) - Router Keygen generate default WPA/WEP keys for several routers.
 - [movsim](https://github.com/movsim/movsim) - MovSim: multi-model open-source vehicular-traffic simulator
 - [mintube](https://github.com/imshyam/mintube) - Minimized / Floating YouTube for Android
-- [tikione-steam-cleaner](https://github.com/jonathanlermitage/tikione-steam-cleaner) - Steam/GOG/Origin games redistributable packages finder and remover. Available in 12 languages. :video_game:
+- [tikione-steam-cleaner](https://github.com/jonathanlermitage/tikione-steam-cleaner) - Steam/GOG/Origin games redistributable packages finder and remover. Available in 12 languages.
 - [faker](https://github.com/blocoio/faker) - A Java port of the Faker ruby gem: https://github.com/stympy/faker/
 - [AndroidAsync](https://github.com/koush/AndroidAsync) - Asynchronous socket, http (client+server), websocket, and socket.io library for android. Based on nio, not threads.
 - [steam-condenser-java](https://github.com/koraktor/steam-condenser-java) - A library for querying the Steam Community, Source, GoldSrc servers and Steam master servers
@@ -93,11 +97,17 @@
 
 ## JavaScript 
 
+- [sweetalert2](https://github.com/limonte/sweetalert2) - A beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- [dogescript](https://github.com/dogescript/dogescript) - wow so syntax very doge much future
+- [Doomsday-Machine](https://github.com/johnjones4/Doomsday-Machine) - Doomsday Machine is a tool for backing up cloud services to a local machine.
+- [ava](https://github.com/avajs/ava) - :rocket: Futuristic JavaScript test runner
+- [gridgarden](https://github.com/thomaspark/gridgarden) - A game for learning CSS grid layout
+- [Caliopen](https://github.com/CaliOpen/Caliopen) - Entry point for Caliopen messaging platform project
 - [prepack](https://github.com/facebook/prepack) - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently.
 - [insomnia](https://github.com/getinsomnia/insomnia) - The most intuitive cross-platform REST API Client 😴
 - [flood](https://github.com/jfurrow/flood) - A modern web UI for rTorrent with a Node.js backend and React frontend.
 - [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable
-- [reposplit](https://github.com/git-toni/reposplit) - Chrome extension to browse code at Github repositories comfortably
+- [reposplit](https://github.com/git-toni/reposplit) - Chrome extension to browse code at Github/Gitlab repositories comfortably
 - [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [mkcli](https://github.com/mkdoc/mkcli) - Markdown command line interface definition
 - [breaklock](https://github.com/maxwellito/breaklock) - Web game, hybrid of Mastermind and the Android pattern lock
@@ -120,7 +130,6 @@
 - [bit](https://github.com/teambit/bit) - Distributed and virtualized component repository
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated JavaScript formatter.
 - [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
-- [angular-2-samples](https://github.com/thelgevold/angular-2-samples) - Angular sample components
 - [a-million-times](https://github.com/MichaelHoste/a-million-times) - JS Clocks from "A million Times" (ReactJS)
 - [desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -183,6 +192,7 @@
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 - [nhuman](https://github.com/meulta/nhuman) - 
 - [gulp](https://github.com/gulpjs/gulp) - The streaming build system
+- [MailDev](https://github.com/djfarrelly/MailDev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [angular-recaptcha](https://github.com/VividCortex/angular-recaptcha) - AngularJS directive to add a reCaptcha widget to your form
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
@@ -224,7 +234,7 @@
 - [bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers
 - [canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-- [odoo](https://github.com/coderitual/odoo) - :zap: SVG odometer effect with motion blur
+- [svg-odoo](https://github.com/coderitual/svg-odoo) - :zap: SVG odometer effect library with motion blur
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
 - [reflexio](https://github.com/ketanhwr/reflexio) - A web game based on reflection
@@ -273,7 +283,6 @@
 - [angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 - [jquery-drilldown](https://github.com/Cinamonas/jquery-drilldown) - A simple jQuery plugin for creating animated drilldown menus
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor on your browser
-- [jQuery.mmenu](https://github.com/FrDH/jQuery.mmenu) - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.
 - [Bootstrap-Offcanvas](https://github.com/iamphill/Bootstrap-Offcanvas) - :zap: Offcanvas menu built with Bootstrap
 - [cv-maker](https://github.com/awalgarg/cv-maker) - simple elegant markdown based resumes
 - [git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
@@ -294,6 +303,7 @@
 
 ## Shell 
 
+- [dynamodb-snapshot-containers](https://github.com/buildertools/dynamodb-snapshot-containers) - This project both wraps the DynamoDB devkit and provides a mechanism for capturing snapshots that can be attached to dependent services at test time to launch from well known states.
 - [audio_shop](https://github.com/robertfoss/audio_shop) - Your friendly neighbourhood script for mangling images or video using audio editing tools
 - [git-quick-stats](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z
@@ -336,6 +346,7 @@
 
 ## Python 
 
+- [SickRage](https://github.com/SickRage/SickRage) - The new home of the SickRage community
 - [electrum](https://github.com/spesmilo/electrum) - Electrum; Bitcoin thin client
 - [opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall.
 - [backupchecker](https://github.com/backupchecker/backupchecker) - Backup Checker is a fully automated backup checker
@@ -395,6 +406,7 @@
 
 ## Vala 
 
+- [elementary-tweaks](https://github.com/elementary-tweaks/elementary-tweaks) - elementary OS customisation tool
 - [peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 - [budgie-desktop](https://github.com/budgie-desktop/budgie-desktop) - Monolithic Budgie tree - undergoing architectural changes
 - [birdfont](https://github.com/johanmattssonm/birdfont) - A font editor which can generate fonts in TTF, EOT, SVG and BF format.
@@ -409,6 +421,7 @@
 
 ## HTML 
 
+- [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [simple-icons](https://github.com/danleech/simple-icons) - SVG icons for popular brands
 - [cheatsheet](https://github.com/vuejs-tips/cheatsheet) - Vue.js 2.2 complete API cheatsheet
@@ -439,6 +452,7 @@
 
 ## CSS 
 
+- [obnoxious.css](https://github.com/tholman/obnoxious.css) - Animations for the strong of heart, and stupid of mind.
 - [sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [expodal](https://github.com/jessekorzan/expodal) - The Most Explosive Modal on The Web.
 - [Material-Freebox-OS](https://github.com/chteuchteu/Material-Freebox-OS) - Freebox OS Material UI redesign - Chrome & Firefox extension
@@ -449,7 +463,6 @@
 - [arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
 - [certdepot](https://github.com/dimastopel/certdepot) - Create your self-signed SSL certificate instantly and for free
-- [MailDev](https://github.com/djfarrelly/MailDev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [angular-progress-button-styles](https://github.com/akveo/angular-progress-button-styles) - AngularJS version of codrops progress buttons for the use with promises
 - [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
@@ -468,6 +481,7 @@
 
 ## Others 
 
+- [jetjet-theme-vscode](https://github.com/JetJet13/jetjet-theme-vscode) - A Theme extension for VS Code
 - [hexstickers](https://github.com/siscia/hexstickers) - 
 - [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [awesome-angular-components](https://github.com/brillout/awesome-angular-components) - Catalog of Angular 2+ Components & Libraries
@@ -506,6 +520,7 @@
 
 ## Ruby 
 
+- [catphish](https://github.com/ring0lab/catphish) - CATPHISH project - For phishing and corporate espionage
 - [postal](https://github.com/atech/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [clarity](https://github.com/tobi/clarity) - Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk
 - [SublimeTutor](https://github.com/jaipandya/SublimeTutor) - An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3
@@ -530,6 +545,7 @@
 
 ## C 
 
+- [openvpn-gui](https://github.com/OpenVPN/openvpn-gui) - OpenVPN GUI is a graphical frontend for OpenVPN running on Windows XP / Vista / 7 / 8. It creates an icon in the notification area from which you can control OpenVPN to start/stop your VPN tunnels, view the log and do other useful things.
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line music player for Linux with Spotify, Google Play Music, YouTube, SoundCloud and Dirble support.
 - [etkf](https://github.com/TartanLlama/etkf) - Embarrassingly templated keyboard framework
 - [CudaMiner](https://github.com/cbuchner1/CudaMiner) - a CUDA accelerated litecoin mining application based on pooler's CPU miner
@@ -550,7 +566,7 @@
 - [php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [wine](https://github.com/wine-mirror/wine) - 
-- [qmk_firmware](https://github.com/qmk/qmk_firmware) - keyboard controller firmware for Atmel AVR USB family
+- [qmk_firmware](https://github.com/qmk/qmk_firmware) - keyboard controller firmware for Atmel AVR and ARM USB families
 - [no-more-secrets](https://github.com/bartobri/no-more-secrets) - A recreation of the famous data decryption effect as seen in the 1992 movie Sneakers.
 - [xrectsel](https://github.com/lolilolicon/xrectsel) - print the geometry of a rectangular screen region
 - [tmux](https://github.com/tmux/tmux) - tmux source code
@@ -577,6 +593,9 @@
 
 ## C++ 
 
+- [xmr-stak-cpu](https://github.com/fireice-uk/xmr-stak-cpu) - Monero CPU miner
+- [ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
+- [UnrealTournament](https://github.com/EpicGames/UnrealTournament) - Help us build the next Unreal Tournament game!
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [iaito](https://github.com/hteso/iaito) - A Qt and C++ GUI for radare2 reverse engineering framework
@@ -666,6 +685,8 @@
 
 ## Go 
 
+- [complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
+- [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [fileportal](https://github.com/andyleap/fileportal) - A portal gun for your files!
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [kr](https://github.com/kryptco/kr) - kr | SSH using a key stored in Kryptonite.

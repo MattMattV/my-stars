@@ -52,7 +52,6 @@
 ## AutoIt 
 
 - [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) - The same, but free
-- [git-brag](https://github.com/turbo/git-brag) - git-brag feeds your ego by listing important companies from your repo's stargazers.
 
 ## Batchfile 
 
@@ -112,12 +111,14 @@
 
 ## C++ 
 
+- [slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
+- [ngx_pagespeed](https://github.com/pagespeed/ngx_pagespeed) - Automatic PageSpeed optimization module for Nginx
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
 - [CRYENGINE](https://github.com/CRYTEK/CRYENGINE) - CRYENGINE is a powerful real-time game development platform created by Crytek.
 - [leocad](https://github.com/leozide/leocad) - A CAD program for creating virtual LEGO models
 - [emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 - [musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
-- [synergy](https://github.com/symless/synergy) - Share one mouse and keyboard between multiple computers
+- [synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [xmr-stak-cpu](https://github.com/fireice-uk/xmr-stak-cpu) - Monero CPU miner
 - [ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
@@ -190,7 +191,7 @@
 - [Arcadia](https://github.com/arcadia-unity/Arcadia) - Clojure in Unity
 - [Nightlight](https://github.com/oakes/Nightlight) - An embedded editor for Clojure
 - [klipse](https://github.com/viebel/klipse) - A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent
-- [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
+- [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 
 ## CoffeeScript 
 
@@ -351,6 +352,8 @@
 
 ## JavaScript 
 
+- [amplify](https://github.com/charlestati/amplify) - A tiny script allowing inline image zoom
+- [git-stats-importer](https://github.com/IonicaBizau/git-stats-importer) - :chart_with_upwards_trend: Imports your commits from a repository into git-stats history.
 - [ngx-card](https://github.com/ihym/ngx-card) - Angular 2+ wrapper for https://github.com/jessepollak/card
 - [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Javascript Password Vault - Multi-Platform Desktop Application
 - [CLI](https://github.com/cloudRIG/CLI) - Stream your Steam games on the cheap
@@ -430,7 +433,7 @@
 - [Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 - [Wappalyzer](https://github.com/AliasIO/Wappalyzer) - Cross-platform utility that uncovers the technologies used on websites.
 - [dot-dom](https://github.com/wavesoft/dot-dom) - .dom is a tiny (511 byte) template engine that uses virtual DOM and some of react principles
-- [vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) - :zap: VSCode Extension - Sync every settings with your own GitHub Gist.
+- [vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) - :zap: VSCode Extension - Sync all of your VSCode settings across multiple devices.
 - [dashboard](https://github.com/Reportr/dashboard) - Your life's personal dashboard.
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
@@ -600,6 +603,8 @@
 
 ## Others 
 
+- [vanilla-js-plugins](https://github.com/cferdinandi/vanilla-js-plugins) - A list of recommended vanilla JavaScript plugins.
+- [graphql](https://github.com/facebook/graphql) - GraphQL is a query language and execution engine tied to any backend service.
 - [Stickers](https://github.com/wesbos/Stickers) - Cool Sticker Designs
 - [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [game-modes](https://github.com/maniaplanet/game-modes) - Maniaplanet scripts and resources
@@ -705,6 +710,7 @@
 
 ## Python 
 
+- [bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [Inventus](https://github.com/nmalcolm/Inventus) - Inventus is a spider designed to find subdomains of a specific domain by crawling it and any subdomains it discovers.
 - [backintime](https://github.com/bit-team/backintime) - Back In Time - A simple backup tool for Linux
 - [scdl](https://github.com/flyingrub/scdl) - Python Soundcloud Music Downloader
@@ -771,11 +777,12 @@
 
 ## QML 
 
+- [Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
 ## Ruby 
 
-- [catphish](https://github.com/ring0lab/catphish) - CATPHISH project - For phishing and corporate espionage
+- [catphish](https://github.com/ring0lab/catphish) - CATPHISH project - For phishing and corporate espionage. Perfect for RED TEAM.
 - [postal](https://github.com/atech/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [clarity](https://github.com/tobi/clarity) - Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk
 - [SublimeTutor](https://github.com/jaipandya/SublimeTutor) - An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3
@@ -814,7 +821,7 @@
 - [fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z
 - [git-beam-it](https://github.com/SeedJobs/git-beam-it) - Bulk clone Github repositories for a specific user/organisation or team
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
-- [arch-linux-anywhere](https://github.com/deadhead420/arch-linux-anywhere) - Custom arch linux installer
+- [arch-linux-anywhere](https://github.com/deadhead420/arch-linux-anywhere) - Anarchy Linux - An Arch Based Distro
 - [yubitouch](https://github.com/a-dma/yubitouch) - Bash script for setting or clearing touch requirements for # cryptographic operations the OpenPGP application on a YubiKey 4
 - [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [docker-letsencrypt-nginx-proxy-companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) - LetsEncrypt companion container for nginx-proxy
@@ -848,6 +855,7 @@
 
 ## TypeScript 
 
+- [devkit](https://github.com/angular/devkit) - 
 - [magnemite](https://github.com/styfle/magnemite) - A screen recorder for websites, powered by Electron - capture repro steps!
 - [chromeless](https://github.com/graphcool/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
@@ -881,6 +889,7 @@
 
 ## Vala 
 
+- [komorebi](https://github.com/iabem97/komorebi) - A beautiful and customizable desktop manager for Linux
 - [indicator-kdeconnect](https://github.com/Bajoja/indicator-kdeconnect) - AppIndicator for KDE Connect
 - [plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application
 - [elementary-tweaks](https://github.com/elementary-tweaks/elementary-tweaks) - elementary OS customization tool

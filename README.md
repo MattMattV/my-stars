@@ -95,6 +95,7 @@
 
 ## C# # 
 
+- [spfilezilla](https://github.com/suoko/spfilezilla) - SPfilezilla - access document library and onedrive for business
 - [Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
 - [ArchiSteamFarm](https://github.com/JustArchi/ArchiSteamFarm) - C# application that allows you to farm steam cards using multiple steam accounts simultaneously.
 - [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Depressurizer is a program that helps you categorize your steam games.
@@ -235,7 +236,7 @@
 - [realize](https://github.com/tockins/realize) - Go build system with file watcher, live reload and output streams. Run, build and watch file changes with custom paths
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams.
-- [faas](https://github.com/alexellis/faas) - Functions as a Service (OpenFaaS) - a serverless framework for Docker & Kubernetes
+- [faas](https://github.com/openfaas/faas) - OpenFaaS - a serverless framework for Docker & Kubernetes
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
@@ -265,7 +266,7 @@
 - [butler](https://github.com/itchio/butler) - :tophat: Command-line itch.io helper
 - [hget](https://github.com/huydx/hget) - rocket fast, interruptable, resumable download accelerator written in golang
 - [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
-- [pip-go](https://github.com/JamesMilnerUK/pip-go) - Point in polygon implemented in Go
+- [pip-go](https://github.com/JamesMilnerUK/pip-go) - :dart: Point in Polygon implemented in Go
 - [pxl](https://github.com/ichinaski/pxl) - Display images in the terminal
 - [horcrux](https://github.com/muthu-r/horcrux) - On Demand, Version controlled access to Data for your Docker containers
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -356,7 +357,7 @@
 - [git-stats-importer](https://github.com/IonicaBizau/git-stats-importer) - :chart_with_upwards_trend: Imports your commits from a repository into git-stats history.
 - [ngx-card](https://github.com/ihym/ngx-card) - Angular 2+ wrapper for https://github.com/jessepollak/card
 - [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Javascript Password Vault - Multi-Platform Desktop Application
-- [CLI](https://github.com/cloudRIG/CLI) - Stream your Steam games on the cheap
+- [cloudRIG](https://github.com/williamparry/cloudRIG) - Stream your Steam games on the cheap
 - [csso](https://github.com/css/csso) - CSS minifier with structural optimizations
 - [instagif](https://github.com/shekit/instagif) - A DIY camera that prints GIFs
 - [serve](https://github.com/zeit/serve) - Static file serving and directory listing
@@ -486,6 +487,7 @@
 - [inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces
 - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [--shots](https://github.com/binjospookie/--shots) - Simple, minimalistic, and task-focused application for creating screenshots. Available for LInux, MacOS, WIndows
+- [alduin](https://github.com/AlduinApp/alduin) - An RSS, Atomand JSON  feed aggregator available on Windows and Linux.
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON
 - [hooks](https://github.com/azlyth/hooks) - a mobile app to run scripts on servers -
 - [poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
@@ -697,7 +699,7 @@
 
 ## Perl 
 
-- [dnsmanager](https://github.com/KaneRoot/dnsmanager) - DNS zones manager. Configure your own dns zone in your browser, get a name on the Internet !
+- [dnsmanager](https://github.com/KaneRoot/dnsmanager) - DNS zones manager. Configure your own dns zone in your browser, get a name on the Internet!
 - [cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## PowerShell 
@@ -710,6 +712,7 @@
 
 ## Python 
 
+- [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 - [bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [Inventus](https://github.com/nmalcolm/Inventus) - Inventus is a spider designed to find subdomains of a specific domain by crawling it and any subdomains it discovers.
 - [backintime](https://github.com/bit-team/backintime) - Back In Time - A simple backup tool for Linux
@@ -809,6 +812,8 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/KevOBrien/dotfiles) - 
+- [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - The most awesome Powerline theme for ZSH around!
 - [shellder](https://github.com/simnalamburt/shellder) - :shell: Featured zsh/fish shell theme
 - [ezservermonitor-sh](https://github.com/shevabam/ezservermonitor-sh) - eZ Server Monitor`sh - A simple and lightweight dashboard for Linux
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
@@ -855,6 +860,7 @@
 
 ## TypeScript 
 
+- [rxjs-tslint-rules](https://github.com/cartant/rxjs-tslint-rules) - TSLint rules for RxJS
 - [devkit](https://github.com/angular/devkit) - 
 - [magnemite](https://github.com/styfle/magnemite) - A screen recorder for websites, powered by Electron - capture repro steps!
 - [chromeless](https://github.com/graphcool/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
@@ -875,7 +881,6 @@
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST
 - [lyricfier](https://github.com/emilioastarita/lyricfier) - a Spotify Lyrics alternative app
 - [old-ionic-app](https://github.com/LiveBoats/old-ionic-app) - Our app with Ionic 2 support :)
-- [alduin](https://github.com/AlduinApp/alduin) - An RSS and Atom feed aggregator available on Windows and Linux.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [clarity](https://github.com/vmware/clarity) - UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences
 - [ng2-rest-api](https://github.com/zaqqaz/ng2-rest-api) - :red_circle: Rest API provider for angular 2.

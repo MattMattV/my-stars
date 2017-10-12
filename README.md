@@ -46,6 +46,7 @@
 
 ## Assembly 
 
+- [HanoverFlipDot](https://github.com/furrtek/HanoverFlipDot) - Analysis of a Hanover Displays flip-dot display firmware
 - [ucity](https://github.com/AntonioND/ucity) - The open-source city-building game for Game Boy Color.
 - [hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
 
@@ -60,6 +61,8 @@
 
 ## C 
 
+- [kscope](https://github.com/ortegaalfredo/kscope) - 
+- [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [openvpn-gui](https://github.com/OpenVPN/openvpn-gui) - OpenVPN GUI is a graphical frontend for OpenVPN running on Windows XP / Vista / 7 / 8. It creates an icon in the notification area from which you can control OpenVPN to start/stop your VPN tunnels, view the log and do other useful things.
@@ -68,7 +71,6 @@
 - [CudaMiner](https://github.com/cbuchner1/CudaMiner) - a CUDA accelerated litecoin mining application based on pooler's CPU miner
 - [TimeStylePebble](https://github.com/freakified/TimeStylePebble) - A stylish, customizable face for the Pebble Time.
 - [gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
-- [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 - [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
@@ -95,6 +97,8 @@
 
 ## C# # 
 
+- [hakchi2](https://github.com/ClusterM/hakchi2) - Tool that allows you to add more games to your NES/SNES Classic Mini
+- [SWSH](https://github.com/SecureWindowsShell/SWSH) - Secure Windows Shell (SWSH - pronounced swish)
 - [spfilezilla](https://github.com/suoko/spfilezilla) - SPfilezilla - access document library and onedrive for business
 - [Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
 - [ArchiSteamFarm](https://github.com/JustArchi/ArchiSteamFarm) - C# application that allows you to farm steam cards using multiple steam accounts simultaneously.
@@ -126,9 +130,10 @@
 - [UnrealTournament](https://github.com/EpicGames/UnrealTournament) - Help us build the next Unreal Tournament game!
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [iaito](https://github.com/hteso/iaito) - A Qt and C++ GUI for radare2 reverse engineering framework
+- [iaito](https://github.com/hteso/iaito) - This project has been moved to:
 - [Stockfish](https://github.com/official-stockfish/Stockfish) - UCI chess engine
 - [encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
+- [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 - [protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
 - [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
 - [BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
@@ -191,7 +196,7 @@
 - [meiro](https://github.com/defndaines/meiro) - Maze generation code, inspired by Mazes for Programmers.
 - [Arcadia](https://github.com/arcadia-unity/Arcadia) - Clojure in Unity
 - [Nightlight](https://github.com/oakes/Nightlight) - An embedded editor for Clojure
-- [klipse](https://github.com/viebel/klipse) - A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent
+- [klipse](https://github.com/viebel/klipse) - A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent, lua, ocaml, reasonml
 - [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 
 ## CoffeeScript 
@@ -211,6 +216,9 @@
 
 ## Go 
 
+- [cameradar](https://github.com/EtixLabs/cameradar) - Cameradar hacks its way into RTSP CCTV cameras
+- [wow](https://github.com/gernest/wow) - :open_mouth::exclamation::exclamation: Wow:exclamation: now my Go commandline app is spinning with :rainbow: and :horse:
+- [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [go-prompt](https://github.com/c-bata/go-prompt) - Building a powerful interactive prompt in Go, inspired by python-prompt-toolkit.
 - [globe](https://github.com/mmcloughlin/globe) - Globe wireframe visualizations in Golang
 - [kolpa](https://github.com/malisit/kolpa) - A fake data generator written in and for Go
@@ -226,7 +234,6 @@
 - [fileportal](https://github.com/andyleap/fileportal) - A portal gun for your files!
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [kr](https://github.com/kryptco/kr) - kr | SSH using a key stored in Kryptonite.
-- [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [Go-SCP](https://github.com/Checkmarx/Go-SCP) - Go programming language secure coding practices guide
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands.
 - [schemer2](https://github.com/thefryscorer/schemer2) - Terminal Colorscheme Generator and Converter
@@ -331,9 +338,9 @@
 
 - [anonymouth](https://github.com/psal/anonymouth) - 
 - [StreetComplete](https://github.com/westnordost/StreetComplete) - Surveyor app for Android
-- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, Gitea, Gogs, and GitBucket.
+- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.
 - [Espresso](https://github.com/TonnyL/Espresso) - 🚚 Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing
-- [intellij-swagger](https://github.com/zalando/intellij-swagger) - A plugin to help you easily edit Swagger specification files inside IntelliJ IDEA
+- [intellij-swagger](https://github.com/zalando/intellij-swagger) - A plugin to help you easily edit Swagger and OpenAPI specification files inside IntelliJ IDEA
 - [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
 - [chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0) - CHVote 1.0 repository
 - [app](https://github.com/LiveBoats/app) - Display boat information in AR !
@@ -353,6 +360,12 @@
 
 ## JavaScript 
 
+- [securitytxt.org](https://github.com/securitytxt/securitytxt.org) - Static website for security.txt.
+- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
+- [keepass-macpass-helper](https://github.com/belaviyo/keepass-macpass-helper) - A helper extension to use KeePass/MacPass from Firefox, Opera, and Chrome browsers
+- [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
+- [bitcoin-arbitrage](https://github.com/0x13a/bitcoin-arbitrage) - An AWS Lambda function that looks for Bitcoin Arbitrage opportunities
+- [carbon](https://github.com/dawnlabs/carbon) - 🎨 Create and share beautiful images of your source code
 - [amplify](https://github.com/charlestati/amplify) - A tiny script allowing inline image zoom
 - [git-stats-importer](https://github.com/IonicaBizau/git-stats-importer) - :chart_with_upwards_trend: Imports your commits from a repository into git-stats history.
 - [ngx-card](https://github.com/ihym/ngx-card) - Angular 2+ wrapper for https://github.com/jessepollak/card
@@ -407,7 +420,7 @@
 - [dua.js](https://github.com/rudimk/dua.js) - A Node.js package for invoking divine blessings for one's Javascript code.
 - [loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
 - [nuclear](https://github.com/nukeop/nuclear) - An Electron-based, multiplatform music player app that streams from multiple sources
-- [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin
+- [perfect-scrollbar](https://github.com/utatti/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin
 - [pegaswitch](https://github.com/reswitched/pegaswitch) - PegaSwitch is an exploit toolkit for the Nintendo Switch
 - [peeqo-robot](https://github.com/shekit/peeqo-robot) - The world's first robot to interact through GIFs...'nuf said
 - [wick](https://github.com/zrispo/wick) - The Internet's free and open source multimedia creation toolkit
@@ -437,7 +450,7 @@
 - [vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) - :zap: VSCode Extension - Sync all of your VSCode settings across multiple devices.
 - [dashboard](https://github.com/Reportr/dashboard) - Your life's personal dashboard.
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
-- [webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
+- [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 - [fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
 - [Pikaday](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 - [KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - Web based IRC client
@@ -487,7 +500,7 @@
 - [inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces
 - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [--shots](https://github.com/binjospookie/--shots) - Simple, minimalistic, and task-focused application for creating screenshots. Available for LInux, MacOS, WIndows
-- [alduin](https://github.com/AlduinApp/alduin) - An RSS, Atomand JSON  feed aggregator available on Windows and Linux.
+- [alduin](https://github.com/AlduinApp/alduin) - An RSS, Atom and JSON  feed aggregator available on Windows and Linux.
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON
 - [hooks](https://github.com/azlyth/hooks) - a mobile app to run scripts on servers -
 - [poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
@@ -554,7 +567,7 @@
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [razzmaster](https://github.com/joshmarinacci/razzmaster) - Find and set up new Raspberry Pis on your network
-- [ng-pageslide](https://github.com/dpiccone/ng-pageslide) - AngularJS sliding panel for serving additional content from off the page
+- [ng-pageslide](https://github.com/danielepiccone/ng-pageslide) - AngularJS sliding panel for serving additional content from off the page
 - [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
 - [UI](https://github.com/BrowserSync/UI) - User interface for BrowserSync
 - [keepasshttp](https://github.com/pfn/keepasshttp) - KeePass plugin to expose password entries securely (256bit AES/CBC) over HTTP
@@ -605,8 +618,9 @@
 
 ## Others 
 
+- [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+- [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
 - [vanilla-js-plugins](https://github.com/cferdinandi/vanilla-js-plugins) - A list of recommended vanilla JavaScript plugins.
-- [graphql](https://github.com/facebook/graphql) - GraphQL is a query language and execution engine tied to any backend service.
 - [Stickers](https://github.com/wesbos/Stickers) - Cool Sticker Designs
 - [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [game-modes](https://github.com/maniaplanet/game-modes) - Maniaplanet scripts and resources
@@ -616,7 +630,7 @@
 - [mattermost-webrtc](https://github.com/mattermost/mattermost-webrtc) - 
 - [passbolt-compose](https://github.com/dlen/passbolt-compose) - Unofficial passbolt composer for docker. passbolt for the masses!
 - [arch-tuto-installation](https://github.com/FredBezies/arch-tuto-installation) - Version en ligne de mon tutoriel pour installer Archlinux
-- [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Wordlists sorted by probability originally created for password generation and testing
+- [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [dracula-theme](https://github.com/dracula/dracula-theme) - :scream: A dark theme for all the things!
 - [angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - Cheatsheet for developing ⚡lightning⚡ fast progressive Angular applications.
 - [vscode-angular-essentials](https://github.com/johnpapa/vscode-angular-essentials) - 
@@ -624,7 +638,7 @@
 - [hexstickers](https://github.com/siscia/hexstickers) - 
 - [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [awesome-angular-components](https://github.com/brillout/awesome-angular-components) - Catalog of Angular 2+ Components & Libraries
-- [server_notes](https://github.com/jrothrock/server_notes) - Personal notes on building/configuring a server
+- [server_notes](https://github.com/jrothrock/server_notes) - Building a Server on Digital Ocean With Ubuntu and Nginx
 - [xenko](https://github.com/SiliconStudio/xenko) - Xenko Game Engine
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [ping](https://github.com/thechangelog/ping) - Ping! Share projects, news, or feedback. Just create an issue.
@@ -768,7 +782,7 @@
 - [TextSuggest](https://github.com/bharadwaj-raju/TextSuggest) - Autocomplete, expansions and more, everywhere!
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 - [robobrowser](https://github.com/jmcarp/robobrowser) - 
-- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/integrations/gitsome
+- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
@@ -792,7 +806,7 @@
 - [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
-- [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner.
+- [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner
 - [errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant
 - [twitter_ebooks](https://github.com/mispy/twitter_ebooks) - Better twitterbots for all your friends~
 - [mlooper](https://github.com/beweinreich/mlooper) - The sp@mlooper
@@ -814,6 +828,7 @@
 
 - [dotfiles](https://github.com/KevOBrien/dotfiles) - 
 - [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - The most awesome Powerline theme for ZSH around!
+- [graphql](https://github.com/facebook/graphql) - GraphQL is a query language and execution engine tied to any backend service.
 - [shellder](https://github.com/simnalamburt/shellder) - :shell: Featured zsh/fish shell theme
 - [ezservermonitor-sh](https://github.com/shevabam/ezservermonitor-sh) - eZ Server Monitor`sh - A simple and lightweight dashboard for Linux
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
@@ -822,7 +837,7 @@
 - [welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
 - [dynamodb-snapshot-containers](https://github.com/buildertools/dynamodb-snapshot-containers) - This project both wraps the DynamoDB devkit and provides a mechanism for capturing snapshots that can be attached to dependent services at test time to launch from well known states.
 - [audio_shop](https://github.com/robertfoss/audio_shop) - Your friendly neighbourhood script for mangling images or video using audio editing tools
-- [git-quick-stats](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
+- [git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z
 - [git-beam-it](https://github.com/SeedJobs/git-beam-it) - Bulk clone Github repositories for a specific user/organisation or team
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
@@ -860,6 +875,7 @@
 
 ## TypeScript 
 
+- [autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, Go, Java, Node.js, TypeScript, Python, Ruby and PHP.
 - [rxjs-tslint-rules](https://github.com/cartant/rxjs-tslint-rules) - TSLint rules for RxJS
 - [devkit](https://github.com/angular/devkit) - 
 - [magnemite](https://github.com/styfle/magnemite) - A screen recorder for websites, powered by Electron - capture repro steps!

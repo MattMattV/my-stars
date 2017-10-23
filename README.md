@@ -18,6 +18,7 @@
   - [Game Maker Language](#game maker language)
   - [Go](#go)
   - [Groovy](#groovy)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Java](#java)
@@ -42,6 +43,7 @@
   - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vala](#vala)
+  - [Visual Basic](#visual basic)
   - [Vue](#vue)
 
 ## Assembly 
@@ -66,7 +68,7 @@
 - [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [openvpn-gui](https://github.com/OpenVPN/openvpn-gui) - OpenVPN GUI is a graphical frontend for OpenVPN running on Windows XP / Vista / 7 / 8. It creates an icon in the notification area from which you can control OpenVPN to start/stop your VPN tunnels, view the log and do other useful things.
-- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux that supports Spotify, Google Play Music, YouTube, SoundCloud, and Dirble.
+- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Cloud music player for the Linux console that supports Spotify, Google Play Music, YouTube, SoundCloud, and Dirble.
 - [etkf](https://github.com/TartanLlama/etkf) - Embarrassingly templated keyboard framework
 - [CudaMiner](https://github.com/cbuchner1/CudaMiner) - a CUDA accelerated litecoin mining application based on pooler's CPU miner
 - [TimeStylePebble](https://github.com/freakified/TimeStylePebble) - A stylish, customizable face for the Pebble Time.
@@ -97,6 +99,7 @@
 
 ## C# # 
 
+- [KeePass-Yet-Another-Favicon-Downloader](https://github.com/navossoc/KeePass-Yet-Another-Favicon-Downloader) - Yet Another Favicon Downloader for KeePass 2.x
 - [hakchi2](https://github.com/ClusterM/hakchi2) - Tool that allows you to add more games to your NES/SNES Classic Mini
 - [SWSH](https://github.com/SecureWindowsShell/SWSH) - Secure Windows Shell (SWSH - pronounced swish)
 - [spfilezilla](https://github.com/suoko/spfilezilla) - SPfilezilla - access document library and onedrive for business
@@ -116,6 +119,8 @@
 
 ## C++ 
 
+- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
+- [cutter](https://github.com/radareorg/cutter) - A Qt and C++ GUI for radare2 reverse engineering framework
 - [slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
 - [ngx_pagespeed](https://github.com/pagespeed/ngx_pagespeed) - Automatic PageSpeed optimization module for Nginx
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
@@ -130,7 +135,6 @@
 - [UnrealTournament](https://github.com/EpicGames/UnrealTournament) - Help us build the next Unreal Tournament game!
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [iaito](https://github.com/hteso/iaito) - This project has been moved to:
 - [Stockfish](https://github.com/official-stockfish/Stockfish) - UCI chess engine
 - [encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
@@ -189,6 +193,7 @@
 - [easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
 - [Pressure2](https://github.com/DirtDiglett/Pressure2) - Pressure² - a beautiful theme for your Steam Client.
 - [hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [Pressure-for-Steam](https://github.com/DirtDiglett/Pressure-for-Steam) - A skin to improve the visual aesthetics of Steam
 
 ## Clojure 
@@ -216,6 +221,8 @@
 
 ## Go 
 
+- [gitbrute](https://github.com/bradfitz/gitbrute) - brute-force a git commit hash
+- [litter](https://github.com/sanity-io/litter) - Litter is a pretty printer library for Go data structures to aid in debugging and testing.
 - [cameradar](https://github.com/EtixLabs/cameradar) - Cameradar hacks its way into RTSP CCTV cameras
 - [wow](https://github.com/gernest/wow) - :open_mouth::exclamation::exclamation: Wow:exclamation: now my Go commandline app is spinning with :rainbow: and :horse:
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
@@ -240,7 +247,7 @@
 - [client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [glua](https://github.com/fiatjaf/glua) - Easily run lua code in the browser. Based on https://github.com/yuin/gopher-lua
 - [cli](https://github.com/dnote-io/cli) - Capture what you learn as you code without leaving the command line
-- [realize](https://github.com/tockins/realize) - Go build system with file watcher, live reload and output streams. Run, build and watch file changes with custom paths
+- [realize](https://github.com/tockins/realize) - Realize is the Go tool to speed up and improve developers workflow. Run, build and watch file changes with custom paths
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams.
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - a serverless framework for Docker & Kubernetes
@@ -296,8 +303,13 @@
 
 - [java-bullshifier](https://github.com/takipi/java-bullshifier) - An open source project by OverOps. Generate massive random Java applications with a command line tool
 
+## HCL 
+
+- [KubeNow](https://github.com/kubenow/KubeNow) - Deploy Kubernetes. Now!
+
 ## HTML 
 
+- [krackattacks](https://github.com/vanhoefm/krackattacks) - 
 - [remarkdown](https://github.com/fvsch/remarkdown) - Styling HTML as if it were raw Markdown text.
 - [vinay20045.github.io](https://github.com/vinay20045/vinay20045.github.io) - askVinay.com site - Demo for building SPA in vanilla js
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
@@ -331,6 +343,7 @@
 
 ## Haskell 
 
+- [hadolint](https://github.com/lukasmartinelli/hadolint) - Dockerfile linter written in Haskell
 - [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
@@ -342,7 +355,7 @@
 - [Espresso](https://github.com/TonnyL/Espresso) - 🚚 Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing
 - [intellij-swagger](https://github.com/zalando/intellij-swagger) - A plugin to help you easily edit Swagger and OpenAPI specification files inside IntelliJ IDEA
 - [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
-- [chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0) - CHVote 1.0 repository
+- [chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0) - Electronic vote system, version 1.0.
 - [app](https://github.com/LiveBoats/app) - Display boat information in AR !
 - [cordova-plugin-camera-preview](https://github.com/westonganger/cordova-plugin-camera-preview) - Cordova plugin that allow camera interaction from HTML code
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
@@ -360,6 +373,7 @@
 
 ## JavaScript 
 
+- [dash-to-panel](https://github.com/jderose9/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
 - [securitytxt.org](https://github.com/securitytxt/securitytxt.org) - Static website for security.txt.
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [keepass-macpass-helper](https://github.com/belaviyo/keepass-macpass-helper) - A helper extension to use KeePass/MacPass from Firefox, Opera, and Chrome browsers
@@ -370,7 +384,7 @@
 - [git-stats-importer](https://github.com/IonicaBizau/git-stats-importer) - :chart_with_upwards_trend: Imports your commits from a repository into git-stats history.
 - [ngx-card](https://github.com/ihym/ngx-card) - Angular 2+ wrapper for https://github.com/jessepollak/card
 - [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Javascript Password Vault - Multi-Platform Desktop Application
-- [cloudRIG](https://github.com/williamparry/cloudRIG) - Stream your Steam games on the cheap
+- [cloudRIG](https://github.com/williamparry/cloudRIG) - Play your games with Parsec and AWS on the cheap.
 - [csso](https://github.com/css/csso) - CSS minifier with structural optimizations
 - [instagif](https://github.com/shekit/instagif) - A DIY camera that prints GIFs
 - [serve](https://github.com/zeit/serve) - Static file serving and directory listing
@@ -484,7 +498,7 @@
 - [release](https://github.com/zeit/release) - Generate changelogs with a single command
 - [papyrus](https://github.com/morkro/papyrus) - Unofficial Dropbox Paper desktop app
 - [sovereign](https://github.com/DemocracyEarth/sovereign) - 🕊 Peer to peer democracy.
-- [plugins](https://github.com/meetfranz/plugins) - Franz Plugin Repository
+- [plugins-legacy](https://github.com/meetfranz/plugins-legacy) - Franz Plugin Repository
 - [downthemall](https://github.com/downthemall/downthemall) - Official DownThemAll! repository. Pull requests welcome.
 - [tabdown](https://github.com/WangFenjin/tabdown) - Start (GitHub-Flavored) Markdown from new tabs in your favourite web browsers.
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
@@ -531,7 +545,7 @@
 - [css_browser_selector](https://github.com/rafaelp/css_browser_selector) - A very small javascript library that allows you to create browser specific CSS to be merged into your normal classes. No more hacks or mischievous code in your CSS code.
 - [gaia-tools](https://github.com/flimshaw/gaia-tools) - Some scripts I use to process data from the Gaia satellite
 - [bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers
-- [canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge
+- [canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [odoo](https://github.com/coderitual/odoo) - :zap: SVG odometer effect library with motion blur
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -539,7 +553,7 @@
 - [reflexio](https://github.com/ketanhwr/reflexio) - A web game based on reflection
 - [debugger.html](https://github.com/devtools-html/debugger.html) - The Firefox debugger that works anywhere  :boom:
 - [miaou](https://github.com/Canop/miaou) - A chat server with OAuth2 authentication, persistent and searchable history, video and audio, markdown formatting, private and public rooms, stars, votes, embedded games, and many other features
-- [mockbin](https://github.com/Mashape/mockbin) - Mock, Test & Track HTTP Requests and Responses.
+- [mockbin](https://github.com/Kong/mockbin) - Mock, Test & Track HTTP Requests and Responses.
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [electron-chrome](https://github.com/koush/electron-chrome) - 
 - [template-colors](https://github.com/icodeforlove/template-colors) - :art: beautiful color usage within template literals
@@ -584,7 +598,6 @@
 - [cv-maker](https://github.com/awalgarg/cv-maker) - simple elegant markdown based resumes
 - [git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
 - [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A browser extension to improve TweetDeck with a lot of features
-- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [labella.js](https://github.com/twitter/labella.js) - Placing labels on a timeline without overlap.
 - [screenlog.js](https://github.com/chinchang/screenlog.js) - Bring console.log on the screen
@@ -646,7 +659,7 @@
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [Secure-Firefox](https://github.com/delight-im/Secure-Firefox) - Hardening Mozilla Firefox for maximum privacy and security
 - [keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide) - Guide on how to design keyboard PCBs with KiCad
-- [franz-app](https://github.com/meetfranz/franz-app) - 
+- [franz-app-legacy](https://github.com/meetfranz/franz-app-legacy) - 
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
 - [dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -826,6 +839,7 @@
 
 ## Shell 
 
+- [WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [dotfiles](https://github.com/KevOBrien/dotfiles) - 
 - [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - The most awesome Powerline theme for ZSH around!
 - [graphql](https://github.com/facebook/graphql) - GraphQL is a query language and execution engine tied to any backend service.
@@ -910,6 +924,7 @@
 
 ## Vala 
 
+- [appeditor](https://github.com/donadigo/appeditor) - Edit application menu
 - [komorebi](https://github.com/iabem97/komorebi) - A beautiful and customizable desktop manager for Linux
 - [indicator-kdeconnect](https://github.com/Bajoja/indicator-kdeconnect) - AppIndicator for KDE Connect
 - [plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application
@@ -918,6 +933,10 @@
 - [budgie-desktop](https://github.com/budgie-desktop/budgie-desktop) - I Tawt I Taw A Purdy Desktop
 - [birdfont](https://github.com/johanmattssonm/birdfont) - A font editor which can generate fonts in TTF, EOT, SVG and BF format.
 - [elementary-ide](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE.
+
+## Visual Basic 
+
+- [CompactGUI](https://github.com/ImminentFate/CompactGUI) - Visual Interface for the Windows Compact.exe cmdlet
 
 ## Vue 
 

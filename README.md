@@ -373,6 +373,9 @@
 
 ## JavaScript 
 
+- [verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight private npm proxy registry (sinopia fork)
+- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [dash-to-panel](https://github.com/jderose9/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
 - [securitytxt.org](https://github.com/securitytxt/securitytxt.org) - Static website for security.txt.
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
@@ -582,7 +585,6 @@
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [razzmaster](https://github.com/joshmarinacci/razzmaster) - Find and set up new Raspberry Pis on your network
 - [ng-pageslide](https://github.com/danielepiccone/ng-pageslide) - AngularJS sliding panel for serving additional content from off the page
-- [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
 - [UI](https://github.com/BrowserSync/UI) - User interface for BrowserSync
 - [keepasshttp](https://github.com/pfn/keepasshttp) - KeePass plugin to expose password entries securely (256bit AES/CBC) over HTTP
 - [the-super-tiny-compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
@@ -631,6 +633,7 @@
 
 ## Others 
 
+- [Seer](https://github.com/ccseer/Seer) - Seer bug report
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
 - [vanilla-js-plugins](https://github.com/cferdinandi/vanilla-js-plugins) - A list of recommended vanilla JavaScript plugins.
@@ -667,7 +670,7 @@
 - [docker-alpine-php-fpm7](https://github.com/naerymdan/docker-alpine-php-fpm7) - Slim Docker image based on Alpine for php-fpm7
 - [flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
 - [RSS_Blog_Entreprises](https://github.com/genma/RSS_Blog_Entreprises) - 
-- [BashOnWindows](https://github.com/Microsoft/BashOnWindows) - Issues found within and using Bash on Ubuntu on Windows
+- [WSL](https://github.com/Microsoft/WSL) - Issues found within and using Bash on Ubuntu on Windows
 - [betterdefaultpasslist](https://github.com/govolution/betterdefaultpasslist) - 
 - [glean](https://github.com/benwr/glean) - A tiny bitmap font for programming
 - [NorthKoreaDNSLeak](https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak) - Snapshot of North Korea's DNS data taken from zone transfers.
@@ -679,6 +682,7 @@
 - [5minutes](https://github.com/chhantyal/5minutes) - First 5 minutes on new servers. Secure your servers with single command - Ansible playbook
 - [One-Click-to-Be-Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - A list of the best resources to help you become a pro
 - [material-peacock](https://github.com/daylerees/material-peacock) - Peacock colour scheme optimized for the Material UI PHPStorm theme.
+- [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
 - [lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - Android performance optimization  tutorials, videos and tools list(Android性能优化视频，文档以及工具)
 - [RepubliqueNumerique](https://github.com/GouvernementFR/RepubliqueNumerique) - Projet de loi pour une République numérique. Première loi co-écrite avec les citoyens. Ouverture des données publiques, protection des citoyens, accès de tous au numérique.
@@ -686,6 +690,7 @@
 
 ## PHP 
 
+- [prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
 - [phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 - [phpDocumentor2](https://github.com/phpDocumentor/phpDocumentor2) - Documentation Generator for PHP
 - [phpdox](https://github.com/theseer/phpdox) - Documentation generator for PHP Code using standard technology (SRC, DOCBLOCK, XML and XSLT)
@@ -812,6 +817,7 @@
 
 ## Ruby 
 
+- [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [catphish](https://github.com/ring0lab/catphish) - CATPHISH project - For phishing and corporate espionage. Perfect for RED TEAM.
 - [postal](https://github.com/atech/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [clarity](https://github.com/tobi/clarity) - Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk
@@ -855,7 +861,7 @@
 - [fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z
 - [git-beam-it](https://github.com/SeedJobs/git-beam-it) - Bulk clone Github repositories for a specific user/organisation or team
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
-- [arch-linux-anywhere](https://github.com/deadhead420/arch-linux-anywhere) - Anarchy Linux - An Arch Based Distro
+- [anarchy-linux](https://github.com/deadhead420/anarchy-linux) - Anarchy Linux - An Arch Based Distro
 - [yubitouch](https://github.com/a-dma/yubitouch) - Bash script for setting or clearing touch requirements for # cryptographic operations the OpenPGP application on a YubiKey 4
 - [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [docker-letsencrypt-nginx-proxy-companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) - LetsEncrypt companion container for nginx-proxy

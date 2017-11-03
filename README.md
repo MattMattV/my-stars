@@ -58,6 +58,7 @@
 
 ## Batchfile 
 
+- [tron](https://github.com/bmrf/tron) - Tron
 - [RA_1993](https://github.com/Fortyseven/RA_1993) - Development content accidentally shipped on a certain early DOS CD-ROM game from 1993
 - [alwsl](https://github.com/alwsl/alwsl) - Install archlinux as the WSL (Windows Subsystem for Linux) host.
 
@@ -119,6 +120,7 @@
 
 ## C++ 
 
+- [g810-led](https://github.com/MatMoul/g810-led) - Linux led controller for Logitech G213, G410, G413, G610, G810, G910 and GPRO Keyboards
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [cutter](https://github.com/radareorg/cutter) - A Qt and C++ GUI for radare2 reverse engineering framework
 - [slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
@@ -164,6 +166,7 @@
 
 ## CSS 
 
+- [devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
 - [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [higgcss](https://github.com/robinparisi/higgcss) - Micro framework CSS modulaire
 - [microtip](https://github.com/ghosh/microtip) - 💬  Modern, minimal, a11y enabled, ultra lightweight css tooltip library. Just 1kb.
@@ -250,7 +253,7 @@
 - [realize](https://github.com/tockins/realize) - Realize is the Go tool to speed up and improve developers workflow. Run, build and watch file changes with custom paths
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams.
-- [faas](https://github.com/openfaas/faas) - OpenFaaS - a serverless framework for Docker & Kubernetes
+- [faas](https://github.com/openfaas/faas) - OpenFaaS - the serverless framework for Docker & Kubernetes
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
@@ -267,6 +270,7 @@
 - [vitess](https://github.com/youtube/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [mutagen](https://github.com/havoc-io/mutagen) - Simple, cross-platform, continuous, bi-directional file synchronization
+- [play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
 - [spoofgo](https://github.com/sabey/spoofgo) - An Application for Spoofing Movement written in Golang
@@ -373,6 +377,7 @@
 
 ## JavaScript 
 
+- [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight private npm proxy registry (sinopia fork)
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
@@ -457,6 +462,7 @@
 - [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - Webpack plugin for enabling Subresource Integrity.
 - [e2email](https://github.com/e2email-org/e2email) - E2EMail is a simple Chrome application - a Gmail client that exchanges OpenPGP mail.
 - [DarkLight](https://github.com/MinhasKamal/DarkLight) - Webpage in Night Mode
+- [anarchy-linux](https://github.com/deadhead420/anarchy-linux) - Anarchy Linux - An Arch Based Distro
 - [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
 - [script-ext-html-webpack-plugin](https://github.com/numical/script-ext-html-webpack-plugin) - Enhances html-webpack-plugin functionality with different deployment options for your scripts including 'async', 'preload', 'prefetch', 'defer', 'module', custom attributes, and inlining.
 - [lockr](https://github.com/tsironis/lockr) - A minimal API wrapper for localStorage
@@ -477,7 +483,7 @@
 - [exchangecalendar](https://github.com/Ericsson/exchangecalendar) - Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider.
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://freeCodeCamp.org open source codebase and curriculum. Learn to code and help nonprofits.
 - [favicons-webpack-plugin](https://github.com/jantimon/favicons-webpack-plugin) - Let webpack generate all your favicons and icons for you
-- [push.js](https://github.com/Nickersoft/push.js) - The world's most versatile desktop notifications framework
+- [push.js](https://github.com/Nickersoft/push.js) - The world's most versatile desktop notifications framework :earth_americas:
 - [panzoom](https://github.com/anvaka/panzoom) - Universal pan and zoom library
 - [icingtaskmanager](https://github.com/jaszhix/icingtaskmanager) - Window list with app grouping and thumbnails for Cinnamon
 - [Catify](https://github.com/MeoBeoI/Catify) - Utility for Spotify, even your cat can use Spotify now !
@@ -497,7 +503,6 @@
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [zazu](https://github.com/tinytacoteam/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
 - [quickstart](https://github.com/angular/quickstart) - Angular 2 QuickStart - source from the documentation
-- [play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [release](https://github.com/zeit/release) - Generate changelogs with a single command
 - [papyrus](https://github.com/morkro/papyrus) - Unofficial Dropbox Paper desktop app
 - [sovereign](https://github.com/DemocracyEarth/sovereign) - 🕊 Peer to peer democracy.
@@ -845,6 +850,7 @@
 
 ## Shell 
 
+- [docker-unity3d](https://github.com/nenadg/docker-unity3d) - Docker container for Unity
 - [WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [dotfiles](https://github.com/KevOBrien/dotfiles) - 
 - [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - The most awesome Powerline theme for ZSH around!
@@ -861,7 +867,6 @@
 - [fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z
 - [git-beam-it](https://github.com/SeedJobs/git-beam-it) - Bulk clone Github repositories for a specific user/organisation or team
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
-- [anarchy-linux](https://github.com/deadhead420/anarchy-linux) - Anarchy Linux - An Arch Based Distro
 - [yubitouch](https://github.com/a-dma/yubitouch) - Bash script for setting or clearing touch requirements for # cryptographic operations the OpenPGP application on a YubiKey 4
 - [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [docker-letsencrypt-nginx-proxy-companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) - LetsEncrypt companion container for nginx-proxy
@@ -905,7 +910,7 @@
 - [compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular application
 - [ngx-charts](https://github.com/swimlane/ngx-charts) - :bar_chart: Declarative Charting Framework for Angular2 and beyond!
 - [codelyzer](https://github.com/mgechev/codelyzer) - Static analysis for Angular projects.
-- [vetur](https://github.com/vuejs/vetur) - Vue tooling for VSCode.
+- [vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code plugin for Prettier
 - [angular-2-samples](https://github.com/thelgevold/angular-2-samples) - Angular sample components
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph

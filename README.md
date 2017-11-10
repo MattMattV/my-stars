@@ -77,7 +77,6 @@
 - [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
-- [wincompose](https://github.com/samhocevar/wincompose) - Compose Key for Windows
 - [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
 - [CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes
 - [Broadway](https://github.com/mbebenita/Broadway) - A JavaScript H.264 decoder.
@@ -100,6 +99,7 @@
 
 ## C# # 
 
+- [openplex-app](https://github.com/invu/openplex-app) - Search for Movies/TV Shows available to watch for free
 - [KeePass-Yet-Another-Favicon-Downloader](https://github.com/navossoc/KeePass-Yet-Another-Favicon-Downloader) - Yet Another Favicon Downloader for KeePass 2.x
 - [hakchi2](https://github.com/ClusterM/hakchi2) - Tool that allows you to add more games to your NES/SNES Classic Mini
 - [SWSH](https://github.com/SecureWindowsShell/SWSH) - Secure Windows Shell (SWSH - pronounced swish)
@@ -109,6 +109,7 @@
 - [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Depressurizer is a program that helps you categorize your steam games.
 - [IsoVoxel](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from MagicaVoxel .vox files
 - [peachpie](https://github.com/peachpiecompiler/peachpie) - Peachpie - the PHP 7 compiler and runtime for .NET and .NET Core
+- [wincompose](https://github.com/samhocevar/wincompose) - Compose Key for Windows
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 - [RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTorrent, Azureus, BitComet, ABC and etc.) and it will NOT download/upload the files on a torrent - it only can fake download/upload. RatioMaster.NET has hardcoded emulations for the most commonly used BitTorrent clients: uTorrent, BitComet, Azureus, ABC, BitLord, BTuga, BitTornado, Burst, BitTyrant, BitSpirit.
 - [UWPHook](https://github.com/BrianLima/UWPHook) - Small project to link UWP games to Steam
@@ -245,12 +246,12 @@
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [kr](https://github.com/kryptco/kr) - kr | SSH using a key stored in Kryptonite.
 - [Go-SCP](https://github.com/Checkmarx/Go-SCP) - Go programming language secure coding practices guide
-- [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands.
+- [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight configurable incoming webhook server which can execute shell commands
 - [schemer2](https://github.com/thefryscorer/schemer2) - Terminal Colorscheme Generator and Converter
 - [client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [glua](https://github.com/fiatjaf/glua) - Easily run lua code in the browser. Based on https://github.com/yuin/gopher-lua
 - [cli](https://github.com/dnote-io/cli) - Capture what you learn as you code without leaving the command line
-- [realize](https://github.com/tockins/realize) - Realize is the Go tool to speed up and improve developers workflow. Run, build and watch file changes with custom paths
+- [realize](https://github.com/tockins/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams.
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - the serverless framework for Docker & Kubernetes
@@ -313,6 +314,7 @@
 
 ## HTML 
 
+- [emojipacks](https://github.com/lambtron/emojipacks) - CLI to bulk upload emojis to your Slack
 - [krackattacks](https://github.com/vanhoefm/krackattacks) - 
 - [remarkdown](https://github.com/fvsch/remarkdown) - Styling HTML as if it were raw Markdown text.
 - [vinay20045.github.io](https://github.com/vinay20045/vinay20045.github.io) - askVinay.com site - Demo for building SPA in vanilla js
@@ -339,6 +341,7 @@
 - [dijkstras-algorithm](https://github.com/kdrakon/dijkstras-algorithm) - Scala and ScalaJS implementation of the famous algorithm
 - [Pastejacking](https://github.com/dxa4481/Pastejacking) - A demo of overriding what's in a person's clipboard
 - [min](https://github.com/minbrowser/min) - A smarter, faster web browser
+- [filldisk.com](https://github.com/feross/filldisk.com) - :floppy_disk: Masterful trolling with HTML5 localStorage
 - [Insanity](https://github.com/jirislav/Insanity) - Insanity is an opensource project under MIT license. Visit
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
 - [Bootstrap-Offcanvas](https://github.com/iamphill/Bootstrap-Offcanvas) - :zap: Offcanvas menu built with Bootstrap
@@ -438,7 +441,7 @@
 - [across-tabs](https://github.com/wingify/across-tabs) - Easy communication between cross-origin browser tabs
 - [lazyload](https://github.com/verlok/lazyload) - LazyLoad is a fast, lightweight and flexible script to allow you enhance performance on your website by loading images only as they enter (or are about to enter) the viewport or a scrollable area, with best support to the img srcset attribute and to the progressive JPEG image format.
 - [earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
-- [AnyChart](https://github.com/AnyChart/AnyChart) - JavaScript Charts designed to be embedded and integrated
+- [AnyChart](https://github.com/AnyChart/AnyChart) - AnyChart is a lightweight and robust JavaScript charting solution with great API and documentation. The chart types and unique features are numerous, and the library works easily with any development stack.
 - [dua.js](https://github.com/rudimk/dua.js) - A Node.js package for invoking divine blessings for one's Javascript code.
 - [loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
 - [nuclear](https://github.com/nukeop/nuclear) - An Electron-based, multiplatform music player app that streams from multiple sources
@@ -597,7 +600,6 @@
 - [beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [angular-hammer](https://github.com/RyanMullins/angular-hammer) - Hammer.js v2 support for AngularJS
-- [filldisk.com](https://github.com/feross/filldisk.com) - :floppy_disk: Masterful trolling with HTML5 localStorage
 - [angular-treeRepeat](https://github.com/tchatel/angular-treeRepeat) - Recursive repeater for AngularJS
 - [angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 - [jquery-drilldown](https://github.com/Cinamonas/jquery-drilldown) - A simple jQuery plugin for creating animated drilldown menus
@@ -675,7 +677,7 @@
 - [docker-alpine-php-fpm7](https://github.com/naerymdan/docker-alpine-php-fpm7) - Slim Docker image based on Alpine for php-fpm7
 - [flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
 - [RSS_Blog_Entreprises](https://github.com/genma/RSS_Blog_Entreprises) - 
-- [WSL](https://github.com/Microsoft/WSL) - Issues found within and using Bash on Ubuntu on Windows
+- [WSL](https://github.com/Microsoft/WSL) - Issues found on WSL
 - [betterdefaultpasslist](https://github.com/govolution/betterdefaultpasslist) - 
 - [glean](https://github.com/benwr/glean) - A tiny bitmap font for programming
 - [NorthKoreaDNSLeak](https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak) - Snapshot of North Korea's DNS data taken from zone transfers.
@@ -695,6 +697,7 @@
 
 ## PHP 
 
+- [enumeration](https://github.com/eloquent/enumeration) - An enumeration implementation for PHP.
 - [prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
 - [phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 - [phpDocumentor2](https://github.com/phpDocumentor/phpDocumentor2) - Documentation Generator for PHP

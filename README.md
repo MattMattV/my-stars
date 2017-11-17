@@ -64,6 +64,7 @@
 
 ## C 
 
+- [kbord](https://github.com/dekuNukem/kbord) - A programmable mechanical keypad with RGB backlight.
 - [kscope](https://github.com/ortegaalfredo/kscope) - 
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -80,7 +81,6 @@
 - [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
 - [CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes
 - [Broadway](https://github.com/mbebenita/Broadway) - A JavaScript H.264 decoder.
-- [gtk3-docker](https://github.com/moondev/gtk3-docker) - Run native gtk3+ GUI applications inside a container via the browser
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [mongoose](https://github.com/cesanta/mongoose) - Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server,  MQTT client and broker and much more.
@@ -99,7 +99,7 @@
 
 ## C# # 
 
-- [openplex-app](https://github.com/invu/openplex-app) - Search for Movies/TV Shows available to watch for free
+- [openplex-app](https://github.com/invu/openplex-app) - Search movies, series, anime, subtitles, torrents from open directories
 - [KeePass-Yet-Another-Favicon-Downloader](https://github.com/navossoc/KeePass-Yet-Another-Favicon-Downloader) - Yet Another Favicon Downloader for KeePass 2.x
 - [hakchi2](https://github.com/ClusterM/hakchi2) - Tool that allows you to add more games to your NES/SNES Classic Mini
 - [SWSH](https://github.com/SecureWindowsShell/SWSH) - Secure Windows Shell (SWSH - pronounced swish)
@@ -121,6 +121,8 @@
 
 ## C++ 
 
+- [keyleds](https://github.com/spectras/keyleds) - Logitech Keyboard per-key lighting control — G410, G610, G810, G910
+- [vsc-material-theme](https://github.com/equinusocio/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [g810-led](https://github.com/MatMoul/g810-led) - Linux led controller for Logitech G213, G410, G413, G610, G810, G910 and GPRO Keyboards
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [cutter](https://github.com/radareorg/cutter) - A Qt and C++ GUI for radare2 reverse engineering framework
@@ -167,6 +169,7 @@
 
 ## CSS 
 
+- [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
 - [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [higgcss](https://github.com/robinparisi/higgcss) - Micro framework CSS modulaire
@@ -270,7 +273,7 @@
 - [pliz](https://github.com/agence-webup/pliz) - A CLI tool to manage web projects
 - [vitess](https://github.com/youtube/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
-- [mutagen](https://github.com/havoc-io/mutagen) - Simple, cross-platform, continuous, bi-directional file synchronization
+- [mutagen](https://github.com/havoc-io/mutagen) - Simple, cross-platform, continuous, bidirectional file synchronization
 - [play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
@@ -322,7 +325,7 @@
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [cheatsheet](https://github.com/vuejs-tips/cheatsheet) - Vue.js 2.2 complete API cheatsheet
-- [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources by @AngularClass a @OneSpeed-io company
+- [awesome-angular](https://github.com/gdi2290/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources by @TipeIO
 - [kodachi](https://github.com/WMAL/kodachi) - Linux Kodachi operating system is based on Debian 8.6 it will provide you with a secure, anti forensic, and anonymous operating system considering all features that a person who is concerned about privacy would need to have in order to be secure.
 - [Gabeify](https://github.com/powderblock/Gabeify) - Bring lord gaben to any web page your heart desires.
 - [risingstars2016](https://github.com/michaelrambeau/risingstars2016) - :stars: A complete overview of the JavaScript landscape in 2016: trends about front-end and node.js frameworks, tooling... Available in English, Japanese and Chinese.
@@ -380,6 +383,9 @@
 
 ## JavaScript 
 
+- [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
+- [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
+- [bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight private npm proxy registry (sinopia fork)
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
@@ -403,7 +409,7 @@
 - [moon](https://github.com/kbrsh/moon) - :crescent_moon: :zap: A minimal, blazing fast UI library.
 - [ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [devtools-svg](https://github.com/fvsch/devtools-svg) - Proof of concept devtools extension that finds SVG symbols and images in the current page.
-- [KeeFox](https://github.com/kee-org/KeeFox) - Simple and secure password management for Firefox users with KeePass. Download at https://addons.mozilla.org/en-US/firefox/addon/keefox/
+- [KeeFox](https://github.com/kee-org/KeeFox) - Legacy browser and XUL application integration with KeePass Password Safe. See https://github.com/kee-org/browser-addon for the new version for Firefox 57+
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [kwin-quarter-tiling](https://github.com/Jazqa/kwin-quarter-tiling) - Improves the workflow by automatically tiling windows and creating virtual desktops
 - [keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
@@ -491,6 +497,7 @@
 - [icingtaskmanager](https://github.com/jaszhix/icingtaskmanager) - Window list with app grouping and thumbnails for Cinnamon
 - [Catify](https://github.com/MeoBeoI/Catify) - Utility for Spotify, even your cat can use Spotify now !
 - [notanos](https://github.com/Lerc/notanos) - Not really an oprating system,  Just a pile of javascript pretending to be a Desktop Environment
+- [gtk3-docker](https://github.com/moondev/gtk3-docker) - Run native gtk3+ GUI applications inside a container via the browser
 - [mojs](https://github.com/legomushroom/mojs) - motion graphics toolbelt for the web
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [tetrispad](https://github.com/maxwellito/tetrispad) - Use the Novation Launchpad to play Tetris
@@ -558,7 +565,7 @@
 - [bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers
 - [canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-- [odoo](https://github.com/coderitual/odoo) - :zap: SVG odometer effect library with motion blur
+- [bounty](https://github.com/coderitual/bounty) - :zap: SVG odometer effect library with motion blur
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
 - [reflexio](https://github.com/ketanhwr/reflexio) - A web game based on reflection
@@ -640,6 +647,7 @@
 
 ## Others 
 
+- [bash-insulter](https://github.com/hkbakke/bash-insulter) - Insults the user when typing wrong command
 - [Seer](https://github.com/ccseer/Seer) - Seer bug report
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
@@ -651,7 +659,6 @@
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧
 - [mattermost-webrtc](https://github.com/mattermost/mattermost-webrtc) - 
-- [passbolt-compose](https://github.com/dlen/passbolt-compose) - Unofficial passbolt composer for docker. passbolt for the masses!
 - [arch-tuto-installation](https://github.com/FredBezies/arch-tuto-installation) - Version en ligne de mon tutoriel pour installer Archlinux
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [dracula-theme](https://github.com/dracula/dracula-theme) - :scream: A dark theme for all the things!
@@ -725,7 +732,7 @@
 - [tracy](https://github.com/nette/tracy) - 😎 Tracy: the addictive tool to ease debugging PHP code for cool developers. Friendly design, logging, profiler, advanced features like debugging AJAX calls or CLI support. You will love it.
 - [grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - Integrate Keeweb into Nextcloud
-- [paratest](https://github.com/brianium/paratest) - Parallel testing for PHPUnit
+- [paratest](https://github.com/brianium/paratest) - :computer: Parallel testing for PHPUnit
 - [webhook.site](https://github.com/fredsted/webhook.site) - Easily test HTTP webhooks with this handy tool that displays requests in realtime.
 - [mongo-php-library](https://github.com/mongodb/mongo-php-library) - MongoDB PHP library
 - [bm-FollowFriday](https://github.com/blogmotion/bm-FollowFriday) - Interface pour le #FF Twitter
@@ -862,6 +869,7 @@
 - [ezservermonitor-sh](https://github.com/shevabam/ezservermonitor-sh) - eZ Server Monitor`sh - A simple and lightweight dashboard for Linux
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+- [passbolt-compose](https://github.com/dlen/passbolt-compose) - Unofficial passbolt composer for docker. passbolt for the masses!
 - [nginx-autoinstall](https://github.com/Angristan/nginx-autoinstall) - Compile Nginx with custom modules on Debian 8 and 9
 - [welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
 - [dynamodb-snapshot-containers](https://github.com/buildertools/dynamodb-snapshot-containers) - This project both wraps the DynamoDB devkit and provides a mechanism for capturing snapshots that can be attached to dependent services at test time to launch from well known states.

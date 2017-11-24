@@ -54,7 +54,7 @@
 
 ## AutoIt 
 
-- [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) - The same, but free
+- [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) - Functionally the same, but free
 
 ## Batchfile 
 
@@ -99,7 +99,8 @@
 
 ## C# # 
 
-- [openplex-app](https://github.com/invu/openplex-app) - Search movies, series, anime, subtitles, torrents from open directories
+- [UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver) - One size fits all Windows Drivers for Android Debug Bridge.
+- [opentheatre-app](https://github.com/invu/opentheatre-app) - Search movies, series, anime, subtitles, torrents from open directories
 - [KeePass-Yet-Another-Favicon-Downloader](https://github.com/navossoc/KeePass-Yet-Another-Favicon-Downloader) - Yet Another Favicon Downloader for KeePass 2.x
 - [hakchi2](https://github.com/ClusterM/hakchi2) - Tool that allows you to add more games to your NES/SNES Classic Mini
 - [SWSH](https://github.com/SecureWindowsShell/SWSH) - Secure Windows Shell (SWSH - pronounced swish)
@@ -228,6 +229,8 @@
 
 ## Go 
 
+- [lint](https://github.com/golang/lint) - This is a linter for Go source code.
+- [dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
 - [gitbrute](https://github.com/bradfitz/gitbrute) - brute-force a git commit hash
 - [litter](https://github.com/sanity-io/litter) - Litter is a pretty printer library for Go data structures to aid in debugging and testing.
 - [cameradar](https://github.com/EtixLabs/cameradar) - Cameradar hacks its way into RTSP CCTV cameras
@@ -257,7 +260,7 @@
 - [realize](https://github.com/tockins/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams.
-- [faas](https://github.com/openfaas/faas) - OpenFaaS - the serverless framework for Docker & Kubernetes
+- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
@@ -286,7 +289,7 @@
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [pt](https://github.com/fogleman/pt) - A path tracer written in Go.
 - [butler](https://github.com/itchio/butler) - :tophat: Command-line itch.io helper
-- [hget](https://github.com/huydx/hget) - rocket fast, interruptable, resumable download accelerator written in golang
+- [hget](https://github.com/huydx/hget) - interruptable, resumable download accelerator written in golang
 - [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [pip-go](https://github.com/JamesMilnerUK/pip-go) - :dart: Point in Polygon implemented in Go
 - [pxl](https://github.com/ichinaski/pxl) - Display images in the terminal
@@ -338,7 +341,6 @@
 - [spongedown](https://github.com/ivanceras/spongedown) - Markdown with svg bob support
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [codecontext](https://github.com/davkap92/codecontext) - An attempt to explain and group the world of software contextually
-- [10ktower](https://github.com/webrender/10ktower) - Tower Sim & Entry for 10k Apart 2016
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [angular-datepicker](https://github.com/720kb/angular-datepicker) - Angularjs datepicker module, generate a datepicker on your input element -  https://720kb.github.io/angular-datepicker
 - [dijkstras-algorithm](https://github.com/kdrakon/dijkstras-algorithm) - Scala and ScalaJS implementation of the famous algorithm
@@ -383,6 +385,7 @@
 
 ## JavaScript 
 
+- [super-productivity](https://github.com/johannesjo/super-productivity) - To Do List / Time Tracker with Jira Integration. Makes you super productive!
 - [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
@@ -406,7 +409,7 @@
 - [instagif](https://github.com/shekit/instagif) - A DIY camera that prints GIFs
 - [serve](https://github.com/zeit/serve) - Static file serving and directory listing
 - [electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard) - Electron Desktop GUI for Webpack Dashboard
-- [moon](https://github.com/kbrsh/moon) - :crescent_moon: :zap: A minimal, blazing fast UI library.
+- [moon](https://github.com/kbrsh/moon) - 🌙 ⚡️ A minimal, blazing fast UI library.
 - [ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [devtools-svg](https://github.com/fvsch/devtools-svg) - Proof of concept devtools extension that finds SVG symbols and images in the current page.
 - [KeeFox](https://github.com/kee-org/KeeFox) - Legacy browser and XUL application integration with KeePass Password Safe. See https://github.com/kee-org/browser-addon for the new version for Firefox 57+
@@ -414,7 +417,7 @@
 - [kwin-quarter-tiling](https://github.com/Jazqa/kwin-quarter-tiling) - Improves the workflow by automatically tiling windows and creating virtual desktops
 - [keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-- [feather](https://github.com/colebemis/feather) - Simply beautiful open source icons
+- [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [tlapse](https://github.com/typicode/tlapse) - :camera: Create a timelapse of your web development... or just automatically take screenshots of your hard work ;)
 - [pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [office-addin-react](https://github.com/Hongbo-Miao/office-addin-react) - To help you learn to use Office.js and React build an Excel add-in
@@ -457,7 +460,7 @@
 - [wick](https://github.com/zrispo/wick) - The Internet's free and open source multimedia creation toolkit
 - [planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [node-archy](https://github.com/substack/node-archy) - render nested hierarchies `npm ls` style with unicode pipes
-- [bit](https://github.com/teambit/bit) - Share code components with your team across projects
+- [bit](https://github.com/teambit/bit) - Git extension for component source-code management (CSCM).
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [a-million-times](https://github.com/MichaelHoste/a-million-times) - JS Clocks from "A million Times" (ReactJS)
@@ -562,6 +565,7 @@
 - [perfBar](https://github.com/WPOTools/perfBar) - 
 - [css_browser_selector](https://github.com/rafaelp/css_browser_selector) - A very small javascript library that allows you to create browser specific CSS to be merged into your normal classes. No more hacks or mischievous code in your CSS code.
 - [gaia-tools](https://github.com/flimshaw/gaia-tools) - Some scripts I use to process data from the Gaia satellite
+- [10ktower](https://github.com/webrender/10ktower) - Tower Sim & Entry for 10k Apart 2016
 - [bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers
 - [canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
@@ -704,6 +708,7 @@
 
 ## PHP 
 
+- [Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
 - [enumeration](https://github.com/eloquent/enumeration) - An enumeration implementation for PHP.
 - [prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
 - [phploc](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
@@ -759,6 +764,7 @@
 
 ## Python 
 
+- [exodus](https://github.com/Exodus-Privacy/exodus) - 
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 - [bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [Inventus](https://github.com/nmalcolm/Inventus) - Inventus is a spider designed to find subdomains of a specific domain by crawling it and any subdomains it discovers.
@@ -832,6 +838,7 @@
 
 ## Ruby 
 
+- [duckrails](https://github.com/iridakos/duckrails) - A development tool to quickly & dynamically mock API endpoints
 - [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [catphish](https://github.com/ring0lab/catphish) - CATPHISH project - For phishing and corporate espionage. Perfect for RED TEAM.
 - [postal](https://github.com/atech/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
@@ -876,7 +883,7 @@
 - [audio_shop](https://github.com/robertfoss/audio_shop) - Your friendly neighbourhood script for mangling images or video using audio editing tools
 - [git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z
-- [git-beam-it](https://github.com/SeedJobs/git-beam-it) - Bulk clone Github repositories for a specific user/organisation or team
+- [git-beam-it](https://github.com/BeameryHQ/git-beam-it) - Bulk clone Github repositories for a specific user/organisation or team
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
 - [yubitouch](https://github.com/a-dma/yubitouch) - Bash script for setting or clearing touch requirements for # cryptographic operations the OpenPGP application on a YubiKey 4
 - [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
@@ -958,7 +965,7 @@
 
 ## Visual Basic 
 
-- [CompactGUI](https://github.com/ImminentFate/CompactGUI) - Visual Interface for the Windows Compact.exe cmdlet
+- [CompactGUI](https://github.com/ImminentFate/CompactGUI) - Visual Interface for the Windows 10 Compact Function
 
 ## Vue 
 

@@ -41,6 +41,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vala](#vala)
   - [Visual Basic](#visual basic)
@@ -64,7 +65,8 @@
 
 ## C 
 
-- [kbord](https://github.com/dekuNukem/kbord) - A programmable mechanical keypad with RGB backlight.
+- [obs-studio](https://github.com/jp9000/obs-studio) - OBS - Free and open source software for live streaming and screen recording
+- [kbord](https://github.com/dekuNukem/kbord) - A programmable mechanical keypad with OLED display and RGB backlight.
 - [kscope](https://github.com/ortegaalfredo/kscope) - 
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -100,7 +102,7 @@
 ## C# # 
 
 - [UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver) - One size fits all Windows Drivers for Android Debug Bridge.
-- [opentheatre-app](https://github.com/invu/opentheatre-app) - Search movies, series, anime, subtitles, torrents from open directories
+- [opentheatre](https://github.com/invu/opentheatre) - Search movies, series, anime, subtitles, torrents and archives from open directories
 - [KeePass-Yet-Another-Favicon-Downloader](https://github.com/navossoc/KeePass-Yet-Another-Favicon-Downloader) - Yet Another Favicon Downloader for KeePass 2.x
 - [hakchi2](https://github.com/ClusterM/hakchi2) - Tool that allows you to add more games to your NES/SNES Classic Mini
 - [SWSH](https://github.com/SecureWindowsShell/SWSH) - Secure Windows Shell (SWSH - pronounced swish)
@@ -122,6 +124,7 @@
 
 ## C++ 
 
+- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
 - [keyleds](https://github.com/spectras/keyleds) - Logitech Keyboard per-key lighting control — G410, G610, G810, G910
 - [vsc-material-theme](https://github.com/equinusocio/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [g810-led](https://github.com/MatMoul/g810-led) - Linux led controller for Logitech G213, G410, G413, G610, G810, G910 and GPRO Keyboards
@@ -229,6 +232,7 @@
 
 ## Go 
 
+- [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [lint](https://github.com/golang/lint) - This is a linter for Go source code.
 - [dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
 - [gitbrute](https://github.com/bradfitz/gitbrute) - brute-force a git commit hash
@@ -320,6 +324,7 @@
 
 ## HTML 
 
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [emojipacks](https://github.com/lambtron/emojipacks) - CLI to bulk upload emojis to your Slack
 - [krackattacks](https://github.com/vanhoefm/krackattacks) - 
 - [remarkdown](https://github.com/fvsch/remarkdown) - Styling HTML as if it were raw Markdown text.
@@ -355,12 +360,13 @@
 
 ## Haskell 
 
-- [hadolint](https://github.com/lukasmartinelli/hadolint) - Dockerfile linter written in Haskell
+- [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter written in Haskell
 - [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Java 
 
+- [Battery-Metrics](https://github.com/facebookincubator/Battery-Metrics) - Library that helps in instrumenting battery related system metrics.
 - [anonymouth](https://github.com/psal/anonymouth) - 
 - [StreetComplete](https://github.com/westnordost/StreetComplete) - Surveyor app for Android
 - [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.
@@ -385,7 +391,10 @@
 
 ## JavaScript 
 
+- [Boostnote](https://github.com/BoostIO/Boostnote) - An open source note-taking app for programmer.
+- [stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
 - [super-productivity](https://github.com/johannesjo/super-productivity) - To Do List / Time Tracker with Jira Integration. Makes you super productive!
+- [exodus](https://github.com/Exodus-Privacy/exodus) - Platform to audit trackers used by Android application
 - [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
@@ -569,7 +578,7 @@
 - [bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers
 - [canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-- [bounty](https://github.com/coderitual/bounty) - :zap: SVG odometer effect library with motion blur
+- [bounty](https://github.com/coderitual/bounty) - 🎰 SVG odometer effect library with motion blur
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
 - [reflexio](https://github.com/ketanhwr/reflexio) - A web game based on reflection
@@ -651,6 +660,7 @@
 
 ## Others 
 
+- [iconpack-obsidian](https://github.com/madmaxms/iconpack-obsidian) - Gnome Icon Pack based upon Faenza, optimized for dark themes
 - [bash-insulter](https://github.com/hkbakke/bash-insulter) - Insults the user when typing wrong command
 - [Seer](https://github.com/ccseer/Seer) - Seer bug report
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
@@ -764,7 +774,7 @@
 
 ## Python 
 
-- [exodus](https://github.com/Exodus-Privacy/exodus) - 
+- [onedrivecmd](https://github.com/cnbeining/onedrivecmd) - A command line client for Onedrive.
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 - [bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [Inventus](https://github.com/nmalcolm/Inventus) - Inventus is a spider designed to find subdomains of a specific domain by crawling it and any subdomains it discovers.
@@ -826,7 +836,7 @@
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
-- [certbot](https://github.com/certbot/certbot) - Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+- [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative.
 - [package_control](https://github.com/wbond/package_control) - The Sublime Text package manager
@@ -867,6 +877,7 @@
 
 ## Shell 
 
+- [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions
 - [docker-unity3d](https://github.com/nenadg/docker-unity3d) - Docker container for Unity
 - [WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [dotfiles](https://github.com/KevOBrien/dotfiles) - 
@@ -916,8 +927,14 @@
 - [Mu](https://github.com/marciok/Mu) - It's a Swift playground explaining how to create a tiny programming language named Mu
 - [bestmate](https://github.com/johnlinvc/bestmate) - 
 
+## TeX 
+
+- [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
+
 ## TypeScript 
 
+- [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
+- [angular-seed](https://github.com/mgechev/angular-seed) - Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation
 - [autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, Go, Java, Node.js, TypeScript, Python, Ruby and PHP.
 - [rxjs-tslint-rules](https://github.com/cartant/rxjs-tslint-rules) - TSLint rules for RxJS
 - [devkit](https://github.com/angular/devkit) - 

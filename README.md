@@ -11,6 +11,7 @@
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
+  - [CMake](#cmake)
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
@@ -55,7 +56,7 @@
 
 ## AutoIt 
 
-- [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) - Functionally the same, but free
+- [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) - Functionally the same, but free.
 
 ## Batchfile 
 
@@ -65,6 +66,7 @@
 
 ## C 
 
+- [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
 - [obs-studio](https://github.com/jp9000/obs-studio) - OBS - Free and open source software for live streaming and screen recording
 - [kbord](https://github.com/dekuNukem/kbord) - A programmable mechanical keypad with OLED display and RGB backlight.
 - [kscope](https://github.com/ortegaalfredo/kscope) - 
@@ -101,6 +103,7 @@
 
 ## C# # 
 
+- [pablodraw](https://github.com/cwensley/pablodraw) - PabloDraw is an Ansi/Ascii text and RIPscrip vector graphic art editor/viewer with multi-user capabilities.
 - [UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver) - One size fits all Windows Drivers for Android Debug Bridge.
 - [opentheatre](https://github.com/invu/opentheatre) - Search movies, series, anime, subtitles, torrents and archives from open directories
 - [KeePass-Yet-Another-Favicon-Downloader](https://github.com/navossoc/KeePass-Yet-Another-Favicon-Downloader) - Yet Another Favicon Downloader for KeePass 2.x
@@ -124,12 +127,12 @@
 
 ## C++ 
 
+- [blackbird](https://github.com/butor/blackbird) - Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
 - [keyleds](https://github.com/spectras/keyleds) - Logitech Keyboard per-key lighting control — G410, G610, G810, G910
 - [vsc-material-theme](https://github.com/equinusocio/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [g810-led](https://github.com/MatMoul/g810-led) - Linux led controller for Logitech G213, G410, G413, G610, G810, G910 and GPRO Keyboards
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
-- [cutter](https://github.com/radareorg/cutter) - A Qt and C++ GUI for radare2 reverse engineering framework
 - [slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
 - [ngx_pagespeed](https://github.com/pagespeed/ngx_pagespeed) - Automatic PageSpeed optimization module for Nginx
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
@@ -146,7 +149,7 @@
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [Stockfish](https://github.com/official-stockfish/Stockfish) - UCI chess engine
 - [encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
-- [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
+- [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
 - [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
 - [BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
@@ -165,14 +168,19 @@
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer) - Experimental CUDA voxelizer, to convert polygon meshes to annotated voxel grids.
 - [NodeRT](https://github.com/NodeRT/NodeRT) - Winrt APIs-node.js modules generator
-- [GameLad](https://github.com/Dooskington/GameLad) - An (almost) fully featured Game Boy emulator.
+- [GameLad](https://github.com/Dooskington/GameLad) - :tv: An (almost) fully featured Game Boy emulator.
 - [Revive](https://github.com/LibreVR/Revive) - Play Oculus-exclusive games on the HTC Vive, scroll down for downloads and installation instructions. If you'd like to make a donation you can do so on my Patreon.
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) - Support c++ code for a short computer graphics course
 - [Client](https://github.com/Proj-Ascension/Client) - Client repository for Project Ascension, an open source game launcher.
 - [supertux](https://github.com/SuperTux/supertux) - SuperTux source code
 
+## CMake 
+
+- [Akira](https://github.com/Alecaddd/Akira) - Native Linux App for UI and UX Design built in Vala and Gtk
+
 ## CSS 
 
+- [thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
 - [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
@@ -232,6 +240,10 @@
 
 ## Go 
 
+- [miniflux](https://github.com/miniflux/miniflux) - Minimalist feed reader written in Go and Postgresql
+- [dontbug](https://github.com/sidkshatriya/dontbug) - Dontbug is a reverse debugger for PHP
+- [ssllabs-scan](https://github.com/ssllabs/ssllabs-scan) - A command-line reference-implementation client for SSL Labs APIs, designed for automated and/or bulk testing.
+- [promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [lint](https://github.com/golang/lint) - This is a linter for Go source code.
 - [dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
@@ -287,7 +299,7 @@
 - [spoofgo](https://github.com/sabey/spoofgo) - An Application for Spoofing Movement written in Golang
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [the-internet](https://github.com/nsec/the-internet) - The code of our Internet simulator
-- [hugo](https://github.com/gohugoio/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang.
+- [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [esh](https://github.com/gurinderhans/esh) - esh - easy SSH, interact with your SSH server from your local bash
 - [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -324,6 +336,7 @@
 
 ## HTML 
 
+- [QuadFile](https://github.com/QuadPiece/QuadFile) - The filesharing service everyone either hates or loves
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [emojipacks](https://github.com/lambtron/emojipacks) - CLI to bulk upload emojis to your Slack
 - [krackattacks](https://github.com/vanhoefm/krackattacks) - 
@@ -339,7 +352,6 @@
 - [risingstars2016](https://github.com/michaelrambeau/risingstars2016) - :stars: A complete overview of the JavaScript landscape in 2016: trends about front-end and node.js frameworks, tooling... Available in English, Japanese and Chinese.
 - [awsm.css](https://github.com/igoradamenko/awsm.css) - Simple CSS library for semantic HTML markup
 - [githunt](https://github.com/kamranahmedse/githunt) - Chrome Extension - Replace your new tab with trending Github repositories
-- [visdown](https://github.com/amitkaps/visdown) - Visualisation Markdown
 - [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: Local git statistics including GitHub-like contributions calendars.
 - [stop-the-bullshit](https://github.com/jacquerie/stop-the-bullshit) - Blocks websites that publish fake news, and hides their posts on Facebook
 - [gun-starter-app](https://github.com/gundb/gun-starter-app) - Framework agnostic starter code for gun apps
@@ -366,10 +378,11 @@
 
 ## Java 
 
+- [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [Battery-Metrics](https://github.com/facebookincubator/Battery-Metrics) - Library that helps in instrumenting battery related system metrics.
 - [anonymouth](https://github.com/psal/anonymouth) - 
 - [StreetComplete](https://github.com/westnordost/StreetComplete) - Surveyor app for Android
-- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.
+- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Developers on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.
 - [Espresso](https://github.com/TonnyL/Espresso) - 🚚 Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing
 - [intellij-swagger](https://github.com/zalando/intellij-swagger) - A plugin to help you easily edit Swagger and OpenAPI specification files inside IntelliJ IDEA
 - [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
@@ -391,10 +404,20 @@
 
 ## JavaScript 
 
-- [Boostnote](https://github.com/BoostIO/Boostnote) - An open source note-taking app for programmer.
+- [shader-reload](https://github.com/mattdesl/shader-reload) - An interface for reloading GLSL shaders on the fly.
+- [xmr-miner](https://github.com/bradoyler/xmr-miner) - XMR mining app, built with Vue.js, D3 and CoinHive
+- [semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: fully automated package publishing
+- [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
+- [donut](https://github.com/harshjv/donut) - 🏹 Dead-simple cross-platform cryptocurrency tracker.
+- [popmotion](https://github.com/Popmotion/popmotion) - The JavaScript motion engine. Create unique animations and interactions with tweens, physics and input tracking.
+- [LibreRead](https://github.com/LibreRead/LibreRead) - Self-hosted Free(Libre) Ebook Reader
+- [captainduckduck](https://github.com/githubsaturn/captainduckduck) - Automated Scalable Ready Webserver Package | In experimental phase
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+- [Boostnote](https://github.com/BoostIO/Boostnote) - The note-taking app for programmers that focusing on markdown, snippet and customizability.
 - [stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
 - [super-productivity](https://github.com/johannesjo/super-productivity) - To Do List / Time Tracker with Jira Integration. Makes you super productive!
-- [exodus](https://github.com/Exodus-Privacy/exodus) - Platform to audit trackers used by Android application
 - [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
@@ -469,7 +492,7 @@
 - [wick](https://github.com/zrispo/wick) - The Internet's free and open source multimedia creation toolkit
 - [planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [node-archy](https://github.com/substack/node-archy) - render nested hierarchies `npm ls` style with unicode pipes
-- [bit](https://github.com/teambit/bit) - Git extension for component source-code management (CSCM).
+- [bit](https://github.com/teambit/bit) - Bit connects great tools like Git, Yarn and NPM to form a frictionless component sharing experience.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [a-million-times](https://github.com/MichaelHoste/a-million-times) - JS Clocks from "A million Times" (ReactJS)
@@ -491,7 +514,6 @@
 - [Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 - [Wappalyzer](https://github.com/AliasIO/Wappalyzer) - Cross-platform utility that uncovers the technologies used on websites.
 - [dot-dom](https://github.com/wavesoft/dot-dom) - .dom is a tiny (511 byte) template engine that uses virtual DOM and some of react principles
-- [vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) - :zap: VSCode Extension - Sync all of your VSCode settings across multiple devices.
 - [dashboard](https://github.com/Reportr/dashboard) - Your life's personal dashboard.
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
@@ -523,6 +545,7 @@
 - [notification-logger](https://github.com/hkirat/notification-logger) - Desktop notification for your console Logs
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+- [visdown](https://github.com/amitkaps/visdown) - Visualisation Markdown
 - [zazu](https://github.com/tinytacoteam/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
 - [quickstart](https://github.com/angular/quickstart) - Angular 2 QuickStart - source from the documentation
 - [release](https://github.com/zeit/release) - Generate changelogs with a single command
@@ -571,14 +594,14 @@
 - [nodejs-dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal!
 - [PresentationIvan](https://github.com/Ivanca/PresentationIvan) - 
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local .dev domains
-- [perfBar](https://github.com/WPOTools/perfBar) - 
+- [perfBar](https://github.com/lafikl/perfBar) - 
 - [css_browser_selector](https://github.com/rafaelp/css_browser_selector) - A very small javascript library that allows you to create browser specific CSS to be merged into your normal classes. No more hacks or mischievous code in your CSS code.
 - [gaia-tools](https://github.com/flimshaw/gaia-tools) - Some scripts I use to process data from the Gaia satellite
 - [10ktower](https://github.com/webrender/10ktower) - Tower Sim & Entry for 10k Apart 2016
 - [bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers
 - [canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-- [bounty](https://github.com/coderitual/bounty) - 🎰 SVG odometer effect library with motion blur
+- [bounty](https://github.com/coderitual/bounty) - :zap: SVG odometer effect library with motion blur
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
 - [reflexio](https://github.com/ketanhwr/reflexio) - A web game based on reflection
@@ -595,7 +618,6 @@
 - [regl-cnn](https://github.com/Erkaman/regl-cnn) - Digit recognition with Convolutional Neural Networks in WebGL
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
-- [StoryBranch](https://github.com/WyattHRichter/StoryBranch) - an interactive story writing experience! maintained by https://github.com/wyatthrichter
 - [angular-downloader](https://github.com/720kb/angular-downloader) - Angular Downloader is an angularjs directive that enables you to manage browser download - https://720kb.github.io/angular-downloader
 - [terrain](https://github.com/mewo2/terrain) - Fantasy map generator
 - [rambox](https://github.com/saenzramiro/rambox) - Free and Open Source messaging and emailing app that combines common web applications into one.
@@ -633,6 +655,7 @@
 
 ## Kotlin 
 
+- [github-profile-summary](https://github.com/tipsy/github-profile-summary) - Tool for visualizing GitHub profiles
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
 
 ## Logos 
@@ -641,6 +664,7 @@
 
 ## Lua 
 
+- [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Kindle, Kobo, PocketBook, Ubuntu Touch and Android devices
 - [morpheus](https://github.com/r00t-3xp10it/morpheus) - Morpheus - Automated Ettercap TCP/IP Hijacking Tool
 
@@ -660,6 +684,7 @@
 
 ## Others 
 
+- [deb.sury.org](https://github.com/oerdnj/deb.sury.org) - Public bugreports for anything ppa:ondrej/*
 - [iconpack-obsidian](https://github.com/madmaxms/iconpack-obsidian) - Gnome Icon Pack based upon Faenza, optimized for dark themes
 - [bash-insulter](https://github.com/hkbakke/bash-insulter) - Insults the user when typing wrong command
 - [Seer](https://github.com/ccseer/Seer) - Seer bug report
@@ -667,7 +692,7 @@
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
 - [vanilla-js-plugins](https://github.com/cferdinandi/vanilla-js-plugins) - A list of recommended vanilla JavaScript plugins.
 - [Stickers](https://github.com/wesbos/Stickers) - Cool Sticker Designs
-- [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [game-modes](https://github.com/maniaplanet/game-modes) - Maniaplanet scripts and resources
 - [learn-regex](https://github.com/zeeshanu/learn-regex) - Learn regex the easy way
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
@@ -718,6 +743,10 @@
 
 ## PHP 
 
+- [thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ⭐) to your fellow PHP package maintainers (not limited to Symfony components)!
+- [cakephp-ide-helper](https://github.com/dereuromark/cakephp-ide-helper) - IDE Helper plugin for CakePHP
+- [phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
+- [piwik](https://github.com/piwik/piwik) - Liberating Web Analytics. Star us on Github? +1. Piwik is the leading open alternative to Google Analytics that gives you full control over your data. Piwik lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
 - [Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
 - [enumeration](https://github.com/eloquent/enumeration) - An enumeration implementation for PHP.
 - [prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
@@ -766,6 +795,7 @@
 
 ## PowerShell 
 
+- [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 - [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
 ## PureScript 
@@ -774,7 +804,9 @@
 
 ## Python 
 
+- [tqdm](https://github.com/noamraph/tqdm) - Add a progress meter to your loops in a second
 - [onedrivecmd](https://github.com/cnbeining/onedrivecmd) - A command line client for Onedrive.
+- [exodus](https://github.com/Exodus-Privacy/exodus) - Platform to audit trackers used by Android application
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 - [bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [Inventus](https://github.com/nmalcolm/Inventus) - Inventus is a spider designed to find subdomains of a specific domain by crawling it and any subdomains it discovers.
@@ -867,6 +899,7 @@
 
 ## Rust 
 
+- [firmware-update](https://github.com/system76/firmware-update) - Firmware Update Utility
 - [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [svgbobrus](https://github.com/ivanceras/svgbobrus) - Convert your ascii diagram scribbles into happy little SVG
@@ -877,6 +910,10 @@
 
 ## Shell 
 
+- [piu-piu-SH](https://github.com/vaniacer/piu-piu-SH) - This is an Old School horisontal scroller 'Shoot Them All' game in bash. With co-op mode. You have to defeat 100 aliens to fight with Boss. To play in co-op mode first, start the server, then start the client. Terminals on both hosts have to be with equal dimensions.
+- [lfs](https://github.com/reinterpretcat/lfs) - Docker configuration for building Linux From Scratch system
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [sub](https://github.com/basecamp/sub) - a delicious way to organize programs
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions
 - [docker-unity3d](https://github.com/nenadg/docker-unity3d) - Docker container for Unity
 - [WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
@@ -905,7 +942,7 @@
 - [stargaze](https://github.com/jez/stargaze) - :star: Gaze at repos you've starred
 - [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments.
 - [passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with passbolt using docker!
-- [OpenVPN-install](https://github.com/Angristan/OpenVPN-install) - Improved OpenVPN installer for Debian, Ubuntu, CentOS and Arch Linux
+- [OpenVPN-install](https://github.com/Angristan/OpenVPN-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora CentOS, and Arch Linux
 - [armhf](https://github.com/umiddelb/armhf) - interesting stuff about arm devices (Utilite, SolidRun, Odroid)
 - [curl-tap-sh](https://github.com/awalgarg/curl-tap-sh) - tap curl in your editor before it gets to sh it
 - [dynamic-motd](https://github.com/ldidry/dynamic-motd) - 
@@ -933,12 +970,16 @@
 
 ## TypeScript 
 
+- [alva](https://github.com/meetalva/alva) - Alva is a radically new design tool that enables cross-functional teams to design digital products.
+- [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
+- [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
+- [howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [angular-seed](https://github.com/mgechev/angular-seed) - Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation
 - [autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, Go, Java, Node.js, TypeScript, Python, Ruby and PHP.
 - [rxjs-tslint-rules](https://github.com/cartant/rxjs-tslint-rules) - TSLint rules for RxJS
 - [devkit](https://github.com/angular/devkit) - 
-- [magnemite](https://github.com/styfle/magnemite) - A screen recorder for websites, powered by Electron - capture repro steps!
+- [magnemite](https://github.com/styfle/magnemite) - Capture repro steps with this screen recorder for websites, powered by Electron
 - [chromeless](https://github.com/graphcool/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [vscode-pwa](https://github.com/johnpapa/vscode-pwa) - VS Code Extension for PWA Tools
@@ -949,8 +990,8 @@
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code plugin for Prettier
 - [angular-2-samples](https://github.com/thelgevold/angular-2-samples) - Angular sample components
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
+- [vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) - :zap: VSCode Extension - Sync all of your VSCode settings across multiple devices.
 - [HostMyDocs](https://github.com/TraceSoftwareInternational/HostMyDocs) - Small web server use to host documentation
-- [angular-tesla-range-calculator](https://github.com/johnpapa/angular-tesla-range-calculator) - 
 - [system-monitor](https://github.com/pd4d10/system-monitor) - A browser extension to monitor CPU and memory status
 - [augury](https://github.com/rangle/augury) - Angular Debugging and Visualization Tools
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.

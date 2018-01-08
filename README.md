@@ -56,7 +56,7 @@
 
 ## AutoIt 
 
-- [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) - Functionally the same, but free.
+- [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) - Functionally the same, but free. Better soon ;)
 
 ## Batchfile 
 
@@ -103,14 +103,14 @@
 
 ## C# # 
 
+- [Cierge](https://github.com/PwdLess/Cierge) - 🗝️ Passwordless OIDC authentication done right
 - [pablodraw](https://github.com/cwensley/pablodraw) - PabloDraw is an Ansi/Ascii text and RIPscrip vector graphic art editor/viewer with multi-user capabilities.
 - [UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver) - One size fits all Windows Drivers for Android Debug Bridge.
-- [opentheatre](https://github.com/invu/opentheatre) - Search movies, series, anime, subtitles, torrents and archives from open directories
+- [opentheatre](https://github.com/invu/opentheatre) - Search the web for videos, audios, eBooks, torrents, subtitles, archives and much more
 - [KeePass-Yet-Another-Favicon-Downloader](https://github.com/navossoc/KeePass-Yet-Another-Favicon-Downloader) - Yet Another Favicon Downloader for KeePass 2.x
 - [hakchi2](https://github.com/ClusterM/hakchi2) - Tool that allows you to add more games to your NES/SNES Classic Mini
-- [SWSH](https://github.com/SecureWindowsShell/SWSH) - Secure Windows Shell (SWSH - pronounced swish)
+- [SWSH](https://github.com/muhammadmuzzammil1998/SWSH) - Secure Windows Shell (SWSH - pronounced swish)
 - [spfilezilla](https://github.com/suoko/spfilezilla) - SPfilezilla - access document library and onedrive for business
-- [Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
 - [ArchiSteamFarm](https://github.com/JustArchi/ArchiSteamFarm) - C# application that allows you to farm steam cards using multiple steam accounts simultaneously.
 - [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Depressurizer is a program that helps you categorize your steam games.
 - [IsoVoxel](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from MagicaVoxel .vox files
@@ -127,14 +127,16 @@
 
 ## C++ 
 
+- [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
+- [Am-I-affected-by-Meltdown](https://github.com/raphaelsc/Am-I-affected-by-Meltdown) - Proof-of-concept / Exploit / checks whether system is affected by Variant 3: rogue data cache load (CVE-2017-5754), a.k.a MELTDOWN.
+- [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [blackbird](https://github.com/butor/blackbird) - Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
-- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
+- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [keyleds](https://github.com/spectras/keyleds) - Logitech Keyboard per-key lighting control — G410, G610, G810, G910
-- [vsc-material-theme](https://github.com/equinusocio/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [g810-led](https://github.com/MatMoul/g810-led) - Linux led controller for Logitech G213, G410, G413, G610, G810, G910 and GPRO Keyboards
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
-- [ngx_pagespeed](https://github.com/pagespeed/ngx_pagespeed) - Automatic PageSpeed optimization module for Nginx
+- [incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
 - [CRYENGINE](https://github.com/CRYTEK/CRYENGINE) - CRYENGINE is a powerful real-time game development platform created by Crytek.
 - [leocad](https://github.com/leozide/leocad) - A CAD program for creating virtual LEGO models
@@ -240,6 +242,7 @@
 
 ## Go 
 
+- [texttop](https://github.com/tombh/texttop) - A fully interactive X Linux desktop rendered in TTY and streamable over SSH
 - [miniflux](https://github.com/miniflux/miniflux) - Minimalist feed reader written in Go and Postgresql
 - [dontbug](https://github.com/sidkshatriya/dontbug) - Dontbug is a reverse debugger for PHP
 - [ssllabs-scan](https://github.com/ssllabs/ssllabs-scan) - A command-line reference-implementation client for SSL Labs APIs, designed for automated and/or bulk testing.
@@ -286,7 +289,7 @@
 - [pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [go-fuck-yourself](https://github.com/adamryman/go-fuck-yourself) - go-fuck-yourself is a go wrapper that will make your code build, forcefully.
-- [chromedp](https://github.com/knq/chromedp) - Package chromedp is a faster, simpler way to drive browsers (Chrome, Edge, Safari, Android, etc) without external dependencies (ie, Selenium, PhantomJS, etc) using the Chrome Debugging Protocol.
+- [chromedp](https://github.com/chromedp/chromedp) - Package chromedp is a faster, simpler way to drive browsers (Chrome, Edge, Safari, Android, etc) without external dependencies (ie, Selenium, PhantomJS, etc) using the Chrome Debugging Protocol.
 - [go-tools](https://github.com/dominikh/go-tools) - A collection of tools and libraries for working with Go code, including linters and static analysis
 - [autovpn](https://github.com/adtac/autovpn) - Easily connect to a VPN in a country of your choice.
 - [pliz](https://github.com/agence-webup/pliz) - A CLI tool to manage web projects
@@ -340,6 +343,7 @@
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [emojipacks](https://github.com/lambtron/emojipacks) - CLI to bulk upload emojis to your Slack
 - [krackattacks](https://github.com/vanhoefm/krackattacks) - 
+- [securitytxt.org](https://github.com/securitytxt/securitytxt.org) - Static website for security.txt.
 - [remarkdown](https://github.com/fvsch/remarkdown) - Styling HTML as if it were raw Markdown text.
 - [vinay20045.github.io](https://github.com/vinay20045/vinay20045.github.io) - askVinay.com site - Demo for building SPA in vanilla js
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
@@ -404,14 +408,23 @@
 
 ## JavaScript 
 
+- [widdershins](https://github.com/Mermade/widdershins) - OpenApi / Swagger, AsyncApi & Semoasa definition to Slate / Shins compatible markdown
+- [webgde-deck](https://github.com/PaulKinlan/webgde-deck) - A deck of news and updates from Web GDE's
+- [kimetrak](https://github.com/david-legrand/kimetrak) - Quels sont les services qui vous pistent en ligne ? On vous aide à le découvrir. Par l'équipe de Nextinpact
+- [pm2](https://github.com/Unitech/pm2) - PM2 RE: Production Runtime and Process Manager for Node.js apps with a built-in Load Balancer.
+- [themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [themer-gui](https://github.com/mjswensen/themer-gui) - A graphical UI for themer.
+- [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
+- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
+- [gnome-shell-extensions-mediaplayer](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) - A mediaplayer indicator for the gnome-shell.
 - [shader-reload](https://github.com/mattdesl/shader-reload) - An interface for reloading GLSL shaders on the fly.
 - [xmr-miner](https://github.com/bradoyler/xmr-miner) - XMR mining app, built with Vue.js, D3 and CoinHive
-- [semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: fully automated package publishing
+- [semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
 - [donut](https://github.com/harshjv/donut) - 🏹 Dead-simple cross-platform cryptocurrency tracker.
 - [popmotion](https://github.com/Popmotion/popmotion) - The JavaScript motion engine. Create unique animations and interactions with tweens, physics and input tracking.
-- [LibreRead](https://github.com/LibreRead/LibreRead) - Self-hosted Free(Libre) Ebook Reader
+- [server](https://github.com/LibreRead/server) - Self-hosted Free(Libre) Ebook Reader
 - [captainduckduck](https://github.com/githubsaturn/captainduckduck) - Automated Scalable Ready Webserver Package | In experimental phase
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
@@ -424,9 +437,8 @@
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight private npm proxy registry (sinopia fork)
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-- [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vue](https://github.com/vuejs/vue) - 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [dash-to-panel](https://github.com/jderose9/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
-- [securitytxt.org](https://github.com/securitytxt/securitytxt.org) - Static website for security.txt.
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [keepass-macpass-helper](https://github.com/belaviyo/keepass-macpass-helper) - A helper extension to use KeePass/MacPass from Firefox, Opera, and Chrome browsers
 - [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
@@ -436,7 +448,7 @@
 - [git-stats-importer](https://github.com/IonicaBizau/git-stats-importer) - :chart_with_upwards_trend: Imports your commits from a repository into git-stats history.
 - [ngx-card](https://github.com/ihym/ngx-card) - Angular 2+ wrapper for https://github.com/jessepollak/card
 - [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Javascript Password Vault - Multi-Platform Desktop Application
-- [cloudRIG](https://github.com/williamparry/cloudRIG) - Play your games with Parsec and AWS on the cheap.
+- [cloudRIG](https://github.com/williamparry/cloudRIG) - Stream your applications with Parsec and AWS on the cheap.
 - [csso](https://github.com/css/csso) - CSS minifier with structural optimizations
 - [instagif](https://github.com/shekit/instagif) - A DIY camera that prints GIFs
 - [serve](https://github.com/zeit/serve) - Static file serving and directory listing
@@ -462,7 +474,7 @@
 - [svgi](https://github.com/Angelmmiguel/svgi) - 🔎 The SVG inspection tool
 - [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
 - [copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) - Copy text to the clipboard in modern browsers (0.2 kB)
-- [sweetalert2](https://github.com/limonte/sweetalert2) - A beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- [sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [dogescript](https://github.com/dogescript/dogescript) - wow so syntax very doge much future
 - [Doomsday-Machine](https://github.com/johnjones4/Doomsday-Machine) - Please see my newer implementation of this at https://github.com/johnjones4/Doomsday-Machine-2
 - [ava](https://github.com/avajs/ava) - :rocket: Futuristic JavaScript test runner
@@ -489,10 +501,10 @@
 - [perfect-scrollbar](https://github.com/utatti/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin
 - [pegaswitch](https://github.com/reswitched/pegaswitch) - PegaSwitch is an exploit toolkit for the Nintendo Switch
 - [peeqo-robot](https://github.com/shekit/peeqo-robot) - The world's first robot to interact through GIFs...'nuf said
-- [wick](https://github.com/zrispo/wick) - The Internet's free and open source multimedia creation toolkit
+- [wick-editor](https://github.com/zrispo/wick-editor) - A browser-based toolkit for making simple animations and interactive applets for the web
 - [planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [node-archy](https://github.com/substack/node-archy) - render nested hierarchies `npm ls` style with unicode pipes
-- [bit](https://github.com/teambit/bit) - Bit connects great tools like Git, Yarn and NPM to form a frictionless component sharing experience.
+- [bit](https://github.com/teambit/bit) - Organize and share code components with your team, across projects.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [a-million-times](https://github.com/MichaelHoste/a-million-times) - JS Clocks from "A million Times" (ReactJS)
@@ -506,7 +518,6 @@
 - [webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - Webpack plugin for enabling Subresource Integrity.
 - [e2email](https://github.com/e2email-org/e2email) - E2EMail is a simple Chrome application - a Gmail client that exchanges OpenPGP mail.
 - [DarkLight](https://github.com/MinhasKamal/DarkLight) - Webpage in Night Mode
-- [anarchy-linux](https://github.com/deadhead420/anarchy-linux) - Anarchy Linux - An Arch Based Distro
 - [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
 - [script-ext-html-webpack-plugin](https://github.com/numical/script-ext-html-webpack-plugin) - Enhances html-webpack-plugin functionality with different deployment options for your scripts including 'async', 'preload', 'prefetch', 'defer', 'module', custom attributes, and inlining.
 - [lockr](https://github.com/tsironis/lockr) - A minimal API wrapper for localStorage
@@ -664,6 +675,7 @@
 
 ## Lua 
 
+- [dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
 - [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Kindle, Kobo, PocketBook, Ubuntu Touch and Android devices
 - [morpheus](https://github.com/r00t-3xp10it/morpheus) - Morpheus - Automated Ettercap TCP/IP Hijacking Tool
@@ -743,6 +755,7 @@
 
 ## PHP 
 
+- [past](https://github.com/paragonie/past) - Platform-Agnostic Security Tokens
 - [thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ⭐) to your fellow PHP package maintainers (not limited to Symfony components)!
 - [cakephp-ide-helper](https://github.com/dereuromark/cakephp-ide-helper) - IDE Helper plugin for CakePHP
 - [phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
@@ -790,6 +803,7 @@
 
 ## Perl 
 
+- [trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [dnsmanager](https://github.com/KaneRoot/dnsmanager) - DNS zones manager. Configure your own dns zone in your browser, get a name on the Internet!
 - [cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
@@ -910,7 +924,8 @@
 
 ## Shell 
 
-- [piu-piu-SH](https://github.com/vaniacer/piu-piu-SH) - This is an Old School horisontal scroller 'Shoot Them All' game in bash. With co-op mode. You have to defeat 100 aliens to fight with Boss. To play in co-op mode first, start the server, then start the client. Terminals on both hosts have to be with equal dimensions.
+- [nginx2goaccess](https://github.com/stockrt/nginx2goaccess) - Convert Nginx log_format to goaccess config file
+- [piu-piu-SH](https://github.com/vaniacer/piu-piu-SH) - This is an Old School horizontal scroller 'Shoot Them All' game in bash. With multiplayer modes team and duel. You have to defeat 100 aliens to fight with Boss. I'm using netcat for client-server exchange in multiplayer mode. So netcat have to be installed on system if you wish to play with friend. Terminals on both hosts have to be with equal dimensions.
 - [lfs](https://github.com/reinterpretcat/lfs) - Docker configuration for building Linux From Scratch system
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [sub](https://github.com/basecamp/sub) - a delicious way to organize programs
@@ -933,6 +948,7 @@
 - [fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z
 - [git-beam-it](https://github.com/BeameryHQ/git-beam-it) - Bulk clone Github repositories for a specific user/organisation or team
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
+- [anarchy-linux](https://github.com/deadhead420/anarchy-linux) - Anarchy Linux - An Arch Based Distro
 - [yubitouch](https://github.com/a-dma/yubitouch) - Bash script for setting or clearing touch requirements for # cryptographic operations the OpenPGP application on a YubiKey 4
 - [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [docker-letsencrypt-nginx-proxy-companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) - LetsEncrypt companion container for nginx-proxy
@@ -970,12 +986,14 @@
 
 ## TypeScript 
 
+- [majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config UI for Jest
 - [alva](https://github.com/meetalva/alva) - Alva is a radically new design tool that enables cross-functional teams to design digital products.
 - [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [angular-seed](https://github.com/mgechev/angular-seed) - Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation
+- [vsc-material-theme](https://github.com/equinusocio/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, Go, Java, Node.js, TypeScript, Python, Ruby and PHP.
 - [rxjs-tslint-rules](https://github.com/cartant/rxjs-tslint-rules) - TSLint rules for RxJS
 - [devkit](https://github.com/angular/devkit) - 
@@ -986,7 +1004,7 @@
 - [compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular application
 - [ngx-charts](https://github.com/swimlane/ngx-charts) - :bar_chart: Declarative Charting Framework for Angular2 and beyond!
 - [codelyzer](https://github.com/mgechev/codelyzer) - Static analysis for Angular projects.
-- [vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
+- [vetur](https://github.com/vuejs/vetur) - 🔮 Vue tooling for VS Code.
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code plugin for Prettier
 - [angular-2-samples](https://github.com/thelgevold/angular-2-samples) - Angular sample components
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph

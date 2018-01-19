@@ -106,7 +106,7 @@
 - [Cierge](https://github.com/PwdLess/Cierge) - 🗝️ Passwordless OIDC authentication done right
 - [pablodraw](https://github.com/cwensley/pablodraw) - PabloDraw is an Ansi/Ascii text and RIPscrip vector graphic art editor/viewer with multi-user capabilities.
 - [UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver) - One size fits all Windows Drivers for Android Debug Bridge.
-- [opentheatre](https://github.com/invu/opentheatre) - Search the web for videos, audios, eBooks, torrents, subtitles, archives and much more
+- [WebPlex](https://github.com/invu/WebPlex) - Search the web for videos, audios, eBooks, torrents, subtitles, archives and much more
 - [KeePass-Yet-Another-Favicon-Downloader](https://github.com/navossoc/KeePass-Yet-Another-Favicon-Downloader) - Yet Another Favicon Downloader for KeePass 2.x
 - [hakchi2](https://github.com/ClusterM/hakchi2) - Tool that allows you to add more games to your NES/SNES Classic Mini
 - [SWSH](https://github.com/muhammadmuzzammil1998/SWSH) - Secure Windows Shell (SWSH - pronounced swish)
@@ -127,8 +127,10 @@
 
 ## C++ 
 
+- [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
+- [vnote](https://github.com/tamlok/vnote) - A Vim-inspired note-taking application, especially for Markdown.
 - [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
-- [Am-I-affected-by-Meltdown](https://github.com/raphaelsc/Am-I-affected-by-Meltdown) - Proof-of-concept / Exploit / checks whether system is affected by Variant 3: rogue data cache load (CVE-2017-5754), a.k.a MELTDOWN.
+- [Am-I-affected-by-Meltdown](https://github.com/raphaelsc/Am-I-affected-by-Meltdown) - Meltdown Exploit / Proof-of-concept / checks whether system is affected by Variant 3: rogue data cache load (CVE-2017-5754), a.k.a MELTDOWN.
 - [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [blackbird](https://github.com/butor/blackbird) - Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
@@ -234,6 +236,7 @@
 
 ## D 
 
+- [onedrive](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux
 - [tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
 
 ## Game Maker Language 
@@ -242,6 +245,8 @@
 
 ## Go 
 
+- [FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Wireless, encrypted file transfer over automatically configured ad hoc networking. No network infrastructure required (access point, router, switch). Just two laptops with wireless chips in close range. Mac, Windows, and Linux.
+- [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [texttop](https://github.com/tombh/texttop) - A fully interactive X Linux desktop rendered in TTY and streamable over SSH
 - [miniflux](https://github.com/miniflux/miniflux) - Minimalist feed reader written in Go and Postgresql
 - [dontbug](https://github.com/sidkshatriya/dontbug) - Dontbug is a reverse debugger for PHP
@@ -353,7 +358,7 @@
 - [awesome-angular](https://github.com/gdi2290/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources by @TipeIO
 - [kodachi](https://github.com/WMAL/kodachi) - Linux Kodachi operating system is based on Debian 8.6 it will provide you with a secure, anti forensic, and anonymous operating system considering all features that a person who is concerned about privacy would need to have in order to be secure.
 - [Gabeify](https://github.com/powderblock/Gabeify) - Bring lord gaben to any web page your heart desires.
-- [risingstars2016](https://github.com/michaelrambeau/risingstars2016) - :stars: A complete overview of the JavaScript landscape in 2016: trends about front-end and node.js frameworks, tooling... Available in English, Japanese and Chinese.
+- [risingstars2016](https://github.com/michaelrambeau/risingstars2016) - A complete overview of the JavaScript landscape in 2016: trends about front-end and node.js frameworks, tooling... Available in English, Japanese and Chinese.
 - [awsm.css](https://github.com/igoradamenko/awsm.css) - Simple CSS library for semantic HTML markup
 - [githunt](https://github.com/kamranahmedse/githunt) - Chrome Extension - Replace your new tab with trending Github repositories
 - [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: Local git statistics including GitHub-like contributions calendars.
@@ -371,7 +376,7 @@
 - [Insanity](https://github.com/jirislav/Insanity) - Insanity is an opensource project under MIT license. Visit
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
 - [Bootstrap-Offcanvas](https://github.com/iamphill/Bootstrap-Offcanvas) - :zap: Offcanvas menu built with Bootstrap
-- [polymer-element-catalog](https://github.com/Polymer/polymer-element-catalog) - A catalog of Polymer-based web components built by the Polymer team
+- [polymer-element-catalog](https://github.com/googlearchive/polymer-element-catalog) - A catalog of Polymer-based web components built by the Polymer team
 - [node_arm](https://github.com/nathanjohnson320/node_arm) - Install node.js on a raspberry pi in two easy steps
 
 ## Haskell 
@@ -408,6 +413,12 @@
 
 ## JavaScript 
 
+- [jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
+- [githoard](https://github.com/jojobyte/githoard) - Desktop app that enables users to quickly clone git repositories
+- [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+- [jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
+- [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [widdershins](https://github.com/Mermade/widdershins) - OpenApi / Swagger, AsyncApi & Semoasa definition to Slate / Shins compatible markdown
 - [webgde-deck](https://github.com/PaulKinlan/webgde-deck) - A deck of news and updates from Web GDE's
 - [kimetrak](https://github.com/david-legrand/kimetrak) - Quels sont les services qui vous pistent en ligne ? On vous aide à le découvrir. Par l'équipe de Nextinpact
@@ -416,13 +427,13 @@
 - [themer-gui](https://github.com/mjswensen/themer-gui) - A graphical UI for themer.
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
-- [gnome-shell-extensions-mediaplayer](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) - A mediaplayer indicator for the gnome-shell.
+- [gnome-shell-extensions-mediaplayer](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) - A mediaplayer indicator for GNOME Shell 3.18+.
 - [shader-reload](https://github.com/mattdesl/shader-reload) - An interface for reloading GLSL shaders on the fly.
 - [xmr-miner](https://github.com/bradoyler/xmr-miner) - XMR mining app, built with Vue.js, D3 and CoinHive
 - [semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
-- [donut](https://github.com/harshjv/donut) - 🏹 Dead-simple cross-platform cryptocurrency tracker.
+- [donut](https://github.com/EtherbitHQ/donut) - 🏹 Dead-simple cross-platform cryptocurrency tracker.
 - [popmotion](https://github.com/Popmotion/popmotion) - The JavaScript motion engine. Create unique animations and interactions with tweens, physics and input tracking.
 - [server](https://github.com/LibreRead/server) - Self-hosted Free(Libre) Ebook Reader
 - [captainduckduck](https://github.com/githubsaturn/captainduckduck) - Automated Scalable Ready Webserver Package | In experimental phase
@@ -504,7 +515,7 @@
 - [wick-editor](https://github.com/zrispo/wick-editor) - A browser-based toolkit for making simple animations and interactive applets for the web
 - [planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [node-archy](https://github.com/substack/node-archy) - render nested hierarchies `npm ls` style with unicode pipes
-- [bit](https://github.com/teambit/bit) - Organize and share code components with your team, across projects.
+- [bit](https://github.com/teambit/bit) - Easily share code components between projects with your team.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [a-million-times](https://github.com/MichaelHoste/a-million-times) - JS Clocks from "A million Times" (ReactJS)
@@ -550,7 +561,7 @@
 - [ityped](https://github.com/luisvinicius167/ityped) - Dead simple Javascript animated typing, with no dependencies.
 - [sync](https://github.com/calzoneman/sync) - Node.JS Server and JavaScript/HTML Client for synchronizing online media
 - [web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
-- [vue-select](https://github.com/sagalbot/vue-select) - A native Vue.js component that provides similar functionality to Select2 without the overhead of jQuery.
+- [vue-select](https://github.com/sagalbot/vue-select) - A Vue.js component that provides similar functionality to Select2 without the overhead of jQuery.
 - [git-hours](https://github.com/kimmobrunfeldt/git-hours) - Estimate time spent on a git repository
 - [browser-autofill-phishing](https://github.com/anttiviljami/browser-autofill-phishing) - A simple demo of phishing by abusing the browser autofill feature
 - [notification-logger](https://github.com/hkirat/notification-logger) - Desktop notification for your console Logs
@@ -604,7 +615,7 @@
 - [uBlock](https://github.com/chrisaljoudi/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 - [nodejs-dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal!
 - [PresentationIvan](https://github.com/Ivanca/PresentationIvan) - 
-- [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local .dev domains
+- [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local domains
 - [perfBar](https://github.com/lafikl/perfBar) - 
 - [css_browser_selector](https://github.com/rafaelp/css_browser_selector) - A very small javascript library that allows you to create browser specific CSS to be merged into your normal classes. No more hacks or mischievous code in your CSS code.
 - [gaia-tools](https://github.com/flimshaw/gaia-tools) - Some scripts I use to process data from the Gaia satellite
@@ -691,7 +702,7 @@
 ## Objective-C 
 
 - [electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
-- [Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets
+- [Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
 - [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) - 📡 Native App over HTTP, on iOS
 
 ## Others 
@@ -756,10 +767,10 @@
 ## PHP 
 
 - [past](https://github.com/paragonie/past) - Platform-Agnostic Security Tokens
-- [thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ⭐) to your fellow PHP package maintainers (not limited to Symfony components)!
+- [thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!
 - [cakephp-ide-helper](https://github.com/dereuromark/cakephp-ide-helper) - IDE Helper plugin for CakePHP
 - [phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
-- [piwik](https://github.com/piwik/piwik) - Liberating Web Analytics. Star us on Github? +1. Piwik is the leading open alternative to Google Analytics that gives you full control over your data. Piwik lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
+- [matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
 - [Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
 - [enumeration](https://github.com/eloquent/enumeration) - An enumeration implementation for PHP.
 - [prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
@@ -819,7 +830,6 @@
 ## Python 
 
 - [tqdm](https://github.com/noamraph/tqdm) - Add a progress meter to your loops in a second
-- [onedrivecmd](https://github.com/cnbeining/onedrivecmd) - A command line client for Onedrive.
 - [exodus](https://github.com/Exodus-Privacy/exodus) - Platform to audit trackers used by Android application
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 - [bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
@@ -852,7 +862,7 @@
 - [kippo](https://github.com/desaster/kippo) - Kippo - SSH Honeypot
 - [github-vanity](https://github.com/ihabunek/github-vanity) - Write to your GitHub activity chart
 - [20messages](https://github.com/719Ben/20messages) - 🕵  20 anonymous messages with a random Facebook friend
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [spotify-local-http-api](https://github.com/cgbystrom/spotify-local-http-api) - Simple client for local, built-in HTTP server in the Spotify player.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [poor-mans-data-pipeline](https://github.com/dangoldin/poor-mans-data-pipeline) - A minimal and serverless data pipeline
@@ -1004,7 +1014,7 @@
 - [compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular application
 - [ngx-charts](https://github.com/swimlane/ngx-charts) - :bar_chart: Declarative Charting Framework for Angular2 and beyond!
 - [codelyzer](https://github.com/mgechev/codelyzer) - Static analysis for Angular projects.
-- [vetur](https://github.com/vuejs/vetur) - 🔮 Vue tooling for VS Code.
+- [vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code plugin for Prettier
 - [angular-2-samples](https://github.com/thelgevold/angular-2-samples) - Angular sample components
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph

@@ -66,6 +66,7 @@
 
 ## C 
 
+- [FreeRTOS-Pebble](https://github.com/ginge/FreeRTOS-Pebble) - basic FreeRTOS implementation for Pebble Time
 - [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
 - [obs-studio](https://github.com/jp9000/obs-studio) - OBS - Free and open source software for live streaming and screen recording
 - [kbord](https://github.com/dekuNukem/kbord) - A programmable mechanical keypad with OLED display and RGB backlight.
@@ -127,6 +128,7 @@
 
 ## C++ 
 
+- [Relativ](https://github.com/relativty/Relativ) - 🔥 Build your own VR headset for $100
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [vnote](https://github.com/tamlok/vnote) - A Vim-inspired note-taking application, especially for Markdown.
 - [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
@@ -184,6 +186,7 @@
 
 ## CSS 
 
+- [Tweeten](https://github.com/MehediH/Tweeten) - An intuitive and powerful Twitter experience built for those who get real work done.
 - [thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
@@ -191,7 +194,6 @@
 - [higgcss](https://github.com/robinparisi/higgcss) - Micro framework CSS modulaire
 - [microtip](https://github.com/ghosh/microtip) - 💬  Modern, minimal, a11y enabled, ultra lightweight css tooltip library. Just 1kb.
 - [vex](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style. #hubspot-open-source
-- [t-scroll](https://github.com/crazychicken/t-scroll) - A modern reveal-on-scroll library with useful options and animations. (Animate Elements On Reveal)
 - [obnoxious.css](https://github.com/tholman/obnoxious.css) - Animations for the strong of heart, and stupid of mind.
 - [sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [expodal](https://github.com/jessekorzan/expodal) - The Most Explosive Modal on The Web.
@@ -350,6 +352,7 @@
 - [krackattacks](https://github.com/vanhoefm/krackattacks) - 
 - [securitytxt.org](https://github.com/securitytxt/securitytxt.org) - Static website for security.txt.
 - [remarkdown](https://github.com/fvsch/remarkdown) - Styling HTML as if it were raw Markdown text.
+- [t-scroll](https://github.com/crazychicken/t-scroll) - A modern reveal-on-scroll library with useful options and animations. (Animate Elements On Reveal)
 - [vinay20045.github.io](https://github.com/vinay20045/vinay20045.github.io) - askVinay.com site - Demo for building SPA in vanilla js
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
@@ -413,6 +416,7 @@
 
 ## JavaScript 
 
+- [parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
 - [jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [githoard](https://github.com/jojobyte/githoard) - Desktop app that enables users to quickly clone git repositories
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
@@ -429,7 +433,7 @@
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 - [gnome-shell-extensions-mediaplayer](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) - A mediaplayer indicator for GNOME Shell 3.18+.
 - [shader-reload](https://github.com/mattdesl/shader-reload) - An interface for reloading GLSL shaders on the fly.
-- [xmr-miner](https://github.com/bradoyler/xmr-miner) - XMR mining app, built with Vue.js, D3 and CoinHive
+- [xmr-miner](https://github.com/bradoyler/xmr-miner) - Cryptocurrency mining app, built with Vue.js, D3 and CoinHive
 - [semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
@@ -446,7 +450,7 @@
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
-- [verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight private npm proxy registry (sinopia fork)
+- [verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight private npm proxy registry
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [vue](https://github.com/vuejs/vue) - 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [dash-to-panel](https://github.com/jderose9/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
@@ -556,6 +560,7 @@
 - [gtk3-docker](https://github.com/moondev/gtk3-docker) - Run native gtk3+ GUI applications inside a container via the browser
 - [mojs](https://github.com/legomushroom/mojs) - motion graphics toolbelt for the web
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
+- [system-monitor](https://github.com/pd4d10/system-monitor) - A browser extension to monitor CPU and memory status
 - [tetrispad](https://github.com/maxwellito/tetrispad) - Use the Novation Launchpad to play Tetris
 - [cozy-desktop](https://github.com/cozy-labs/cozy-desktop) - File Synchronisation for Cozy on Desktop and Laptop
 - [ityped](https://github.com/luisvinicius167/ityped) - Dead simple Javascript animated typing, with no dependencies.
@@ -612,7 +617,7 @@
 - [psvr-tutorial](https://github.com/cdra0624/psvr-tutorial) - to practice how to use psvr via laptop
 - [stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
 - [webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-- [uBlock](https://github.com/chrisaljoudi/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
+- [uBlock](https://github.com/uBlockAdmin/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 - [nodejs-dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal!
 - [PresentationIvan](https://github.com/Ivanca/PresentationIvan) - 
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local domains
@@ -707,6 +712,7 @@
 
 ## Others 
 
+- [mockoon](https://github.com/255kb/mockoon) - Mock servers in seconds.
 - [deb.sury.org](https://github.com/oerdnj/deb.sury.org) - Public bugreports for anything ppa:ondrej/*
 - [iconpack-obsidian](https://github.com/madmaxms/iconpack-obsidian) - Gnome Icon Pack based upon Faenza, optimized for dark themes
 - [bash-insulter](https://github.com/hkbakke/bash-insulter) - Insults the user when typing wrong command
@@ -766,6 +772,7 @@
 
 ## PHP 
 
+- [xdebug](https://github.com/xdebug/xdebug) - Xdebug
 - [past](https://github.com/paragonie/past) - Platform-Agnostic Security Tokens
 - [thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!
 - [cakephp-ide-helper](https://github.com/dereuromark/cakephp-ide-helper) - IDE Helper plugin for CakePHP
@@ -829,6 +836,7 @@
 
 ## Python 
 
+- [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [tqdm](https://github.com/noamraph/tqdm) - Add a progress meter to your loops in a second
 - [exodus](https://github.com/Exodus-Privacy/exodus) - Platform to audit trackers used by Android application
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
@@ -923,6 +931,7 @@
 
 ## Rust 
 
+- [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [firmware-update](https://github.com/system76/firmware-update) - Firmware Update Utility
 - [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
@@ -1020,7 +1029,6 @@
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) - :zap: VSCode Extension - Sync all of your VSCode settings across multiple devices.
 - [HostMyDocs](https://github.com/TraceSoftwareInternational/HostMyDocs) - Small web server use to host documentation
-- [system-monitor](https://github.com/pd4d10/system-monitor) - A browser extension to monitor CPU and memory status
 - [augury](https://github.com/rangle/augury) - Angular Debugging and Visualization Tools
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST

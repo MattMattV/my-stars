@@ -104,10 +104,11 @@
 
 ## C# # 
 
+- [Playnite](https://github.com/JosefNemec/Playnite) - Open source video game library manager with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay. Including game emulation support, providing one unified interface for your games.
 - [Cierge](https://github.com/PwdLess/Cierge) - 🗝️ Passwordless OIDC authentication done right
 - [pablodraw](https://github.com/cwensley/pablodraw) - PabloDraw is an Ansi/Ascii text and RIPscrip vector graphic art editor/viewer with multi-user capabilities.
 - [UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver) - One size fits all Windows Drivers for Android Debug Bridge.
-- [WebPlex](https://github.com/invu/WebPlex) - Search the web for videos, audios, eBooks, torrents, subtitles, archives and much more
+- [WebCrunch](https://github.com/invu/WebCrunch) - Search the web for videos, audios, eBooks, torrents, subtitles, archives and much more
 - [KeePass-Yet-Another-Favicon-Downloader](https://github.com/navossoc/KeePass-Yet-Another-Favicon-Downloader) - Yet Another Favicon Downloader for KeePass 2.x
 - [hakchi2](https://github.com/ClusterM/hakchi2) - Tool that allows you to add more games to your NES/SNES Classic Mini
 - [SWSH](https://github.com/muhammadmuzzammil1998/SWSH) - Secure Windows Shell (SWSH - pronounced swish)
@@ -394,7 +395,7 @@
 - [Battery-Metrics](https://github.com/facebookincubator/Battery-Metrics) - Library that helps in instrumenting battery related system metrics.
 - [anonymouth](https://github.com/psal/anonymouth) - 
 - [StreetComplete](https://github.com/westnordost/StreetComplete) - Surveyor app for Android
-- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Developers on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.
+- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.
 - [Espresso](https://github.com/TonnyL/Espresso) - 🚚 Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing
 - [intellij-swagger](https://github.com/zalando/intellij-swagger) - A plugin to help you easily edit Swagger and OpenAPI specification files inside IntelliJ IDEA
 - [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
@@ -416,6 +417,8 @@
 
 ## JavaScript 
 
+- [gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
+- [simple-console](https://github.com/1j01/simple-console) - Add an elegant command-line interface to any page
 - [parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
 - [jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [githoard](https://github.com/jojobyte/githoard) - Desktop app that enables users to quickly clone git repositories
@@ -423,10 +426,10 @@
 - [jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [widdershins](https://github.com/Mermade/widdershins) - OpenApi / Swagger, AsyncApi & Semoasa definition to Slate / Shins compatible markdown
+- [widdershins](https://github.com/Mermade/widdershins) - OpenApi / Swagger, AsyncApi & Semoasa definitions to Slate / Shins compatible markdown
 - [webgde-deck](https://github.com/PaulKinlan/webgde-deck) - A deck of news and updates from Web GDE's
 - [kimetrak](https://github.com/david-legrand/kimetrak) - Quels sont les services qui vous pistent en ligne ? On vous aide à le découvrir. Par l'équipe de Nextinpact
-- [pm2](https://github.com/Unitech/pm2) - PM2 RE: Production Runtime and Process Manager for Node.js apps with a built-in Load Balancer.
+- [pm2](https://github.com/Unitech/pm2) - General Purpose Process Manager and Node.js Production Runtime with a built-in Load Balancer.
 - [themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [themer-gui](https://github.com/mjswensen/themer-gui) - A graphical UI for themer.
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
@@ -440,7 +443,7 @@
 - [donut](https://github.com/EtherbitHQ/donut) - 🏹 Dead-simple cross-platform cryptocurrency tracker.
 - [popmotion](https://github.com/Popmotion/popmotion) - The JavaScript motion engine. Create unique animations and interactions with tweens, physics and input tracking.
 - [server](https://github.com/LibreRead/server) - Self-hosted Free(Libre) Ebook Reader
-- [captainduckduck](https://github.com/githubsaturn/captainduckduck) - Automated Scalable Ready Webserver Package | In experimental phase
+- [captainduckduck](https://github.com/githubsaturn/captainduckduck) - Automated Scalable Ready Webserver Package (automated Docker+nginx)
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - The note-taking app for programmers that focusing on markdown, snippet and customizability.
@@ -762,7 +765,7 @@
 - [browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [5minutes](https://github.com/chhantyal/5minutes) - First 5 minutes on new servers. Secure your servers with single command - Ansible playbook
-- [One-Click-to-Be-Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - A list of the best resources to help you become a pro
+- [One-Click-to-Be-Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - A curated list of resources to help you start learning a new CS topic
 - [material-peacock](https://github.com/daylerees/material-peacock) - Peacock colour scheme optimized for the Material UI PHPStorm theme.
 - [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
 - [lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
@@ -772,6 +775,7 @@
 
 ## PHP 
 
+- [php-ref](https://github.com/digitalnature/php-ref) - A better alternative to print_r / var_dump
 - [xdebug](https://github.com/xdebug/xdebug) - Xdebug
 - [past](https://github.com/paragonie/past) - Platform-Agnostic Security Tokens
 - [thanks](https://github.com/symfony/thanks) - Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!
@@ -836,6 +840,9 @@
 
 ## Python 
 
+- [MaterialDesignIcons-Picker](https://github.com/chteuchteu/MaterialDesignIcons-Picker) - A cute MaterialDesignIcons icon picker for your web browser
+- [tweetentropy](https://github.com/x0rz/tweetentropy) - Twitter as an extra entropy source
+- [HydraPaper](https://github.com/GabMus/HydraPaper) - A Gtk utility to set two different backgrounds for each monitor on GNOME (which lacks this feature)
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [tqdm](https://github.com/noamraph/tqdm) - Add a progress meter to your loops in a second
 - [exodus](https://github.com/Exodus-Privacy/exodus) - Platform to audit trackers used by Android application
@@ -912,6 +919,7 @@
 
 ## Ruby 
 
+- [octobox](https://github.com/octobox/octobox) - :postbox: Take back control of your GitHub Notifications
 - [duckrails](https://github.com/iridakos/duckrails) - A development tool to quickly & dynamically mock API endpoints
 - [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [catphish](https://github.com/ring0lab/catphish) - CATPHISH project - For phishing and corporate espionage. Perfect for RED TEAM.

@@ -1,0 +1,12 @@
+  language: python
+  sudo: required
+  python:
+    - "3.6"
+  script:
+    - pip install starred
+    - starred --username maguowei --sort > README.md
+    - git config --global user.email "travis@travis-ci.org"
+    - git config --global user.name "Travis Worker"
+    - git add README.md
+    - git commit --message "Refresh from Travis"
+    - git remote set-url origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}

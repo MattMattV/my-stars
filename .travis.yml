@@ -10,3 +10,4 @@
     - git add README.md
     - git commit --message "Refresh from Travis"
     - git remote set-url origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}
+    - git push --quiet origin

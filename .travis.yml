@@ -4,7 +4,7 @@
     - "3.6"
   script:
     - pip install starred
-    - starred --username maguowei --sort > README.md
+    - starred --username MattMattV --sort > README.md
     - git config --global user.email "travis@travis-ci.org"
     - git config --global user.name "Travis Worker"
     - git checkout master

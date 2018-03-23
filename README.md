@@ -139,7 +139,7 @@
 - [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [Relativ](https://github.com/relativty/Relativ) - 🔥 Build your own VR headset for $100
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
-- [vnote](https://github.com/tamlok/vnote) - A Vim-inspired note-taking application, especially for Markdown.
+- [vnote](https://github.com/tamlok/vnote) - A Vim-inspired note-taking application that knows programmers and Markdown better.
 - [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
 - [Am-I-affected-by-Meltdown](https://github.com/raphaelsc/Am-I-affected-by-Meltdown) - Meltdown Exploit / Proof-of-concept / checks whether system is affected by Variant 3: rogue data cache load (CVE-2017-5754), a.k.a MELTDOWN.
 - [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
@@ -261,6 +261,8 @@
 
 ## Go 
 
+- [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+- [cleo](https://github.com/cheikhshift/cleo) - A web application used to analyze other web applications written in Go.
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [komiser](https://github.com/mlabouardy/komiser) - AWS Environment Inspector 👮
 - [php-parser](https://github.com/z7zmey/php-parser) - A Parser for PHP written in Go
@@ -438,6 +440,9 @@
 
 ## JavaScript 
 
+- [vscode-gremlins](https://github.com/nhoizey/vscode-gremlins) - Reveal invisible whitespace and other annoying characters in Visual Studio Code
+- [uriteller](https://github.com/HowNetWorks/uriteller) - A service for monitoring whether chat apps etc. leak URLs
+- [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [basicScroll](https://github.com/electerious/basicScroll) - Standalone parallax scrolling for mobile and desktop with CSS variables.
 - [wunderbar](https://github.com/gribnoysup/wunderbar) - Simple horizontal bar chart printer for your terminal
@@ -917,6 +922,7 @@
 
 ## Python 
 
+- [dex](https://github.com/jceb/dex) - DesktopEntry Execution
 - [manly](https://github.com/Zaab1t/manly) - manpages to the point
 - [docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [whatpulse](https://github.com/sim642/whatpulse) - WhatPulse reverse engineered
@@ -1043,6 +1049,7 @@
 
 ## Shell 
 
+- [docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [Doomsday-Machine-2](https://github.com/johnjones4/Doomsday-Machine-2) - Doomsday Machine is a tool for backing up cloud services to a local machine.
 - [GitKraken-Pro-AUR](https://github.com/KillWolfVlad/GitKraken-Pro-AUR) - Make GitKraken Great Again :octopus: 裂紋
 - [mattermost-docker](https://github.com/mattermost/mattermost-docker) - Dockerfile for mattermost in production

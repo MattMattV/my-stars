@@ -191,6 +191,7 @@
 
 ## CSS 
 
+- [verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
 - [vertex-theme](https://github.com/horst3180/vertex-theme) - Vertex is a theme for GTK 3, GTK 2, Gnome-Shell and Cinnamon
 - [paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents
 - [linuxfr.org](https://github.com/linuxfrorg/linuxfr.org) - The new version of LinuxFr.org will be in Ruby on Rails. It was NoNo's resolution for 2009 (well, achieved !). You may add other enhancements at http://linuxfr.org/suivi/ as you have a look at the  website
@@ -261,6 +262,8 @@
 
 ## Go 
 
+- [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
+- [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor
 - [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [cleo](https://github.com/cheikhshift/cleo) - A web application used to analyze other web applications written in Go.
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -368,6 +371,8 @@
 
 ## HTML 
 
+- [webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
+- [vue-guide](https://github.com/johnpapa/vue-guide) - Super Simple Vue Samples
 - [json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [QuadFile](https://github.com/QuadPiece/QuadFile) - This repo has moved. GitHub is no longer updated.
@@ -388,6 +393,7 @@
 - [risingstars2016](https://github.com/michaelrambeau/risingstars2016) - A complete overview of the JavaScript landscape in 2016: trends about front-end and node.js frameworks, tooling... Available in English, Japanese and Chinese.
 - [awsm.css](https://github.com/igoradamenko/awsm.css) - Simple CSS library for semantic HTML markup
 - [githunt](https://github.com/kamranahmedse/githunt) - Chrome Extension - Replace your new tab with trending Github repositories
+- [morpheus](https://github.com/r00t-3xp10it/morpheus) - Morpheus - Automated Ettercap TCP/IP Hijacking Tool
 - [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: Local git statistics including GitHub-like contributions calendars.
 - [stop-the-bullshit](https://github.com/jacquerie/stop-the-bullshit) - Blocks websites that publish fake news, and hides their posts on Facebook
 - [gun-starter-app](https://github.com/gundb/gun-starter-app) - Framework agnostic starter code for gun apps
@@ -440,6 +446,7 @@
 
 ## JavaScript 
 
+- [dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [vscode-gremlins](https://github.com/nhoizey/vscode-gremlins) - Reveal invisible whitespace and other annoying characters in Visual Studio Code
 - [uriteller](https://github.com/HowNetWorks/uriteller) - A service for monitoring whether chat apps etc. leak URLs
 - [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
@@ -765,7 +772,6 @@
 - [dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
 - [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Kindle, Kobo, PocketBook, Ubuntu Touch and Android devices
-- [morpheus](https://github.com/r00t-3xp10it/morpheus) - Morpheus - Automated Ettercap TCP/IP Hijacking Tool
 
 ## Mathematica 
 
@@ -851,6 +857,8 @@
 
 ## PHP 
 
+- [php-qrcode](https://github.com/chillerlan/php-qrcode) - A QR Code generator for PHP7+
+- [koel](https://github.com/phanan/koel) - A personal music streaming server that works.
 - [phpunit-slicer](https://github.com/wizaplace/phpunit-slicer) - Slice your PHPUnit test suite in chunks to run it in parallel
 - [asciitosvg](https://github.com/dhobsd/asciitosvg) - Convert ASCII diagrams to beautiful SVGs.
 - [server-timing-middleware](https://github.com/tuupola/server-timing-middleware) - PSR-7 & PSR-15 middleware to add  the Server-Timing header
@@ -922,6 +930,10 @@
 
 ## Python 
 
+- [click](https://github.com/pallets/click) - Python composable command line utility
+- [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+- [pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project
+- [jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion and static analysis library for python.
 - [dex](https://github.com/jceb/dex) - DesktopEntry Execution
 - [manly](https://github.com/Zaab1t/manly) - manpages to the point
 - [docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
@@ -1031,7 +1043,7 @@
 - [twitter_ebooks](https://github.com/mispy/twitter_ebooks) - Better twitterbots for all your friends~
 - [mlooper](https://github.com/beweinreich/mlooper) - The sp@mlooper
 - [Xaddress](https://github.com/roberdam/Xaddress) - Xaddress - Give 7 billion people an instant physical address
-- [devdocs](https://github.com/Thibaut/devdocs) - API Documentation Browser
+- [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [cronviz](https://github.com/federatedmedia/cronviz) - A crontab visualizer
 
 ## Rust 
@@ -1130,7 +1142,7 @@
 - [autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, Go, Java, Node.js, TypeScript, Python, Ruby and PHP.
 - [rxjs-tslint-rules](https://github.com/cartant/rxjs-tslint-rules) - TSLint rules for RxJS
 - [devkit](https://github.com/angular/devkit) - 
-- [magnemite](https://github.com/styfle/magnemite) - Capture repro steps with this screen recorder for websites, powered by Electron
+- [magnemite](https://github.com/styfle/magnemite) - ⏺️ Capture repro steps with this screen recorder for websites, powered by Electron
 - [chromeless](https://github.com/graphcool/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [vscode-pwa](https://github.com/johnpapa/vscode-pwa) - VS Code Extension for PWA Tools

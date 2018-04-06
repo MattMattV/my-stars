@@ -65,6 +65,7 @@
 
 ## C 
 
+- [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Hardware scanning laser rangefinder
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
@@ -110,6 +111,7 @@
 
 ## C# # 
 
+- [winauth](https://github.com/winauth/winauth) - Authenticator on Windows for Battle.net / Steam / Guild Wars 2 / Glyph / Runescape / SWTOR / Bitcoin and digital currency exchanges
 - [TweetDuck](https://github.com/chylex/TweetDuck) - A Windows Client for TweetDeck.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Open source video game library manager with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay. Including game emulation support, providing one unified interface for your games.
 - [Cierge](https://github.com/PwdLess/Cierge) - 🗝️ Passwordless OIDC authentication done right
@@ -191,6 +193,8 @@
 
 ## CSS 
 
+- [loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
+- [Canta-theme](https://github.com/vinceliuice/Canta-theme) - Canta is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 - [verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
 - [vertex-theme](https://github.com/horst3180/vertex-theme) - Vertex is a theme for GTK 3, GTK 2, Gnome-Shell and Cinnamon
 - [paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents
@@ -263,7 +267,7 @@
 ## Go 
 
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-- [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor
+- [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [cleo](https://github.com/cheikhshift/cleo) - A web application used to analyze other web applications written in Go.
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -446,6 +450,10 @@
 
 ## JavaScript 
 
+- [ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The Node.js cli interactive workflow
+- [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [merge-images](https://github.com/lukechilds/merge-images) - Easily compose images together without messing around with canvas
+- [gsubs](https://github.com/sanjevirau/gsubs) - A desktop app that finds you the perfect subtitle match.
 - [dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [vscode-gremlins](https://github.com/nhoizey/vscode-gremlins) - Reveal invisible whitespace and other annoying characters in Visual Studio Code
 - [uriteller](https://github.com/HowNetWorks/uriteller) - A service for monitoring whether chat apps etc. leak URLs
@@ -671,7 +679,7 @@
 - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [--shots](https://github.com/binjospookie/--shots) - Simple, minimalistic, and task-focused application for creating screenshots. Available for LInux, MacOS, WIndows
 - [alduin](https://github.com/AlduinApp/alduin) - An RSS, Atom and JSON  feed aggregator available on Windows and Linux.
-- [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON
+- [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data
 - [hooks](https://github.com/azlyth/hooks) - a mobile app to run scripts on servers -
 - [poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
 - [scrum-board](https://github.com/i-break-codes/scrum-board) - JavaScript Scrum App to manage tasks with ease
@@ -788,6 +796,9 @@
 
 ## Others 
 
+- [keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub.
+- [Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
+- [scrcpy-docker](https://github.com/pierlon/scrcpy-docker) - Easily run scrcpy with Docker
 - [slack-icons](https://github.com/quintessence/slack-icons) - Slack icons for ... Slack.
 - [la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
 - [awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
@@ -857,6 +868,8 @@
 
 ## PHP 
 
+- [sonerezh](https://github.com/Sonerezh/sonerezh) - A self-hosted, web-based application to stream your music, everywhere.
+- [glob](https://github.com/webmozart/glob) - A PHP implementation of Ant's glob.
 - [php-qrcode](https://github.com/chillerlan/php-qrcode) - A QR Code generator for PHP7+
 - [koel](https://github.com/phanan/koel) - A personal music streaming server that works.
 - [phpunit-slicer](https://github.com/wizaplace/phpunit-slicer) - Slice your PHPUnit test suite in chunks to run it in parallel
@@ -915,6 +928,7 @@
 
 ## Perl 
 
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [gitolite](https://github.com/sitaramc/gitolite) - Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 - [trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [dnsmanager](https://github.com/KaneRoot/dnsmanager) - DNS zones manager. Configure your own dns zone in your browser, get a name on the Internet!
@@ -930,6 +944,9 @@
 
 ## Python 
 
+- [ScrapedIn](https://github.com/dchrastil/ScrapedIn) - A tool to scrape LinkedIn without API restrictions for data reconnaissance
+- [rubber-docker](https://github.com/Fewbytes/rubber-docker) - A workshop on Linux containers: Rebuild Docker from Scratch
+- [catacomb](https://github.com/mitchjeitani/catacomb) - A minimalistic CLI tool for storing shell commands.
 - [click](https://github.com/pallets/click) - Python composable command line utility
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project
@@ -1126,6 +1143,8 @@
 
 ## TypeScript 
 
+- [vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
+- [PeerTube](https://github.com/Chocobozzz/PeerTube) - Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
 - [platform](https://github.com/ngrx/platform) - Monorepo for ngrx codebase
 - [js-tracker](https://github.com/pilagod/js-tracker) - A chrome extension tracks front-end JavaScript that uses DOM / jQuery APIs to manipulate html dom elements (e.g., change style, attach event listener) at runtime.

@@ -65,6 +65,7 @@
 
 ## C 
 
+- [winfile](https://github.com/Microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
 - [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Hardware scanning laser rangefinder
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -193,6 +194,7 @@
 
 ## CSS 
 
+- [YggTorrentDark](https://github.com/a-carvallo/YggTorrentDark) - Thème sombre pour YggTorrent
 - [loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
 - [Canta-theme](https://github.com/vinceliuice/Canta-theme) - Canta is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 - [verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
@@ -450,6 +452,7 @@
 
 ## JavaScript 
 
+- [oui](https://github.com/wearekuva/oui) - Objects go in, UI comes out
 - [ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The Node.js cli interactive workflow
 - [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 - [merge-images](https://github.com/lukechilds/merge-images) - Easily compose images together without messing around with canvas
@@ -535,10 +538,10 @@
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
-- [verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight private npm proxy registry
+- [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [vue](https://github.com/vuejs/vue) - 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [dash-to-panel](https://github.com/jderose9/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
+- [dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [keepass-macpass-helper](https://github.com/belaviyo/keepass-macpass-helper) - A helper extension to use KeePass/MacPass from Firefox, Opera, and Chrome browsers
 - [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
@@ -735,7 +738,7 @@
 - [terrain](https://github.com/mewo2/terrain) - Fantasy map generator
 - [rambox](https://github.com/saenzramiro/rambox) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [doiuse](https://github.com/anandthakker/doiuse) - :bomb: Lint CSS for browser support against caniuse database.
-- [slapp](https://github.com/BeepBoopHQ/slapp) - A node.js module for Slack App integrations
+- [slapp](https://github.com/MissionsAI/slapp) - A node.js module for Slack App integrations
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json or bower.json allows
 - [angular-modal-service](https://github.com/dwmkerr/angular-modal-service) - Modal service for AngularJS - supports creating popups and modals via a service.
 - [SmartMirror](https://github.com/Shinao/SmartMirror) - Motion controlled SmartMirror
@@ -868,6 +871,7 @@
 
 ## PHP 
 
+- [server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [sonerezh](https://github.com/Sonerezh/sonerezh) - A self-hosted, web-based application to stream your music, everywhere.
 - [glob](https://github.com/webmozart/glob) - A PHP implementation of Ant's glob.
 - [php-qrcode](https://github.com/chillerlan/php-qrcode) - A QR Code generator for PHP7+
@@ -1016,7 +1020,7 @@
 - [spotify-playlist-downloader](https://github.com/ashishmadeti/spotify-playlist-downloader) - Download spotify playlists using youtube-dl
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Modifications to Google Chromium for removing Google integration and enhancing privacy, control, and transparency
 - [runmultithread](https://github.com/juanpabloaj/runmultithread) - Run the same process with different inputs in different threads
-- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
 - [one-second-dash](https://github.com/ridiculousfish/one-second-dash) - Gently redirecting the Dash button through monitor mode
 - [country-codes](https://github.com/datasets/country-codes) - Comprehensive country code information, including ISO 3166 codes, ITU dialing codes, ISO 4217 currency codes, and many others
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
@@ -1055,6 +1059,7 @@
 - [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
+- [passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with passbolt using docker!
 - [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner
 - [errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant
 - [twitter_ebooks](https://github.com/mispy/twitter_ebooks) - Better twitterbots for all your friends~
@@ -1065,6 +1070,7 @@
 
 ## Rust 
 
+- [tokei](https://github.com/Aaronepower/tokei) - A program that allows you to count your code, quickly.
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [firmware-update](https://github.com/system76/firmware-update) - Firmware Update Utility
@@ -1078,6 +1084,7 @@
 
 ## Shell 
 
+- [dockerfiles](https://github.com/Angristan/dockerfiles) - Dockerfiles 🐋
 - [docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [Doomsday-Machine-2](https://github.com/johnjones4/Doomsday-Machine-2) - Doomsday Machine is a tool for backing up cloud services to a local machine.
 - [GitKraken-Pro-AUR](https://github.com/KillWolfVlad/GitKraken-Pro-AUR) - Make GitKraken Great Again :octopus: 裂紋
@@ -1118,7 +1125,6 @@
 - [discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
 - [stargaze](https://github.com/jez/stargaze) - :star: Gaze at repos you've starred
 - [autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments.
-- [passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with passbolt using docker!
 - [OpenVPN-install](https://github.com/Angristan/OpenVPN-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora CentOS, and Arch Linux
 - [armhf](https://github.com/umiddelb/armhf) - interesting stuff about arm devices (Utilite, SolidRun, Odroid)
 - [curl-tap-sh](https://github.com/awalgarg/curl-tap-sh) - tap curl in your editor before it gets to sh it
@@ -1126,7 +1132,7 @@
 - [nginx-php7](https://github.com/skiy-dockerfile/nginx-php7) - Nginx-PHP7 for Docker
 - [nginx-php-fpm](https://github.com/richarvey/nginx-php-fpm) - Nginx and php-fpm for dockerhub builds
 - [n](https://github.com/tj/n) - Node version management
-- [bm-RaspberryPi](https://github.com/blogmotion/bm-RaspberryPi) - 
+- [bm-RaspberryPi](https://github.com/blogmotion/bm-RaspberryPi) - Scripts liés à mon RaspberryPi (sh, bash, etc.)
 - [android-prepare-vendor](https://github.com/anestisb/android-prepare-vendor) - Set of scripts to automate AOSP compatible vendor blobs generation from factory images
 - [go-fast](https://github.com/kovetskiy/go-fast) - Compile Go programs 7x faster
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
@@ -1143,6 +1149,7 @@
 
 ## TypeScript 
 
+- [Energy.js](https://github.com/samuelgirardin/Energy.js) - 
 - [vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) - Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
@@ -1166,7 +1173,7 @@
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [vscode-pwa](https://github.com/johnpapa/vscode-pwa) - VS Code Extension for PWA Tools
 - [compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular application
-- [ngx-charts](https://github.com/swimlane/ngx-charts) - :bar_chart: Declarative Charting Framework for Angular2 and beyond!
+- [ngx-charts](https://github.com/swimlane/ngx-charts) - :bar_chart: Declarative Charting Framework for Angular
 - [codelyzer](https://github.com/mgechev/codelyzer) - Static analysis for Angular projects.
 - [vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier

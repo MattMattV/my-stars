@@ -65,6 +65,7 @@
 
 ## C 
 
+- [Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena) - Quake III Arena GPL Source Release
 - [winfile](https://github.com/Microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
 - [OpenSimpleLidar](https://github.com/iliasam/OpenSimpleLidar) - Open Hardware scanning laser rangefinder
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -112,6 +113,7 @@
 
 ## C# # 
 
+- [keepassrpc](https://github.com/kee-org/keepassrpc) - The KeePassRPC plugin that needs to be installed inside KeePass in order for Kee to be able to connect your browser to your passwords
 - [winauth](https://github.com/winauth/winauth) - Authenticator on Windows for Battle.net / Steam / Guild Wars 2 / Glyph / Runescape / SWTOR / Bitcoin and digital currency exchanges
 - [TweetDuck](https://github.com/chylex/TweetDuck) - A Windows Client for TweetDeck.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Open source video game library manager with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay. Including game emulation support, providing one unified interface for your games.
@@ -126,7 +128,7 @@
 - [ArchiSteamFarm](https://github.com/JustArchi/ArchiSteamFarm) - C# application that allows you to farm steam cards using multiple steam accounts simultaneously.
 - [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Depressurizer is a program that helps you categorize your steam games.
 - [IsoVoxel](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from MagicaVoxel .vox files
-- [peachpie](https://github.com/peachpiecompiler/peachpie) - Peachpie - the PHP 7 compiler and runtime for .NET and .NET Core
+- [peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP 7 compiler and runtime for .NET and .NET Core
 - [wincompose](https://github.com/samhocevar/wincompose) - Compose Key for Windows
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 - [RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTorrent, Azureus, BitComet, ABC and etc.) and it will NOT download/upload the files on a torrent - it only can fake download/upload. RatioMaster.NET has hardcoded emulations for the most commonly used BitTorrent clients: uTorrent, BitComet, Azureus, ABC, BitLord, BTuga, BitTornado, Burst, BitTyrant, BitSpirit.
@@ -194,6 +196,7 @@
 
 ## CSS 
 
+- [mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [YggTorrentDark](https://github.com/a-carvallo/YggTorrentDark) - Thème sombre pour YggTorrent
 - [loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
 - [Canta-theme](https://github.com/vinceliuice/Canta-theme) - Canta is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
@@ -401,7 +404,7 @@
 - [githunt](https://github.com/kamranahmedse/githunt) - Chrome Extension - Replace your new tab with trending Github repositories
 - [morpheus](https://github.com/r00t-3xp10it/morpheus) - Morpheus - Automated Ettercap TCP/IP Hijacking Tool
 - [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: Local git statistics including GitHub-like contributions calendars.
-- [stop-the-bullshit](https://github.com/jacquerie/stop-the-bullshit) - Blocks websites that publish fake news, and hides their posts on Facebook
+- [stop-the-bullshit](https://github.com/jacquerie/stop-the-bullshit) - Blocks websites that publish fake news, and hides their posts on Facebook.
 - [gun-starter-app](https://github.com/gundb/gun-starter-app) - Framework agnostic starter code for gun apps
 - [spongedown](https://github.com/ivanceras/spongedown) - Markdown with svg bob support
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
@@ -425,12 +428,13 @@
 
 ## Java 
 
+- [graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A lightweight Youtube frontend for Android.
 - [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [Battery-Metrics](https://github.com/facebookincubator/Battery-Metrics) - Library that helps in instrumenting battery related system metrics.
 - [anonymouth](https://github.com/psal/anonymouth) - 
 - [StreetComplete](https://github.com/westnordost/StreetComplete) - Surveyor app for Android
-- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.
+- [gitpitch](https://github.com/gitpitch/gitpitch) - The Markdown Presentation Service For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.
 - [Espresso](https://github.com/TonnyL/Espresso) - 🚚 Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing
 - [intellij-swagger](https://github.com/zalando/intellij-swagger) - A plugin to help you easily edit Swagger and OpenAPI specification files inside IntelliJ IDEA
 - [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
@@ -473,7 +477,7 @@
 - [auto-like-my-gf-insta-pic](https://github.com/gulzar1996/auto-like-my-gf-insta-pic) - Bot to automatically like your friend's Instagram post and notify you on Slack
 - [lightdm-webkit2-material2](https://github.com/FallingSnow/lightdm-webkit2-material2) - A material design LightDM Webkit2 greeter theme
 - [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
-- [workly](https://github.com/pshihn/workly) - A really simple way to move a stand-alone function/class to a web worker. 🏋️‍♀️→ 😄
+- [workly](https://github.com/pshihn/workly) - A really simple way to move a function or class to a web worker. 🏋️‍♀️→ 😄
 - [tab-switcher](https://github.com/kamranahmedse/tab-switcher) - Chrome Extension - Switch between the opened tabs in the blink of an eye
 - [driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [scratch](https://github.com/htor/scratch) - editor for live coding graphics
@@ -497,7 +501,7 @@
 - [just-dashboard](https://github.com/kantord/just-dashboard) - :bar_chart: :clipboard: Dashboards using YAML or JSON files
 - [Raneto](https://github.com/gilbitron/Raneto) - Markdown powered Knowledgebase for Nodejs
 - [konami-code-js](https://github.com/Haeresis/konami-code-js) - Fire a JavaScript Event when you enter the Up Up Bottom Bottom Left Right Left Right B A Konami Code
-- [winamp2-js](https://github.com/captbaritone/winamp2-js) - A reimplementation of Winamp 2.9 in HTML5 and Javascript
+- [webamp](https://github.com/captbaritone/webamp) - A reimplementation of Winamp 2.9 in HTML5 and Javascript
 - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2
 - [vue-chartkick](https://github.com/ankane/vue-chartkick) - Create beautiful JavaScript charts with one line of Vue
 - [OpenSC2K](https://github.com/rage8885/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
@@ -583,7 +587,7 @@
 - [gridgarden](https://github.com/thomaspark/gridgarden) - A game for learning CSS grid layout
 - [Caliopen](https://github.com/CaliOpen/Caliopen) - Entry point for Caliopen messaging platform project
 - [prepack](https://github.com/facebook/prepack) - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently.
-- [insomnia](https://github.com/getinsomnia/insomnia) - The most intuitive cross-platform REST API Client 😴
+- [insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 - [flood](https://github.com/jfurrow/flood) - A modern web UI for rTorrent with a Node.js backend and React frontend.
 - [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable
 - [reposplit](https://github.com/git-toni/reposplit) - Chrome extension to browse code at Github/Gitlab repositories comfortably
@@ -603,10 +607,10 @@
 - [perfect-scrollbar](https://github.com/utatti/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin
 - [pegaswitch](https://github.com/reswitched/pegaswitch) - PegaSwitch is an exploit toolkit for the Nintendo Switch
 - [peeqo-robot](https://github.com/shekit/peeqo-robot) - The world's first robot to interact through GIFs...'nuf said
-- [wick-editor](https://github.com/zrispo/wick-editor) - A browser-based toolkit for making simple animations and interactive applets for the web
+- [wick-editor](https://github.com/zrispo/wick-editor) - A browser-based toolkit for making animations and interactive applets for the web
 - [planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [node-archy](https://github.com/substack/node-archy) - render nested hierarchies `npm ls` style with unicode pipes
-- [bit](https://github.com/teambit/bit) - Easily share code between projects with your team.
+- [bit](https://github.com/teambit/bit) - Share code components between projects with your team.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [a-million-times](https://github.com/MichaelHoste/a-million-times) - JS Clocks from "A million Times" (ReactJS)
@@ -729,7 +733,7 @@
 - [template-colors](https://github.com/icodeforlove/template-colors) - :art: beautiful color usage within template literals
 - [svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
+- [redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
 - [express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com
 - [regl-cnn](https://github.com/Erkaman/regl-cnn) - Digit recognition with Convolutional Neural Networks in WebGL
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
@@ -948,6 +952,8 @@
 
 ## Python 
 
+- [rofimoji](https://github.com/fdw/rofimoji) - A simple emoji picker for rofi
+- [jetserver](https://github.com/Raafas/jetserver) - JetBrains license server
 - [ScrapedIn](https://github.com/dchrastil/ScrapedIn) - A tool to scrape LinkedIn without API restrictions for data reconnaissance
 - [rubber-docker](https://github.com/Fewbytes/rubber-docker) - A workshop on Linux containers: Rebuild Docker from Scratch
 - [catacomb](https://github.com/mitchjeitani/catacomb) - A minimalistic CLI tool for storing shell commands.
@@ -1056,7 +1062,7 @@
 - [postal](https://github.com/atech/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [clarity](https://github.com/tobi/clarity) - Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk
 - [SublimeTutor](https://github.com/jaipandya/SublimeTutor) - An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3
-- [github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 - [passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with passbolt using docker!
@@ -1084,6 +1090,8 @@
 
 ## Shell 
 
+- [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [lnxpcs](https://github.com/jstpcs/lnxpcs) - Linux Pics
 - [dockerfiles](https://github.com/Angristan/dockerfiles) - Dockerfiles 🐋
 - [docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [Doomsday-Machine-2](https://github.com/johnjones4/Doomsday-Machine-2) - Doomsday Machine is a tool for backing up cloud services to a local machine.

@@ -145,7 +145,6 @@
 - [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [Relativ](https://github.com/relativty/Relativ) - 🔥 Build your own VR headset for $100
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
-- [vnote](https://github.com/tamlok/vnote) - A Vim-inspired note-taking application that knows programmers and Markdown better.
 - [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
 - [Am-I-affected-by-Meltdown](https://github.com/raphaelsc/Am-I-affected-by-Meltdown) - Meltdown Exploit / Proof-of-concept / checks whether system is affected by Variant 3: rogue data cache load (CVE-2017-5754), a.k.a MELTDOWN.
 - [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
@@ -175,7 +174,6 @@
 - [protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
 - [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
 - [BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
-- [toggldesktop](https://github.com/toggl/toggldesktop) - Toggl Desktop app for Windows, Mac and Linux
 - [citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -462,13 +460,15 @@
 
 ## JavaScript 
 
+- [signale](https://github.com/klauscfhq/signale) - 👋 Hackable console logger
+- [shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
+- [nuage](https://github.com/mickael-kerjean/nuage) - A Dropbox-like interface for your existing data (with support for many backends)
 - [linter-farch](https://github.com/PaulRosset/linter-farch) - Make sure the filenames stay the same, control them! 👁
 - [layerJS](https://github.com/layerJS/layerJS) - layerJS: Javascript UI composition framework
 - [GCE](https://github.com/Dewep/GCE) - Global Commands Execution is a desktop application that provides a single context to manage and run multiple scripts
 - [TbSync](https://github.com/jobisoft/TbSync) - [Thunderbird Add-On] Sync contacts, tasks and calendars to thunderbird using Exchange ActiveSync (EAS).
 - [oui](https://github.com/wearekuva/oui) - Objects go in, UI comes out
 - [ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The Node.js cli interactive workflow
-- [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplin.cozic.net/
 - [merge-images](https://github.com/lukechilds/merge-images) - Easily compose images together without messing around with canvas
 - [gsubs](https://github.com/sanjevirau/gsubs) - A desktop app that finds you the perfect subtitle match.
 - [dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
@@ -620,7 +620,7 @@
 - [wick-editor](https://github.com/zrispo/wick-editor) - A browser-based toolkit for making animations and interactive applets for the web
 - [planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [node-archy](https://github.com/substack/node-archy) - render nested hierarchies `npm ls` style with unicode pipes
-- [bit](https://github.com/teambit/bit) - Share code components between projects with your team.
+- [bit](https://github.com/teambit/bit) - Discover, collaborate and build with code components.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [a-million-times](https://github.com/MichaelHoste/a-million-times) - JS Clocks from "A million Times" (ReactJS)
@@ -732,7 +732,7 @@
 - [bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers
 - [canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-- [bounty](https://github.com/coderitual/bounty) - :zap: Javascript and SVG odometer effect library with motion blur
+- [bounty](https://github.com/coderitual/bounty) - 🥥 Javascript and SVG odometer effect library with motion blur
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
 - [reflexio](https://github.com/ketanhwr/reflexio) - A web game based on reflection
@@ -776,7 +776,7 @@
 - [angular-treeRepeat](https://github.com/tchatel/angular-treeRepeat) - Recursive repeater for AngularJS
 - [angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 - [jquery-drilldown](https://github.com/Cinamonas/jquery-drilldown) - A simple jQuery plugin for creating animated drilldown menus
-- [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor on your browser
+- [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [cv-maker](https://github.com/awalgarg/cv-maker) - simple elegant markdown based resumes
 - [git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
 - [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A browser extension to improve TweetDeck with a lot of features
@@ -922,6 +922,7 @@
 - [Zippy](https://github.com/alchemy-fr/Zippy) - PHP zip/tar/bz2 archives (de)compression library with commandline or extensions
 - [guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 - [php-crashers](https://github.com/hannob/php-crashers) - Example scripts that cause segfaults in PHP
+- [HostMyDocs](https://github.com/TraceSoftwareInternational/HostMyDocs) - Small web server use to host documentation
 - [phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
 - [Slim-Skeleton](https://github.com/slimphp/Slim-Skeleton) - Slim Framework 3 skeleton application
 - [letter](https://github.com/bastianallgeier/letter) - Letter is a simple, highly customizable tool to create letters in your browser.
@@ -1087,6 +1088,7 @@
 
 ## Rust 
 
+- [shellharden](https://github.com/anordal/shellharden) - A bash syntax highlighter that encourages (and can fix) proper quoting of variables
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [tokei](https://github.com/Aaronepower/tokei) - A program that allows you to count your code, quickly.
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
@@ -1170,6 +1172,7 @@
 
 ## TypeScript 
 
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [Energy.js](https://github.com/samuelgirardin/Energy.js) - 
@@ -1192,7 +1195,7 @@
 - [rxjs-tslint-rules](https://github.com/cartant/rxjs-tslint-rules) - TSLint rules for RxJS
 - [devkit](https://github.com/angular/devkit) - 
 - [magnemite](https://github.com/styfle/magnemite) - ⏺️ Capture repro steps with this screen recorder for websites, powered by Electron
-- [chromeless](https://github.com/graphcool/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [chromeless](https://github.com/prismagraphql/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [vscode-pwa](https://github.com/johnpapa/vscode-pwa) - VS Code Extension for PWA Tools
 - [compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular application
@@ -1203,7 +1206,6 @@
 - [angular-2-samples](https://github.com/thelgevold/angular-2-samples) - Angular sample components
 - [graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) - :zap: VSCode Extension - Sync all of your VSCode settings across multiple devices.
-- [HostMyDocs](https://github.com/TraceSoftwareInternational/HostMyDocs) - Small web server use to host documentation
 - [augury](https://github.com/rangle/augury) - Angular Debugging and Visualization Tools
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST
@@ -1223,7 +1225,7 @@
 ## Vala 
 
 - [pamac](https://github.com/manjaro/pamac) - Graphical Package Manager for Manjaro Linux (based on libalpm)
-- [ciano](https://github.com/robertsanseries/ciano) - A simple multimedia file converter.
+- [ciano](https://github.com/robertsanseries/ciano) - A multimedia file converter focused on simplicity.
 - [Akira](https://github.com/Alecaddd/Akira) - Native Linux App for UI and UX Design built in Vala and Gtk
 - [appeditor](https://github.com/donadigo/appeditor) - Edit application menu
 - [komorebi](https://github.com/iabem97/komorebi) - A beautiful and customizable desktop manager for Linux

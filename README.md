@@ -73,7 +73,6 @@
 - [reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
 - [i3](https://github.com/i3/i3) - A tiling window manager
-- [GBML](https://github.com/supremesonicbrazil/GBML) - Gaming Backup Multitool for Linux - Backup utility and database for Linux Steam games
 - [frivpn](https://github.com/znuh/frivpn) - multithreaded openvpn client (WIP)
 - [playerctl](https://github.com/acrisci/playerctl) - mpris command-line controller and library for spotify, vlc, audacious, bmp, xmms2, and others.
 - [FreeRTOS-Pebble](https://github.com/ginge/FreeRTOS-Pebble) - basic FreeRTOS implementation for Pebble Time
@@ -273,8 +272,9 @@
 
 ## Go 
 
+- [fathom](https://github.com/usefathom/fathom) - Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.
 - [github-releases-notifier](https://github.com/justwatchcom/github-releases-notifier) - Receive Slack notifications for new releases of your favorite software on GitHub.
-- [revive](https://github.com/mgechev/revive) - Fast (up to 6x faster than golint), configurable, extensible, flexible, and beautiful linter for Go. Drop-in replacement of golint.
+- [revive](https://github.com/mgechev/revive) - 🔥 Linter for Go. ~6x faster, configurable, extensible, and beautiful drop-in replacement of golint.
 - [figurine](https://github.com/arsham/figurine) - Print your name in style
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
@@ -283,7 +283,7 @@
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [komiser](https://github.com/mlabouardy/komiser) - AWS Environment Inspector 👮
 - [php-parser](https://github.com/z7zmey/php-parser) - PHP parser written in Go
-- [harbor](https://github.com/vmware/harbor) - An enterprise-class container registry server based on Docker Distribution
+- [harbor](https://github.com/vmware/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content
 - [govmomi](https://github.com/vmware/govmomi) - Go library for the VMware vSphere API
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
 - [FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Wireless, encrypted file transfer over automatically configured ad hoc networking. No network infrastructure required (access point, router, switch). Just two laptops with wireless chips in close range. Mac, Windows, and Linux.
@@ -301,7 +301,7 @@
 - [cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [wow](https://github.com/gernest/wow) - :open_mouth::exclamation::exclamation: Wow:exclamation: now my Go commandline app is spinning with :rainbow: and :horse:
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-- [go-prompt](https://github.com/c-bata/go-prompt) - Building a powerful interactive prompt in Go, inspired by python-prompt-toolkit.
+- [go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [globe](https://github.com/mmcloughlin/globe) - Globe wireframe visualizations in Golang
 - [kolpa](https://github.com/malisit/kolpa) - A fake data generator written in and for Go
 - [table](https://github.com/rodaine/table) - Go CLI Table Generator
@@ -384,6 +384,7 @@
 
 ## HTML 
 
+- [darkContrast](https://github.com/DmitriK/darkContrast) - Firefox addon that fixes low contrast text when using dark desktop theme
 - [oil](https://github.com/as-ideas/oil) - Open Source GPDR Consent Management Provider (CMP), Opt-In Layer (oil.js), supports the IAB Framework
 - [slogan](https://github.com/egoist/slogan) - :art: Generate logo for open-source projects
 - [after-dark](https://github.com/comfusion/after-dark) - :space_invader: A retro dark theme for Hugo
@@ -465,6 +466,9 @@
 
 ## JavaScript 
 
+- [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
+- [vivid](https://github.com/webkul/vivid) - a JavaScript library which is built to easily customize and use the SVG Icons with a blaze.
+- [github-guesser](https://github.com/david-szabo97/github-guesser) - A Starry Game
 - [hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
 - [tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Comply to the European cookie law
 - [protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps
@@ -621,7 +625,7 @@
 - [across-tabs](https://github.com/wingify/across-tabs) - Easy communication between cross-origin browser tabs
 - [lazyload](https://github.com/verlok/lazyload) - LazyLoad is a fast, lightweight and flexible script that speeds up your web application by loading images as they enter the viewport. It's written in plain "vanilla" JavaScript, uses Intersection Observers, and supports responsive images. It's also SEO-friendly and it has some other notable features.
 - [earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
-- [AnyChart](https://github.com/AnyChart/AnyChart) - AnyChart is a lightweight and robust JavaScript charting solution with great API and documentation. The chart types and unique features are numerous, and the library works easily with any development stack.
+- [AnyChart](https://github.com/AnyChart/AnyChart) - AnyChart is a lightweight and robust JavaScript charting solution with great API and documentation. The chart types and unique features are numerous, the library works easily with any development stack.
 - [dua.js](https://github.com/rudimk/dua.js) - A Node.js package for invoking divine blessings for one's Javascript code.
 - [loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
 - [nuclear](https://github.com/nukeop/nuclear) - Desktop music player focused on streaming from free sources
@@ -631,7 +635,7 @@
 - [wick-editor](https://github.com/zrispo/wick-editor) - A browser-based toolkit for making animations and interactive applets for the web
 - [planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [node-archy](https://github.com/substack/node-archy) - render nested hierarchies `npm ls` style with unicode pipes
-- [bit](https://github.com/teambit/bit) - Share code between projects with your team.
+- [bit](https://github.com/teambit/bit) - Scalable code sharing for the age of code components.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [a-million-times](https://github.com/MichaelHoste/a-million-times) - JS Clocks from "A million Times" (ReactJS)
@@ -686,7 +690,7 @@
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [visdown](https://github.com/amitkaps/visdown) - Visualisation Markdown
 - [zazu](https://github.com/tinytacoteam/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
-- [quickstart](https://github.com/angular/quickstart) - Angular 2 QuickStart - source from the documentation
+- [quickstart](https://github.com/angular/quickstart) - Angular QuickStart - source from the documentation
 - [release](https://github.com/zeit/release) - Generate changelogs with a single command
 - [papyrus](https://github.com/morkro/papyrus) - Unofficial Dropbox Paper desktop app
 - [sovereign](https://github.com/DemocracyEarth/sovereign) - 🌿 A token based liquid democracy.
@@ -825,7 +829,8 @@
 
 ## Others 
 
-- [github-guesser](https://github.com/david-szabo97/github-guesser) - A Starry Game
+- [bytesize-icons](https://github.com/danklammer/bytesize-icons) - Tiny style-controlled SVG iconset (94 icons, 10kb)
+- [applications](https://github.com/winepak/applications) - A collection of flatpak manifest for building Microsoft Windows applications with Wine via flatpak
 - [internet-speedtest-docker](https://github.com/pedrocesar-ti/internet-speedtest-docker) - Internet test running on Docker Compose.
 - [GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥
@@ -838,6 +843,7 @@
 - [la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
 - [awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
+- [GBML](https://github.com/supremesonicbrazil/GBML) - Gaming Backup Multitool for Linux - Backup utility and database for Linux Steam games
 - [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that *could* go in the head of your document
 - [mattermost-discord-dark-theme](https://github.com/sergiosanches/mattermost-discord-dark-theme) - A theme for Mattermost closely resembling Discord's dark theme.
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -1105,6 +1111,7 @@
 
 ## Rust 
 
+- [dutree](https://github.com/nachoparker/dutree) - a tool to analyze file system usage written in Rust
 - [shellharden](https://github.com/anordal/shellharden) - A bash syntax highlighter that encourages (and can fix) proper quoting of variables
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [tokei](https://github.com/Aaronepower/tokei) - A program that allows you to count your code, quickly.
@@ -1121,9 +1128,9 @@
 
 ## Shell 
 
+- [tmnationsforever](https://github.com/snapcrafters/tmnationsforever) - Track Mania Nations Forever soaked in WINE and Snapped for Linux
 - [docker-hackmd](https://github.com/hackmdio/docker-hackmd) - docker hackmd  image
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [lnxpcs](https://github.com/jstpcs/lnxpcs) - Linux Pics
 - [dockerfiles](https://github.com/Angristan/dockerfiles) - Dockerfiles 🐋
 - [docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [luv-icon-theme](https://github.com/Nitrux/luv-icon-theme) - Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.
@@ -1189,6 +1196,7 @@
 
 ## TypeScript 
 
+- [protractor-test-helper](https://github.com/hetznercloud/protractor-test-helper) - Helper functions to make e2e testing with protractor more fun
 - [jasmine-spec-reporter](https://github.com/bcaudan/jasmine-spec-reporter) - Real time console spec reporter for jasmine testing framework
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.

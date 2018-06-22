@@ -15,7 +15,7 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [D](#d)
-  - [Game Maker Language](#game maker language)
+  - [Game Maker Language](#game-maker-language)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HCL](#hcl)
@@ -43,7 +43,7 @@
   - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vala](#vala)
-  - [Visual Basic](#visual basic)
+  - [Visual Basic](#visual-basic)
   - [Vue](#vue)
 
 ## Assembly 
@@ -190,7 +190,7 @@
 - [GameLad](https://github.com/Dooskington/GameLad) - :tv: An (almost) fully featured Game Boy emulator.
 - [TextSuggest](https://github.com/bharadwaj-raju/TextSuggest) - MOVED: https://gitlab.com/bharadwaj-raju/TextSuggest
 - [Revive](https://github.com/LibreVR/Revive) - Play Oculus-exclusive games on the HTC Vive, scroll down for downloads and installation instructions. If you'd like to make a donation you can do so on my Patreon.
-- [tinyrenderer](https://github.com/ssloy/tinyrenderer) - Support c++ code for a short computer graphics course
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
 - [Client](https://github.com/Proj-Ascension/Client) - Client repository for Project Ascension, an open source game launcher.
 - [supertux](https://github.com/SuperTux/supertux) - SuperTux source code
 
@@ -240,7 +240,6 @@
 - [material-kit](https://github.com/creativetimofficial/material-kit) - Free Bootstrap Material Design UI Kit
 - [easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
 - [Pressure2](https://github.com/DirtDiglett/Pressure2) - Pressure² - a beautiful theme for your Steam Client.
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [Pressure-for-Steam](https://github.com/DirtDiglett/Pressure-for-Steam) - A skin to improve the visual aesthetics of Steam
@@ -272,18 +271,19 @@
 
 ## Go 
 
+- [minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [fathom](https://github.com/usefathom/fathom) - Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.
 - [github-releases-notifier](https://github.com/justwatchcom/github-releases-notifier) - Receive Slack notifications for new releases of your favorite software on GitHub.
 - [revive](https://github.com/mgechev/revive) - 🔥 Linter for Go. ~6x faster, configurable, extensible, and beautiful drop-in replacement of golint.
 - [figurine](https://github.com/arsham/figurine) - Print your name in style
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
-- [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+- [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [cleo](https://github.com/cheikhshift/cleo) - A GO web application profiler.
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [komiser](https://github.com/mlabouardy/komiser) - AWS Environment Inspector 👮
 - [php-parser](https://github.com/z7zmey/php-parser) - PHP parser written in Go
-- [harbor](https://github.com/vmware/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content
+- [harbor](https://github.com/vmware/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [govmomi](https://github.com/vmware/govmomi) - Go library for the VMware vSphere API
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
 - [FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Wireless, encrypted file transfer over automatically configured ad hoc networking. No network infrastructure required (access point, router, switch). Just two laptops with wireless chips in close range. Mac, Windows, and Linux.
@@ -343,7 +343,7 @@
 - [mutagen](https://github.com/havoc-io/mutagen) - Simple, cross-platform, continuous, bidirectional file synchronization
 - [play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
-- [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
+- [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
 - [spoofgo](https://github.com/sabey/spoofgo) - An Application for Spoofing Movement written in Golang
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [the-internet](https://github.com/nsec/the-internet) - The code of our Internet simulator
@@ -466,6 +466,11 @@
 
 ## JavaScript 
 
+- [hain](https://github.com/hainproject/hain) - An 'alt+space' launcher for Windows, built with Electron
+- [meme](https://github.com/voxmedia/meme) - Meme generator
+- [chameleon](https://github.com/sereneblue/chameleon) - A WebExtension port of Random Agent Spoofer
+- [schnack](https://github.com/schn4ck/schnack) - 🗣️ Simple node app for Disqus-like drop-in commenting on static websites
+- [del-cli](https://github.com/sindresorhus/del-cli) - Delete files and directories
 - [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [vivid](https://github.com/webkul/vivid) - a JavaScript library which is built to easily customize and use the SVG Icons with a blaze.
 - [github-guesser](https://github.com/david-szabo97/github-guesser) - A Starry Game
@@ -556,7 +561,7 @@
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
 - [donut](https://github.com/EtherbitHQ/donut) - 🏹 Dead-simple cross-platform cryptocurrency tracker.
-- [popmotion](https://github.com/Popmotion/popmotion) - A functional, reactive animation library.
+- [popmotion](https://github.com/Popmotion/popmotion) - Monorepo for Popmotion and Pose animation packages
 - [server](https://github.com/joyread/server) - Self-hosted Ebook Reader
 - [captainduckduck](https://github.com/githubsaturn/captainduckduck) - Automated Scalable Ready Webserver Package (automated Docker+nginx) - Heroku on Steroids
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -788,6 +793,7 @@
 - [beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [angular-hammer](https://github.com/RyanMullins/angular-hammer) - Hammer.js v2 support for AngularJS
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [angular-treeRepeat](https://github.com/tchatel/angular-treeRepeat) - Recursive repeater for AngularJS
 - [angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 - [jquery-drilldown](https://github.com/Cinamonas/jquery-drilldown) - A simple jQuery plugin for creating animated drilldown menus
@@ -988,6 +994,7 @@
 
 ## Python 
 
+- [SalienCheat](https://github.com/SteamDatabase/SalienCheat) - 👽 Cheating Salien minigame, the proper way
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [rofimoji](https://github.com/fdw/rofimoji) - A simple emoji picker for rofi
 - [jetserver](https://github.com/Raafas/jetserver) - JetBrains license server
@@ -1065,7 +1072,7 @@
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
 - [one-second-dash](https://github.com/ridiculousfish/one-second-dash) - Gently redirecting the Dash button through monitor mode
 - [country-codes](https://github.com/datasets/country-codes) - Comprehensive country code information, including ISO 3166 codes, ITU dialing codes, ISO 4217 currency codes, and many others
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [sc-controller](https://github.com/kozec/sc-controller) - User-mode driver and GTK3 based GUI for Steam Controller
 - [AntiRansom](https://github.com/YJesus/AntiRansom) - Fighting against ransomware using honeypots
 - [Telegram-LED-Alerter](https://github.com/Nathanael-Mtd/Telegram-LED-Alerter) - LED alerter when message received in Telegram group (with RaspberyPi/Pine64)
@@ -1090,7 +1097,7 @@
 
 ## Ruby 
 
-- [octobox](https://github.com/octobox/octobox) - :postbox: Take back control of your GitHub Notifications
+- [octobox](https://github.com/octobox/octobox) - :postbox: The best way to manage your GitHub Notifications
 - [duckrails](https://github.com/iridakos/duckrails) - A development tool to quickly & dynamically mock API endpoints :duck:
 - [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [catphish](https://github.com/ring0lab/catphish) - CATPHISH project - For phishing and corporate espionage. Perfect for RED TEAM.

@@ -55,7 +55,7 @@
 
 ## AutoIt 
 
-- [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) - Work, Play, Stream - Without the Stutter. Download Under Releases
+- [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) - Work, Play, Stream - Without the Stutter. Download using Releases button below
 
 ## Batchfile 
 
@@ -74,7 +74,7 @@
 - [LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
 - [i3](https://github.com/i3/i3) - A tiling window manager
 - [frivpn](https://github.com/znuh/frivpn) - multithreaded openvpn client (WIP)
-- [playerctl](https://github.com/acrisci/playerctl) - mpris command-line controller and library for spotify, vlc, audacious, bmp, xmms2, and others.
+- [playerctl](https://github.com/acrisci/playerctl) - 🎧 mpris command-line controller and library for spotify, vlc, audacious, bmp, xmms2, and others.
 - [FreeRTOS-Pebble](https://github.com/ginge/FreeRTOS-Pebble) - basic FreeRTOS implementation for Pebble Time
 - [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -241,7 +241,6 @@
 - [easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
 - [Pressure2](https://github.com/DirtDiglett/Pressure2) - Pressure² - a beautiful theme for your Steam Client.
 - [hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
-- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [Pressure-for-Steam](https://github.com/DirtDiglett/Pressure-for-Steam) - A skin to improve the visual aesthetics of Steam
 
 ## Clojure 
@@ -271,6 +270,7 @@
 
 ## Go 
 
+- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally-trusted development certificates with any names you'd like.
 - [minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [fathom](https://github.com/usefathom/fathom) - Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.
 - [github-releases-notifier](https://github.com/justwatchcom/github-releases-notifier) - Receive Slack notifications for new releases of your favorite software on GitHub.
@@ -340,7 +340,7 @@
 - [pliz](https://github.com/agence-webup/pliz) - A CLI tool to manage web projects
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
-- [mutagen](https://github.com/havoc-io/mutagen) - Simple, cross-platform, continuous, bidirectional file synchronization
+- [mutagen](https://github.com/havoc-io/mutagen) - Simple, cross-platform, continuous, bidirectional file synchronization for remote development
 - [play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
@@ -443,7 +443,7 @@
 - [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [Battery-Metrics](https://github.com/facebookincubator/Battery-Metrics) - Library that helps in instrumenting battery related system metrics.
 - [anonymouth](https://github.com/psal/anonymouth) - 
-- [StreetComplete](https://github.com/westnordost/StreetComplete) - Surveyor app for Android
+- [StreetComplete](https://github.com/westnordost/StreetComplete) - OSM Surveyor app for Android
 - [gitpitch](https://github.com/gitpitch/gitpitch) - The Markdown Presentation Service For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.
 - [Espresso](https://github.com/TonnyL/Espresso) - 🚚 Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing
 - [intellij-swagger](https://github.com/zalando/intellij-swagger) - A plugin to help you easily edit Swagger and OpenAPI specification files inside IntelliJ IDEA
@@ -466,6 +466,10 @@
 
 ## JavaScript 
 
+- [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
+- [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
+- [console.image](https://github.com/adriancooney/console.image) - The one thing Chrome Dev Tools didn't need.
+- [twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [hain](https://github.com/hainproject/hain) - An 'alt+space' launcher for Windows, built with Electron
 - [meme](https://github.com/voxmedia/meme) - Meme generator
 - [chameleon](https://github.com/sereneblue/chameleon) - A WebExtension port of Random Agent Spoofer
@@ -584,7 +588,7 @@
 - [amplify](https://github.com/charlestati/amplify) - A tiny script allowing inline image zoom
 - [git-stats-importer](https://github.com/IonicaBizau/git-stats-importer) - :chart_with_upwards_trend: Imports your commits from a repository into git-stats history.
 - [ngx-card](https://github.com/ihym/ngx-card) - Angular 2+ wrapper for https://github.com/jessepollak/card
-- [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Javascript Password Vault - Multi-Platform Desktop Application
+- [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Javascript Secrets Vault - Multi-Platform Desktop Application
 - [cloudRIG](https://github.com/williamparry/cloudRIG) - Stream your applications with Parsec and AWS on the cheap.
 - [csso](https://github.com/css/csso) - CSS minifier with structural optimizations
 - [instagif](https://github.com/shekit/instagif) - A DIY camera that prints GIFs
@@ -640,7 +644,7 @@
 - [wick-editor](https://github.com/zrispo/wick-editor) - A browser-based toolkit for making animations and interactive applets for the web
 - [planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [node-archy](https://github.com/substack/node-archy) - render nested hierarchies `npm ls` style with unicode pipes
-- [bit](https://github.com/teambit/bit) - Scalable code sharing for the age of code components.
+- [bit](https://github.com/teambit/bit) - Easily share code between projects with your team.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [a-million-times](https://github.com/MichaelHoste/a-million-times) - JS Clocks from "A million Times" (ReactJS)
@@ -740,7 +744,7 @@
 - [psvr-tutorial](https://github.com/cdra0624/psvr-tutorial) - to practice how to use psvr via laptop
 - [stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
 - [webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-- [uBlock](https://github.com/uBlockAdmin/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
+- [uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 - [nodejs-dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal!
 - [PresentationIvan](https://github.com/Ivanca/PresentationIvan) - 
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local domains
@@ -801,6 +805,7 @@
 - [cv-maker](https://github.com/awalgarg/cv-maker) - simple elegant markdown based resumes
 - [git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
 - [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A browser extension to improve TweetDeck with a lot of features
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [labella.js](https://github.com/twitter/labella.js) - Placing labels on a timeline without overlap.
 - [screenlog.js](https://github.com/chinchang/screenlog.js) - Bring console.log on the screen
@@ -869,7 +874,6 @@
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧
 - [mattermost-webrtc](https://github.com/mattermost/mattermost-webrtc) - 
-- [arch-tuto-installation](https://github.com/FredBezies/arch-tuto-installation) - Version en ligne de mon tutoriel pour installer Archlinux
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [dracula-theme](https://github.com/dracula/dracula-theme) - :scream: A dark theme for all the things!
 - [angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - Cheatsheet for developing ⚡lightning⚡ fast progressive Angular applications.
@@ -914,6 +918,7 @@
 
 ## PHP 
 
+- [phpunit-generator](https://github.com/paul-thebaud/phpunit-generator) - A PHPUnit 6 / 7 tests skeletons generator
 - [pixelfed](https://github.com/dansup/pixelfed) - Federated Image Sharing (WIP)
 - [typed](https://github.com/spatie/typed) - Improvements to PHP's type system in userland: generics, typed lists, tuples and structs
 - [collision](https://github.com/nunomaduro/collision) - Error Reporting for console/command-line PHP applications
@@ -994,6 +999,7 @@
 
 ## Python 
 
+- [dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
 - [SalienCheat](https://github.com/SteamDatabase/SalienCheat) - 👽 Cheating Salien minigame, the proper way
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [rofimoji](https://github.com/fdw/rofimoji) - A simple emoji picker for rofi
@@ -1135,6 +1141,7 @@
 
 ## Shell 
 
+- [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [tmnationsforever](https://github.com/snapcrafters/tmnationsforever) - Track Mania Nations Forever soaked in WINE and Snapped for Linux
 - [docker-hackmd](https://github.com/hackmdio/docker-hackmd) - docker hackmd  image
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
@@ -1162,6 +1169,7 @@
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [passbolt-compose](https://github.com/dlen/passbolt-compose) - Unofficial passbolt composer for docker. passbolt for the masses!
+- [arch-tuto-installation](https://github.com/FredBezies/arch-tuto-installation) - Version en ligne de mon tutoriel pour installer Archlinux
 - [nginx-autoinstall](https://github.com/Angristan/nginx-autoinstall) - Compile Nginx from source with custom modules on Debian and Ubuntu
 - [welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
 - [dynamodb-snapshot-containers](https://github.com/buildertools/dynamodb-snapshot-containers) - This project both wraps the DynamoDB devkit and provides a mechanism for capturing snapshots that can be attached to dependent services at test time to launch from well known states.

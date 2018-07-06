@@ -86,6 +86,7 @@
 - [openvpn-gui](https://github.com/OpenVPN/openvpn-gui) - OpenVPN GUI is a graphical frontend for OpenVPN running on Windows XP / Vista / 7 / 8. It creates an icon in the notification area from which you can control OpenVPN to start/stop your VPN tunnels, view the log and do other useful things.
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices.
 - [etkf](https://github.com/TartanLlama/etkf) - Embarrassingly templated keyboard framework
+- [mimipenguin](https://github.com/huntergregal/mimipenguin) - A tool to dump the login password from the current linux user
 - [CudaMiner](https://github.com/cbuchner1/CudaMiner) - a CUDA accelerated litecoin mining application based on pooler's CPU miner
 - [TimeStylePebble](https://github.com/freakified/TimeStylePebble) - A stylish, customizable face for the Pebble Time.
 - [gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
@@ -196,6 +197,7 @@
 
 ## CSS 
 
+- [CssGitHubWindows](https://github.com/Athari/CssGitHubWindows) - (UserStyle) GitHub Windows Edition [MIT]
 - [hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 - [mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [YggTorrentDark](https://github.com/a-carvallo/YggTorrentDark) - Thème sombre pour YggTorrent
@@ -270,7 +272,7 @@
 
 ## Go 
 
-- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally-trusted development certificates with any names you'd like.
+- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [fathom](https://github.com/usefathom/fathom) - Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.
 - [github-releases-notifier](https://github.com/justwatchcom/github-releases-notifier) - Receive Slack notifications for new releases of your favorite software on GitHub.
@@ -466,6 +468,9 @@
 
 ## JavaScript 
 
+- [browser-env](https://github.com/lukechilds/browser-env) - Simulates a global browser environment using jsdom
+- [node-http-status](https://github.com/prettymuchbryce/node-http-status) - Constants enumerating the HTTP status codes. All status codes defined in RFC1945 (HTTP/1.0, RFC2616 (HTTP/1.1), and RFC2518 (WebDAV) are supported.
+- [snap.svg.zpd](https://github.com/hueitan/snap.svg.zpd) - A zoom/pan/drag/rotate plugin for Snap.svg (useful for view only)
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [console.image](https://github.com/adriancooney/console.image) - The one thing Chrome Dev Tools didn't need.
@@ -487,7 +492,7 @@
 - [vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js.
 - [signale](https://github.com/klauscfhq/signale) - 👋 Hackable console logger
 - [shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
-- [nuage](https://github.com/mickael-kerjean/nuage) - A Dropbox-like interface for your existing data (with support for many backends)
+- [nuage](https://github.com/mickael-kerjean/nuage) - A Dropbox-like interface for your existing data: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, Google Drive
 - [linter-farch](https://github.com/PaulRosset/linter-farch) - Make sure the filenames stay the same, control them! 👁
 - [layerJS](https://github.com/layerJS/layerJS) - layerJS: Javascript UI composition framework
 - [GCE](https://github.com/Dewep/GCE) - Global Commands Execution is a desktop application that provides a single context to manage and run multiple scripts
@@ -702,7 +707,7 @@
 - [quickstart](https://github.com/angular/quickstart) - Angular QuickStart - source from the documentation
 - [release](https://github.com/zeit/release) - Generate changelogs with a single command
 - [papyrus](https://github.com/morkro/papyrus) - Unofficial Dropbox Paper desktop app
-- [sovereign](https://github.com/DemocracyEarth/sovereign) - 🌿 A token based liquid democracy.
+- [sovereign](https://github.com/DemocracyEarth/sovereign) - 🌿 Proof of stake democracy.
 - [plugins-legacy](https://github.com/meetfranz/plugins-legacy) - Franz Plugin Repository
 - [downthemall](https://github.com/downthemall/downthemall) - Official DownThemAll! repository. Pull requests welcome.
 - [tabdown](https://github.com/WangFenjin/tabdown) - Start (GitHub-Flavored) Markdown from new tabs in your favourite web browsers.
@@ -732,7 +737,6 @@
 - [logdown.js](https://github.com/caiogondim/logdown.js) - :pencil2: Debug utility with markdown support that runs on browser and server
 - [lumber](https://github.com/ForestAdmin/lumber) - The backend agnostic admin interface
 - [webhook.site](https://github.com/fredsted/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests in realtime.
-- [raml-server](https://github.com/farolfo/raml-server) - run a mocked server JUST based on a RAML API's definition .. zero coding
 - [github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
 - [ngDialog](https://github.com/likeastore/ngDialog) - Modals and popups provider for Angular.js applications
 - [Monitaure](https://github.com/Bertrand31/Monitaure) - A server uptime monitoring progressive web application
@@ -919,6 +923,7 @@
 ## PHP 
 
 - [phpunit-generator](https://github.com/paul-thebaud/phpunit-generator) - A PHPUnit 6 / 7 tests skeletons generator
+- [SalienCheat](https://github.com/SteamDatabase/SalienCheat) - 👽 Cheating Salien minigame, the proper way
 - [pixelfed](https://github.com/dansup/pixelfed) - Federated Image Sharing (WIP)
 - [typed](https://github.com/spatie/typed) - Improvements to PHP's type system in userland: generics, typed lists, tuples and structs
 - [collision](https://github.com/nunomaduro/collision) - Error Reporting for console/command-line PHP applications
@@ -999,8 +1004,10 @@
 
 ## Python 
 
+- [tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
+- [Seth](https://github.com/SySS-Research/Seth) - Perform a MitM attack and extract clear text credentials from RDP connections
+- [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
-- [SalienCheat](https://github.com/SteamDatabase/SalienCheat) - 👽 Cheating Salien minigame, the proper way
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [rofimoji](https://github.com/fdw/rofimoji) - A simple emoji picker for rofi
 - [jetserver](https://github.com/Raafas/jetserver) - JetBrains license server
@@ -1044,7 +1051,6 @@
 - [SickRage](https://github.com/SickRage/SickRage) - The new home of the SickRage community
 - [electrum](https://github.com/spesmilo/electrum) - Electrum; Bitcoin thin client
 - [opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall.
-- [mimipenguin](https://github.com/huntergregal/mimipenguin) - A tool to dump the login password from the current linux user
 - [rickify](https://github.com/kjempelodott/rickify) - How to rickroll Spotify for Android
 - [sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for docker engine
 - [iops](https://github.com/cxcv/iops) - Benchmark disk IOs

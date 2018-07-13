@@ -156,7 +156,7 @@
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
 - [incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx
-- [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
+- [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [CRYENGINE](https://github.com/CRYTEK/CRYENGINE) - CRYENGINE is a powerful real-time game development platform created by Crytek.
 - [leocad](https://github.com/leozide/leocad) - A CAD program for creating virtual LEGO models
 - [emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
@@ -197,6 +197,7 @@
 
 ## CSS 
 
+- [conventionalcommits.org](https://github.com/conventional-changelog/conventionalcommits.org) - The conventional commits specification
 - [CssGitHubWindows](https://github.com/Athari/CssGitHubWindows) - (UserStyle) GitHub Windows Edition [MIT]
 - [hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 - [mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
@@ -213,6 +214,7 @@
 - [adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme) - An adaptive Gtk+ theme based on Material Design Guidelines
 - [Tweeten](https://github.com/MehediH/Tweeten) - An intuitive and powerful Twitter experience built for those who get real work done.
 - [thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
+- [server](https://github.com/joyread/server) - Hero repository of joyread.
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
 - [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
@@ -243,6 +245,7 @@
 - [easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
 - [Pressure2](https://github.com/DirtDiglett/Pressure2) - Pressure² - a beautiful theme for your Steam Client.
 - [hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [Pressure-for-Steam](https://github.com/DirtDiglett/Pressure-for-Steam) - A skin to improve the visual aesthetics of Steam
 
 ## Clojure 
@@ -272,11 +275,13 @@
 
 ## Go 
 
+- [watchtower](https://github.com/v2tec/watchtower) - Automatically update running Docker containers
+- [kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [fathom](https://github.com/usefathom/fathom) - Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.
 - [github-releases-notifier](https://github.com/justwatchcom/github-releases-notifier) - Receive Slack notifications for new releases of your favorite software on GitHub.
-- [revive](https://github.com/mgechev/revive) - 🔥 Linter for Go. ~6x faster, configurable, extensible, and beautiful drop-in replacement of golint.
+- [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement of golint.
 - [figurine](https://github.com/arsham/figurine) - Print your name in style
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
@@ -290,7 +295,6 @@
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
 - [FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Wireless, encrypted file transfer over automatically configured ad hoc networking. No network infrastructure required (access point, router, switch). Just two laptops with wireless chips in close range. Mac, Windows, and Linux.
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
-- [texttop](https://github.com/tombh/texttop) - A fully interactive X Linux desktop rendered in TTY and streamable over SSH
 - [miniflux](https://github.com/miniflux/miniflux) - Minimalist feed reader written in Go and Postgresql
 - [dontbug](https://github.com/sidkshatriya/dontbug) - Dontbug is a reverse debugger for PHP
 - [ssllabs-scan](https://github.com/ssllabs/ssllabs-scan) - A command-line reference-implementation client for SSL Labs APIs, designed for automated and/or bulk testing.
@@ -336,7 +340,7 @@
 - [pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [go-fuck-yourself](https://github.com/adamryman/go-fuck-yourself) - go-fuck-yourself is a go wrapper that will make your code build, forcefully.
-- [chromedp](https://github.com/chromedp/chromedp) - Package chromedp is a faster, simpler way to drive browsers (Chrome, Edge, Safari, Android, etc) without external dependencies (ie, Selenium, PhantomJS, etc) using the Chrome Debugging Protocol.
+- [chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [go-tools](https://github.com/dominikh/go-tools) - A collection of tools and libraries for working with Go code, including linters and static analysis
 - [autovpn](https://github.com/adtac/autovpn) - Connect to a VPN in a country of your choice.
 - [pliz](https://github.com/agence-webup/pliz) - A CLI tool to manage web projects
@@ -468,6 +472,10 @@
 
 ## JavaScript 
 
+- [emojiporter](https://github.com/lisamai/emojiporter) - CLI utility to export/import custom emojis for Mattermost.
+- [clippy.js](https://github.com/smore-inc/clippy.js) - Add Clippy or his friends to any website for instant nostalgia.
+- [openapi-lint-vscode](https://github.com/Mermade/openapi-lint-vscode) - OpenAPI 2.0/3.0.x intellisense, validator, linter and converter extension for Visual Studio Code
+- [MMRA](https://github.com/thebaer/MMRA) - Make Medium Readable Again — a browser extension
 - [browser-env](https://github.com/lukechilds/browser-env) - Simulates a global browser environment using jsdom
 - [node-http-status](https://github.com/prettymuchbryce/node-http-status) - Constants enumerating the HTTP status codes. All status codes defined in RFC1945 (HTTP/1.0, RFC2616 (HTTP/1.1), and RFC2518 (WebDAV) are supported.
 - [snap.svg.zpd](https://github.com/hueitan/snap.svg.zpd) - A zoom/pan/drag/rotate plugin for Snap.svg (useful for view only)
@@ -555,6 +563,7 @@
 - [jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger, AsyncAPI & Semoasa definitions to Slate / Shins compatible markdown
 - [webgde-deck](https://github.com/PaulKinlan/webgde-deck) - An NPM module that hosts and aggregates collections of RSS feeds.
 - [kimetrak](https://github.com/david-legrand/kimetrak) - Quels sont les services qui vous pistent en ligne ? On vous aide à le découvrir. Par l'équipe de Nextinpact
@@ -571,7 +580,6 @@
 - [electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
 - [donut](https://github.com/EtherbitHQ/donut) - 🏹 Dead-simple cross-platform cryptocurrency tracker.
 - [popmotion](https://github.com/Popmotion/popmotion) - Monorepo for Popmotion and Pose animation packages
-- [server](https://github.com/joyread/server) - Self-hosted Ebook Reader
 - [captainduckduck](https://github.com/githubsaturn/captainduckduck) - Automated Scalable Ready Webserver Package (automated Docker+nginx) - Heroku on Steroids
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
@@ -751,7 +759,7 @@
 - [uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 - [nodejs-dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal!
 - [PresentationIvan](https://github.com/Ivanca/PresentationIvan) - 
-- [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local domains
+- [hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [perfBar](https://github.com/lafikl/perfBar) - 
 - [css_browser_selector](https://github.com/rafaelp/css_browser_selector) - A very small javascript library that allows you to create browser specific CSS to be merged into your normal classes. No more hacks or mischievous code in your CSS code.
 - [gaia-tools](https://github.com/flimshaw/gaia-tools) - Some scripts I use to process data from the Gaia satellite
@@ -809,7 +817,6 @@
 - [cv-maker](https://github.com/awalgarg/cv-maker) - simple elegant markdown based resumes
 - [git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
 - [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A browser extension to improve TweetDeck with a lot of features
-- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [labella.js](https://github.com/twitter/labella.js) - Placing labels on a timeline without overlap.
 - [screenlog.js](https://github.com/chinchang/screenlog.js) - Bring console.log on the screen
@@ -922,6 +929,7 @@
 
 ## PHP 
 
+- [cli](https://github.com/adhocore/cli) - PHP Console Application made easy- build great console apps with ease
 - [phpunit-generator](https://github.com/paul-thebaud/phpunit-generator) - A PHPUnit 6 / 7 tests skeletons generator
 - [SalienCheat](https://github.com/SteamDatabase/SalienCheat) - 👽 Cheating Salien minigame, the proper way
 - [pixelfed](https://github.com/dansup/pixelfed) - Federated Image Sharing (WIP)
@@ -1057,7 +1065,7 @@
 - [Circlean](https://github.com/CIRCL/Circlean) - USB key cleaner
 - [travis-pls](https://github.com/naftulikay/travis-pls) - A utility for disturbing standard output to keep Travis jobs alive.
 - [deck-chores](https://github.com/funkyfuture/deck-chores) - Job scheduler for Docker containers, configured via labels.
-- [Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software) - 🐧 A list of awesome applications, software, tools and other materials for Linux distros.
+- [Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software) - This repo has moved to Gitlab. Please don't open any issue or pull request here as it is now a mirror of Gitlab.  Ref: #375
 - [internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
 - [stethoscope](https://github.com/Netflix/stethoscope) - Personalized, user-focused recommendations for employee information security.
 - [marcel](https://github.com/brouberol/marcel) - Le docker français :whale: :fr:

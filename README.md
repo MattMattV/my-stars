@@ -135,7 +135,7 @@
 - [SWSH](https://github.com/SecureWindowsShell/SWSH) - Secure Windows Shell (SWSH - pronounced swish)
 - [spfilezilla](https://github.com/suoko/spfilezilla) - SPfilezilla - access document library and onedrive for business
 - [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application that allows you to farm steam cards using multiple steam accounts simultaneously.
-- [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Depressurizer is a program that helps you categorize your steam games.
+- [Depressurizer](https://github.com/Theo47/Depressurizer) - Depressurizer is a program that helps you categorize your steam games.
 - [IsoVoxel](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from MagicaVoxel .vox files
 - [peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP 7 compiler and runtime for .NET and .NET Core
 - [wincompose](https://github.com/samhocevar/wincompose) - Compose Key for Windows
@@ -299,7 +299,6 @@
 ## Dockerfile 
 
 - [scrcpy-docker](https://github.com/pierlon/scrcpy-docker) - Easily run scrcpy with Docker
-- [docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [Doomsday-Machine-2](https://github.com/johnjones4/Doomsday-Machine-2) - Doomsday Machine is a tool for backing up cloud services to a local machine.
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -310,7 +309,7 @@
 
 ## Go 
 
-- [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time
+- [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [gitbase](https://github.com/src-d/gitbase) - SQL interface to Git repositories, written in Go. https://docs.sourced.tech/gitbase
 - [drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
@@ -434,6 +433,7 @@
 
 ## HTML 
 
+- [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
 - [InriaFonts](https://github.com/BlackFoundry/InriaFonts) - Fonts and UFO Masters of Inria Serif and Inria Sans Typeface
 - [rxvision](https://github.com/jaredly/rxvision) - visualizer debugger for reactive streams
 - [small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types
@@ -520,12 +520,12 @@
 
 ## JavaScript 
 
+- [create-cozy-app](https://github.com/CPatchane/create-cozy-app) - A CLI to bootstrap a "zero-configuration" application for the Cozy V3 platform
 - [volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 - [Tusk](https://github.com/subdavis/Tusk) - 🐘 🔒 KeePass-compatible browser extension for filling passwords.
 - [ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [sqorn](https://github.com/lusakasa/sqorn) - A Javascript library for building SQL queries
-- [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
 - [Dotgrid](https://github.com/hundredrabbits/Dotgrid) - Vector Tool
 - [Left](https://github.com/hundredrabbits/Left) - Left is a distractionless writing application.
 - [update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app
@@ -586,7 +586,7 @@
 - [vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js.
 - [signale](https://github.com/klauscfhq/signale) - 👋 Hackable console logger
 - [shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
-- [nuage](https://github.com/mickael-kerjean/nuage) - FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox and Google Drive Client
+- [nuage](https://github.com/mickael-kerjean/nuage) - 🦄 A web client for FTP, SFTP, WebDAV, Git, S3, Minio, ....
 - [linter-farch](https://github.com/PaulRosset/linter-farch) - Make sure the filenames stay the same, control them! 👁
 - [layerJS](https://github.com/layerJS/layerJS) - layerJS: Javascript UI composition framework
 - [GCE](https://github.com/Dewep/GCE) - Global Commands Execution is a desktop application that provides a single context to manage and run multiple scripts
@@ -849,7 +849,6 @@
 - [css_browser_selector](https://github.com/rafaelp/css_browser_selector) - A very small javascript library that allows you to create browser specific CSS to be merged into your normal classes. No more hacks or mischievous code in your CSS code.
 - [gaia-tools](https://github.com/flimshaw/gaia-tools) - Some scripts I use to process data from the Gaia satellite
 - [10ktower](https://github.com/webrender/10ktower) - Tower Sim & Entry for 10k Apart 2016
-- [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers
 - [canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
@@ -1028,7 +1027,7 @@
 - [server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [sonerezh](https://github.com/Sonerezh/sonerezh) - A self-hosted, web-based application to stream your music, everywhere.
 - [glob](https://github.com/webmozart/glob) - A PHP implementation of Ant's glob.
-- [php-qrcode](https://github.com/chillerlan/php-qrcode) - A QR Code generator for PHP7+
+- [php-qrcode](https://github.com/chillerlan/php-qrcode) - A QR Code generator for PHP7.2+
 - [koel](https://github.com/phanan/koel) - 🎶A personal music streaming server that works.
 - [phpunit-slicer](https://github.com/wizaplace/phpunit-slicer) - Slice your PHPUnit test suite in chunks to run it in parallel
 - [asciitosvg](https://github.com/dhobsd/asciitosvg) - DANGER, WILL ROBINSON: THIS REPOSITORY IS IN MAINTENANCE MODE! I will not be continuing feature development or fixing bugs in this codebase. I will continue to review and accept pull requests that do this. Please click the following link to view the actively developed ASCIIToSVG codebase, which is written in Go.
@@ -1107,6 +1106,7 @@
 
 ## Python 
 
+- [halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
 - [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 - [hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) - :trophy: Show some love to your contributors!  A widget for your repo README. Visual and clean. Refreshes every hour.
@@ -1187,8 +1187,9 @@
 - [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [sysconf](https://github.com/giampaolo/sysconf) - Personal system config scripts and utils
 - [ding](https://github.com/liviu-/ding) - Lightweight time management CLI tool
+- [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [spotify-playlist-downloader](https://github.com/ashishmadeti/spotify-playlist-downloader) - Download spotify playlists using youtube-dl
-- [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Modifications to Google Chromium for removing Google integration and enhancing privacy, control, and transparency
+- [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [runmultithread](https://github.com/juanpabloaj/runmultithread) - Run the same process with different inputs in different threads
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
 - [one-second-dash](https://github.com/ridiculousfish/one-second-dash) - Gently redirecting the Dash button through monitor mode
@@ -1218,7 +1219,7 @@
 ## Ruby 
 
 - [dev.to](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow
-- [octobox](https://github.com/octobox/octobox) - :postbox: Untangle your GitHub Notifications
+- [octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
 - [duckrails](https://github.com/iridakos/duckrails) - A development tool to quickly & dynamically mock API endpoints :duck:
 - [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [catphish](https://github.com/ring0lab/catphish) - CATPHISH project - For phishing and corporate espionage. Perfect for RED TEAM.
@@ -1263,6 +1264,7 @@
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [tmnationsforever](https://github.com/snapcrafters/tmnationsforever) - Track Mania Nations Forever soaked in WINE and Snapped for Linux
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [luv-icon-theme](https://github.com/Nitrux/luv-icon-theme) - Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.
 - [mattermost-docker](https://github.com/mattermost/mattermost-docker) - Dockerfile for mattermost in production
 - [Remove-Gapps](https://github.com/CHEF-KOCH/Remove-Gapps) - Remove Open Gapps project

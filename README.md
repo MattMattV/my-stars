@@ -120,6 +120,7 @@
 
 ## C# # 
 
+- [GitViz](https://github.com/Readify/GitViz) - Real-time, presentation-quality, Git visualizer to help with Git training
 - [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net.
 - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
@@ -139,7 +140,7 @@
 - [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application that allows you to farm steam cards using multiple steam accounts simultaneously.
 - [Depressurizer](https://github.com/Theo47/Depressurizer) - Depressurizer is a program that helps you categorize your steam games.
 - [IsoVoxel](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from MagicaVoxel .vox files
-- [peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP 7 compiler and runtime for .NET and .NET Core
+- [peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP compiler and runtime for .NET and .NET Core
 - [wincompose](https://github.com/samhocevar/wincompose) - Compose Key for Windows
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 - [RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTorrent, Azureus, BitComet, ABC and etc.) and it will NOT download/upload the files on a torrent - it only can fake download/upload. RatioMaster.NET has hardcoded emulations for the most commonly used BitTorrent clients: uTorrent, BitComet, Azureus, ABC, BitLord, BTuga, BitTornado, Burst, BitTyrant, BitSpirit.
@@ -153,7 +154,7 @@
 ## C++ 
 
 - [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
-- [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [BakkesModSDK](https://github.com/Bakkes/BakkesModSDK) - The current BakkesModSDK (Unofficial SDK for Rocket League)
 - [BakkesMod2-Plugins](https://github.com/Bakkes/BakkesMod2-Plugins) - Default plugins for BakkesMod 2 (A Rocket League training framework)
@@ -315,6 +316,7 @@
 
 ## Go 
 
+- [terraform-provider-virtualbox](https://github.com/terra-farm/terraform-provider-virtualbox) - VirtualBox provider for Terraform
 - [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 - [mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation
@@ -443,6 +445,7 @@
 
 ## HTML 
 
+- [statup](https://github.com/hunterlong/statup) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [jsonlint.com](https://github.com/circlecell/jsonlint.com) - Source code for jsonlint.com
 - [fancy-border-radius](https://github.com/9elements/fancy-border-radius) - When you use eight values specifying border-radius in CSS, you can build organic looking shapes. Simply use our Generator at
 - [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
@@ -534,6 +537,8 @@
 
 ## JavaScript 
 
+- [invaderz](https://github.com/victorqribeiro/invaderz) - Space invaders, but the invaders evolve with genetic algorithm
+- [protractor-console](https://github.com/Updater/protractor-console) - 
 - [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
 - [mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [SierraDeathGenerator](https://github.com/foone/SierraDeathGenerator) - Generate death screens from Sierra games
@@ -571,7 +576,7 @@
 - [storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
 - [mdx-deck](https://github.com/jxnblk/mdx-deck) - :spades: MDX-based presentation decks
 - [Aether](https://github.com/NoiSek/Aether) - A sleek ArchLinux login manager for lightdm-webkit. ( lightdm-webkit-theme-aether )
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 🤖 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [unswitch](https://github.com/vaneenige/unswitch) - 🕹 A tiny event handler for Switch controllers!
 - [trends](https://github.com/hanford/trends) - ultra high performance github trending application
 - [zeu](https://github.com/shzlw/zeu) - A JavaScript library for real-time visualization
@@ -610,7 +615,7 @@
 - [linter-farch](https://github.com/PaulRosset/linter-farch) - Make sure the filenames stay the same, control them! 👁
 - [layerJS](https://github.com/layerJS/layerJS) - layerJS: Javascript UI composition framework
 - [GCE](https://github.com/Dewep/GCE) - Global Commands Execution is a desktop application that provides a single context to manage and run multiple scripts
-- [TbSync](https://github.com/jobisoft/TbSync) - [Thunderbird Add-On] Sync contacts, tasks and calendars to thunderbird. Currently supporting Exchange ActiveSync (EAS) and sabre/dav (CalDAV & CardDAV).
+- [TbSync](https://github.com/jobisoft/TbSync) - [Thunderbird Add-On] Central UI to manage sync accounts which contain contacts, tasks and calendars. Currently supporting Exchange ActiveSync (EAS-4-TbSync) and CalDAV/CardDAV (DAV-4-TbSync).
 - [oui](https://github.com/wearekuva/oui) - Objects go in, UI comes out
 - [ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The Node.js cli interactive workflow
 - [merge-images](https://github.com/lukechilds/merge-images) - Easily compose images together without messing around with canvas
@@ -788,7 +793,6 @@
 - [fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
 - [Pikaday](https://github.com/Pikaday/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 - [KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - Web based IRC client
-- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [native-notifier](https://github.com/paulmillr/native-notifier) - Use native system notifications in node.js without third-party libraries
 - [core-js](https://github.com/zloirock/core-js) - Standard Library
 - [exchangecalendar](https://github.com/Ericsson/exchangecalendar) - Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider.
@@ -820,7 +824,7 @@
 - [quickstart](https://github.com/angular/quickstart) - Angular QuickStart - source from the documentation
 - [release](https://github.com/zeit/release) - Generate changelogs with a single command
 - [papyrus](https://github.com/morkro/papyrus) - 📄 Unofficial Dropbox Paper desktop app
-- [sovereign](https://github.com/DemocracyEarth/sovereign) - 🌿 Blockchain democracy.
+- [sovereign](https://github.com/DemocracyEarth/sovereign) - 🌎 Blockchain democracy.
 - [plugins-legacy](https://github.com/meetfranz/plugins-legacy) - Franz Plugin Repository
 - [downthemall](https://github.com/downthemall/downthemall) - Official DownThemAll! repository. Pull requests welcome.
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
@@ -833,7 +837,7 @@
 - [browsix](https://github.com/plasma-umass/browsix) - Browsix is a Unix-like operating system for the browser.
 - [chrome-page-graph](https://github.com/cyrus-and/chrome-page-graph) - Chrome extension to generate interactive page dependency graphs
 - [angular-eonasdan-datetimepicker](https://github.com/atais/angular-eonasdan-datetimepicker) - A wrapper directive around the Eonasdan Datepicker v4 component.
-- [inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces
+- [inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [--shots](https://github.com/binjospookie/--shots) - Simple, minimalistic, and task-focused application for creating screenshots. Available for LInux, MacOS, WIndows
 - [alduin](https://github.com/AlduinApp/alduin) - An RSS, Atom and JSON  feed aggregator available on Windows and Linux.
@@ -882,7 +886,7 @@
 - [electron-chrome](https://github.com/koush/electron-chrome) - 
 - [template-colors](https://github.com/icodeforlove/template-colors) - :art: beautiful color usage within template literals
 - [svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
-- [etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
 - [express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com
 - [regl-cnn](https://github.com/Erkaman/regl-cnn) - Digit recognition with Convolutional Neural Networks in WebGL
@@ -927,7 +931,7 @@
 
 ## Kotlin 
 
-- [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🤖 Sourcerer app makes a visual profile from your GitHub and git repositories.
+- [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
 
@@ -955,6 +959,7 @@
 
 ## Others 
 
+- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - :pill: Curated list of falsehoods programmers believe in.
 - [vscode-material-mt](https://github.com/m-thorsen/vscode-material-mt) - A simpler Material Theme for Visual Studio Code
 - [gdpr](https://github.com/aeris/gdpr) - GDPR letter template
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -965,7 +970,7 @@
 - [github-monitoring](https://github.com/vegasbrianc/github-monitoring) - Monitor your GitHub Repos with Docker & Prometheus
 - [bytesize-icons](https://github.com/danklammer/bytesize-icons) - Tiny style-controlled SVG iconset (94 icons, 10kb)
 - [applications](https://github.com/winepak/applications) - A collection of flatpak manifest for building Microsoft Windows applications with Wine via flatpak
-- [internet-speedtest-docker](https://github.com/pedrocesar-ti/internet-speedtest-docker) - Internet test running on Docker Compose.
+- [internet-speedtest-docker](https://github.com/pedrocesar-ti/internet-speedtest-docker) - Internet testing running on Docker Compose.
 - [GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
@@ -991,7 +996,6 @@
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [game-modes](https://github.com/maniaplanet/game-modes) - Maniaplanet scripts and resources
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧
 - [mattermost-webrtc](https://github.com/mattermost/mattermost-webrtc) - 
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
@@ -1007,6 +1011,7 @@
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [ping](https://github.com/thechangelog/ping) - Ping! Share show ideas, feedback, or general questions. Just create an issue.
 - [awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [Secure-Firefox](https://github.com/delight-im/Secure-Firefox) - Hardening Mozilla Firefox for maximum privacy and security
 - [keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide) - Guide on how to design keyboard PCBs with KiCad
@@ -1128,6 +1133,8 @@
 
 ## Python 
 
+- [WebMap](https://github.com/Rev3rseSecurity/WebMap) - Nmap Web Dashboard and Reporting
+- [gping](https://github.com/orf/gping) - Ping, but with a graph
 - [isso](https://github.com/posativ/isso) - a Disqus alternative
 - [emojos.in](https://github.com/ilianaw/emojos.in) - 
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -1308,6 +1315,7 @@
 - [dotfiles](https://github.com/KevOBrien/dotfiles) - 
 - [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - The most awesome Powerline theme for ZSH around!
 - [graphql](https://github.com/facebook/graphql) - GraphQL is a query language and execution engine tied to any backend service.
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [ezservermonitor-sh](https://github.com/shevabam/ezservermonitor-sh) - eZ Server Monitor`sh - A simple and lightweight dashboard for Linux
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall) - Compile Nginx from source with custom modules on Debian and Ubuntu
@@ -1417,6 +1425,7 @@
 
 ## Vue 
 
+- [lightdm-webkit-theme-litarvan](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) - Litarvan's LightDM HTML Theme
 - [eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
 
 
